@@ -2,7 +2,7 @@ name: Run SmartStream
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run every Monday at 00:00 UTC
+    - cron: '0 0 * * *'  # Run every day at 00:00 UTC
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
