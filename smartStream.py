@@ -157,7 +157,7 @@ def main():
 
     team_name_mapping = create_team_name_mapping()
 
-    start_date = datetime(2024, 8, 22)
+    start_date = datetime.now().date()
     matchups_by_day = find_matchups(start_date)
 
     pitchers = get_espn_pitchers()
