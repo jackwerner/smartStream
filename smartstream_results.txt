@@ -1,25 +1,16 @@
-Potential streaming options for the week starting 2024-08-23:
-
-Friday:
-  Chicago Cubs (Kyle Hendricks) @ Miami Marlins (Max Meyer)
-    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
-      Opponent: Miami Marlins
-      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
-    Potential streaming option: Max Meyer (Miami Marlins, R)
-      Opponent: Chicago Cubs
-      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
-    Potential streaming option: Chris Flexen (Chicago White Sox, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+Potential streaming options for the week starting 2024-08-24:
 
 Saturday:
-  Texas Rangers (Jon Gray) @ Cleveland Guardians (Ben Lively)
-    Potential streaming option: Jon Gray (Texas Rangers, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+  Chicago Cubs (Shota Imanaga) @ Miami Marlins (Valente Bellozo)
+    Potential streaming option: Valente Bellozo (Miami Marlins, R)
+      Opponent: Chicago Cubs
+      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
 
 Sunday:
-  Detroit Tigers (TBD) @ Chicago White Sox (Jonathan Cannon)
+  Chicago Cubs (Javier Assad) @ Miami Marlins (Adam Oller)
+    Potential streaming option: Adam Oller (Miami Marlins, R)
+      Opponent: Chicago Cubs
+      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
