@@ -1,23 +1,41 @@
-Potential streaming options for the week starting 2024-08-24:
-
-Saturday:
-  Chicago Cubs (Shota Imanaga) @ Miami Marlins (Valente Bellozo)
-    Potential streaming option: Valente Bellozo (Miami Marlins, R)
-      Opponent: Chicago Cubs
-      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
+Potential streaming options for the week starting 2024-08-25:
 
 Sunday:
-  Chicago Cubs (Javier Assad) @ Miami Marlins (Adam Oller)
+  Cincinnati Reds (Nick Martinez) @ Pittsburgh Pirates (Luis L. Ortiz)
+    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
     Potential streaming option: Adam Oller (Miami Marlins, R)
       Opponent: Chicago Cubs
       Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
+    Potential streaming option: Kolby Allard (Philadelphia Phillies, L)
+      Opponent: Kansas City Royals
+      Opponent stats vs LHP: wRC+: 88.22, K%: 0.16%
+    Potential streaming option: Beau Brieske (Detroit Tigers, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
 
 Monday:
-  Detroit Tigers (TBD) @ Chicago White Sox (Davis Martin)
+  Kansas City Royals (Alec Marsh) @ Cleveland Guardians (TBD)
+    Potential streaming option: Alec Marsh (Kansas City Royals, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+
+Tuesday:
+  Kansas City Royals (Michael Lorenzen) @ Cleveland Guardians (Gavin Williams)
+    Potential streaming option: Michael Lorenzen (Kansas City Royals, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+
+Wednesday:
+  Texas Rangers (TBD) @ Chicago White Sox (Chris Flexen)
+    Potential streaming option: Chris Flexen (Chicago White Sox, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
 
