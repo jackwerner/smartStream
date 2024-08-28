@@ -1,13 +1,4 @@
-Potential streaming options for the week starting 2024-08-27:
-
-Tuesday:
-  Los Angeles Angels (Johnny Cueto) @ Detroit Tigers (Brant Hurter)
-    Potential streaming option: Johnny Cueto (Los Angeles Angels, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
-    Potential streaming option: Simeon Woods Richardson (Minnesota Twins, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+Potential streaming options for the week starting 2024-08-28:
 
 Wednesday:
   Chicago Cubs (Kyle Hendricks) @ Pittsburgh Pirates (Paul Skenes)
@@ -17,9 +8,12 @@ Wednesday:
     Potential streaming option: Chris Flexen (Chicago White Sox, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
-    Potential streaming option: Max Meyer (Miami Marlins, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Griffin Canning (Los Angeles Angels, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+    Potential streaming option: Fernando Cruz (Cincinnati Reds, R)
+      Opponent: Oakland Athletics
+      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
     Potential streaming option: Kyle Freeland (Colorado Rockies, L)
       Opponent: Miami Marlins
       Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
@@ -32,4 +26,7 @@ Thursday:
     Potential streaming option: Bradley Blalock (Colorado Rockies, R)
       Opponent: Miami Marlins
       Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
+    Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
+      Opponent: Oakland Athletics
+      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
 
