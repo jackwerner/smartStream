@@ -1,32 +1,17 @@
-Potential streaming options for the week starting 2024-08-28:
-
-Wednesday:
-  Chicago Cubs (Kyle Hendricks) @ Pittsburgh Pirates (Paul Skenes)
-    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
-    Potential streaming option: Chris Flexen (Chicago White Sox, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
-    Potential streaming option: Griffin Canning (Los Angeles Angels, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
-    Potential streaming option: Fernando Cruz (Cincinnati Reds, R)
-      Opponent: Oakland Athletics
-      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
-    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+Potential streaming options for the week starting 2024-08-29:
 
 Thursday:
-  Miami Marlins (Valente Bellozo) @ Colorado Rockies (Bradley Blalock)
+  Texas Rangers (Nathan Eovaldi) @ Chicago White Sox (Nick Nastrini)
+    Potential streaming option: Nick Nastrini (Chicago White Sox, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
     Potential streaming option: Valente Bellozo (Miami Marlins, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
-      Opponent: Miami Marlins
-      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
-    Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
-      Opponent: Oakland Athletics
-      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
+
+Friday:
+  New York Mets (Tylor Megill) @ Chicago White Sox (Jonathan Cannon)
+    Potential streaming option: Tylor Megill (New York Mets, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
 
