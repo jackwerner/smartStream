@@ -1,17 +1,26 @@
-Potential streaming options for the week starting 2024-08-29:
-
-Thursday:
-  Texas Rangers (Nathan Eovaldi) @ Chicago White Sox (Nick Nastrini)
-    Potential streaming option: Nick Nastrini (Chicago White Sox, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
-    Potential streaming option: Valente Bellozo (Miami Marlins, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+Potential streaming options for the week starting 2024-08-30:
 
 Friday:
-  New York Mets (Tylor Megill) @ Chicago White Sox (Jonathan Cannon)
-    Potential streaming option: Tylor Megill (New York Mets, R)
-      Opponent: Chicago White Sox
-      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
+  Miami Marlins (Adam Oller) @ San Francisco Giants (Blake Snell)
+    Potential streaming option: Adam Oller (Miami Marlins, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
+
+Saturday:
+  Oakland Athletics (Joey Estes) @ Texas Rangers (Cody Bradford)
+    Potential streaming option: Joey Estes (Oakland Athletics, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
+    Potential streaming option: Edward Cabrera (Miami Marlins, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
+
+Sunday:
+  Oakland Athletics (Mitch Spence) @ Texas Rangers (TBD)
+    Potential streaming option: Mitch Spence (Oakland Athletics, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
+    Potential streaming option: Caden Dana (Los Angeles Angels, Unknown)
+      Opponent: Seattle Mariners
+      Opponent stats vs UnknownHP: wRC+: 85.40, K%: 0.28%
 
