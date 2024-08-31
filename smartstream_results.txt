@@ -1,22 +1,19 @@
-Potential streaming options for the week starting 2024-08-30:
-
-Friday:
-  Miami Marlins (Adam Oller) @ San Francisco Giants (Blake Snell)
-    Potential streaming option: Adam Oller (Miami Marlins, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
+Potential streaming options for the week starting 2024-08-31:
 
 Saturday:
   Oakland Athletics (Joey Estes) @ Texas Rangers (Cody Bradford)
     Potential streaming option: Joey Estes (Oakland Athletics, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
-    Potential streaming option: Edward Cabrera (Miami Marlins, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
+    Potential streaming option: Mason Black (San Francisco Giants, R)
+      Opponent: Miami Marlins
+      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
 
 Sunday:
-  Oakland Athletics (Mitch Spence) @ Texas Rangers (TBD)
+  Pittsburgh Pirates (Mitch Keller) @ Cleveland Guardians (Alex Cobb)
+    Potential streaming option: Alex Cobb (Cleveland Guardians, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
     Potential streaming option: Mitch Spence (Oakland Athletics, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
