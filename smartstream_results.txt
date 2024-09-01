@@ -1,22 +1,13 @@
-Potential streaming options for the week starting 2024-08-31:
-
-Saturday:
-  Oakland Athletics (Joey Estes) @ Texas Rangers (Cody Bradford)
-    Potential streaming option: Joey Estes (Oakland Athletics, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
-    Potential streaming option: Mason Black (San Francisco Giants, R)
-      Opponent: Miami Marlins
-      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
+Potential streaming options for the week starting 2024-09-01:
 
 Sunday:
-  Pittsburgh Pirates (Mitch Keller) @ Cleveland Guardians (Alex Cobb)
-    Potential streaming option: Alex Cobb (Cleveland Guardians, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
-    Potential streaming option: Mitch Spence (Oakland Athletics, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 83.24, K%: 0.21%
+  Chicago Cubs (Jordan Wicks) @ Washington Nationals (Mitchell Parker)
+    Potential streaming option: Jordan Wicks (Chicago Cubs, L)
+      Opponent: Washington Nationals
+      Opponent stats vs LHP: wRC+: 86.77, K%: 0.18%
+    Potential streaming option: Cooper Criswell (Boston Red Sox, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
     Potential streaming option: Caden Dana (Los Angeles Angels, Unknown)
       Opponent: Seattle Mariners
       Opponent stats vs UnknownHP: wRC+: 85.40, K%: 0.28%
