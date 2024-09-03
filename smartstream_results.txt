@@ -1,16 +1,10 @@
-Potential streaming options for the week starting 2024-09-02:
+Potential streaming options for the week starting 2024-09-03:
 
 Tuesday:
-  Chicago White Sox (Nick Nastrini) @ Baltimore Orioles (Cade Povich)
-    Potential streaming option: Cade Povich (Baltimore Orioles, L)
-      Opponent: Chicago White Sox
-      Opponent stats vs LHP: wRC+: 77.31, K%: 0.26%
-    Potential streaming option: Patrick Corbin (Washington Nationals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: David Festa (Minnesota Twins, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
+  Pittsburgh Pirates (Paul Skenes) @ Chicago Cubs (Kyle Hendricks)
+    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
 
 Wednesday:
   Washington Nationals (MacKenzie Gore) @ Miami Marlins (Valente Bellozo)
@@ -20,4 +14,10 @@ Wednesday:
     Potential streaming option: Bradley Blalock (Colorado Rockies, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+
+Friday:
+  Cincinnati Reds (TBD) @ New York Mets (Jose Quintana)
+    Potential streaming option: Jose Quintana (New York Mets, L)
+      Opponent: Cincinnati Reds
+      Opponent stats vs LHP: wRC+: 93.71, K%: 0.25%
 
