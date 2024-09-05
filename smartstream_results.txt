@@ -1,17 +1,35 @@
-Potential streaming options for the week starting 2024-09-04:
+Potential streaming options for the week starting 2024-09-05:
 
-Wednesday:
-  Minnesota Twins (Ronny Henriquez) @ Tampa Bay Rays (Cole Sulser)
-    Potential streaming option: Ronny Henriquez (Minnesota Twins, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
-    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+Thursday:
+  Philadelphia Phillies (Ranger Suárez) @ Miami Marlins (Adam Oller)
+    Potential streaming option: Adam Oller (Miami Marlins, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
 
 Friday:
+  Philadelphia Phillies (Zack Wheeler) @ Miami Marlins (Edward Cabrera)
+    Potential streaming option: Edward Cabrera (Miami Marlins, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
+
+Saturday:
   Cincinnati Reds (TBD) @ New York Mets (Jose Quintana)
     Potential streaming option: Jose Quintana (New York Mets, L)
       Opponent: Cincinnati Reds
       Opponent stats vs LHP: wRC+: 93.71, K%: 0.25%
+    Potential streaming option: Darren McCaughan (Miami Marlins, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
+    Potential streaming option: Jack Leiter (Texas Rangers, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+    Potential streaming option: Cooper Criswell (Boston Red Sox, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
+
+Sunday:
+  Philadelphia Phillies (TBD) @ Miami Marlins (Max Meyer)
+    Potential streaming option: Max Meyer (Miami Marlins, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
 
