@@ -1,22 +1,7 @@
-Potential streaming options for the week starting 2024-09-06:
-
-Friday:
-  Tampa Bay Rays (Shane Baz) @ Baltimore Orioles (Dean Kremer)
-    Potential streaming option: Dean Kremer (Baltimore Orioles, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
-    Potential streaming option: Edward Cabrera (Miami Marlins, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
-    Potential streaming option: Gerson Garabito (Texas Rangers, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+Potential streaming options for the week starting 2024-09-07:
 
 Saturday:
-  Cincinnati Reds (TBD) @ New York Mets (Jose Quintana)
-    Potential streaming option: Jose Quintana (New York Mets, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 93.71, K%: 0.25%
+  Philadelphia Phillies (Aaron Nola) @ Miami Marlins (Darren McCaughan)
     Potential streaming option: Darren McCaughan (Miami Marlins, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
