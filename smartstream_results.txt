@@ -1,26 +1,26 @@
-Potential streaming options for the week starting 2024-09-07:
-
-Saturday:
-  Philadelphia Phillies (Aaron Nola) @ Miami Marlins (Darren McCaughan)
-    Potential streaming option: Darren McCaughan (Miami Marlins, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
-    Potential streaming option: Jack Leiter (Texas Rangers, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
-    Potential streaming option: Cooper Criswell (Boston Red Sox, R)
-      Opponent: Chicago White Sox
-      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
+Potential streaming options for the week starting 2024-09-08:
 
 Sunday:
-  Philadelphia Phillies (Seth Johnson) @ Miami Marlins (Max Meyer)
+  Philadelphia Phillies (Seth Johnson) @ Miami Marlins (Edward Cabrera)
     Potential streaming option: Seth Johnson (Philadelphia Phillies, Unknown)
       Opponent: Miami Marlins
       Opponent stats vs UnknownHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: Max Meyer (Miami Marlins, R)
+    Potential streaming option: Edward Cabrera (Miami Marlins, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
     Potential streaming option: J.T. Ginn (Oakland Athletics, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+
+Tuesday:
+  Cleveland Guardians (TBD) @ Chicago White Sox (Jonathan Cannon)
+    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+
+Wednesday:
+  Cleveland Guardians (Matthew Boyd) @ Chicago White Sox (Davis Martin)
+    Potential streaming option: Davis Martin (Chicago White Sox, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
 
