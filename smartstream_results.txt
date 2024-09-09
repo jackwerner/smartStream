@@ -1,26 +1,47 @@
-Potential streaming options for the week starting 2024-09-08:
+Potential streaming options for the week starting 2024-09-09:
 
-Sunday:
-  Philadelphia Phillies (Seth Johnson) @ Miami Marlins (Edward Cabrera)
-    Potential streaming option: Seth Johnson (Philadelphia Phillies, Unknown)
-      Opponent: Miami Marlins
-      Opponent stats vs UnknownHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: Edward Cabrera (Miami Marlins, R)
+Monday:
+  Tampa Bay Rays (Cole Sulser) @ Philadelphia Phillies (Cristopher Sánchez)
+    Potential streaming option: Cole Sulser (Tampa Bay Rays, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
-    Potential streaming option: J.T. Ginn (Oakland Athletics, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+    Potential streaming option: Valente Bellozo (Miami Marlins, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+    Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
+      Opponent: Chicago White Sox
+      Opponent stats vs LHP: wRC+: 77.31, K%: 0.26%
 
 Tuesday:
-  Cleveland Guardians (TBD) @ Chicago White Sox (Jonathan Cannon)
+  Colorado Rockies (Bradley Blalock) @ Detroit Tigers (Keider Montero)
+    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+    Potential streaming option: Keider Montero (Detroit Tigers, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Adam Oller (Miami Marlins, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
 
 Wednesday:
-  Cleveland Guardians (Matthew Boyd) @ Chicago White Sox (Davis Martin)
+  Miami Marlins (TBD) @ Pittsburgh Pirates (Bailey Falter)
+    Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+    Potential streaming option: Casey Mize (Detroit Tigers, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Colin Rea (Milwaukee Brewers, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
 
