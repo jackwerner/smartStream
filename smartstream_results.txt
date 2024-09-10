@@ -1,19 +1,4 @@
-Potential streaming options for the week starting 2024-09-09:
-
-Monday:
-  Tampa Bay Rays (Cole Sulser) @ Philadelphia Phillies (Cristopher Sánchez)
-    Potential streaming option: Cole Sulser (Tampa Bay Rays, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 98.87, K%: 0.23%
-    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
-    Potential streaming option: Valente Bellozo (Miami Marlins, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
-    Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
-      Opponent: Chicago White Sox
-      Opponent stats vs LHP: wRC+: 77.31, K%: 0.26%
+Potential streaming options for the week starting 2024-09-10:
 
 Tuesday:
   Colorado Rockies (Bradley Blalock) @ Detroit Tigers (Keider Montero)
@@ -23,9 +8,9 @@ Tuesday:
     Potential streaming option: Keider Montero (Detroit Tigers, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Adam Oller (Miami Marlins, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+    Potential streaming option: Carmen Mlodzinski (Pittsburgh Pirates, R)
+      Opponent: Miami Marlins
+      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
@@ -41,7 +26,7 @@ Wednesday:
     Potential streaming option: Casey Mize (Detroit Tigers, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Colin Rea (Milwaukee Brewers, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 92.52, K%: 0.24%
+    Potential streaming option: Jake Irvin (Washington Nationals, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
 
