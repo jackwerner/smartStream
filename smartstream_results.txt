@@ -1,32 +1,23 @@
-Potential streaming options for the week starting 2024-09-10:
-
-Tuesday:
-  Colorado Rockies (Bradley Blalock) @ Detroit Tigers (Keider Montero)
-    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
-    Potential streaming option: Keider Montero (Detroit Tigers, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Carmen Mlodzinski (Pittsburgh Pirates, R)
-      Opponent: Miami Marlins
-      Opponent stats vs RHP: wRC+: 84.71, K%: 0.26%
-    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+Potential streaming options for the week starting 2024-09-11:
 
 Wednesday:
-  Miami Marlins (TBD) @ Pittsburgh Pirates (Bailey Falter)
-    Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+  Cleveland Guardians (Matthew Boyd) @ Chicago White Sox (Davis Martin)
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
-    Potential streaming option: Casey Mize (Detroit Tigers, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Tanner Gordon (Colorado Rockies, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
     Potential streaming option: Jake Irvin (Washington Nationals, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+    Potential streaming option: Brandon Williamson (Cincinnati Reds, Unknown)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs UnknownHP: wRC+: 92.39, K%: 0.21%
+
+Thursday:
+  Colorado Rockies (Ryan Feltner) @ Detroit Tigers (Tarik Skubal)
+    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
 
