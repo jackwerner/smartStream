@@ -1,23 +1,47 @@
-Potential streaming options for the week starting 2024-09-11:
-
-Wednesday:
-  Cleveland Guardians (Matthew Boyd) @ Chicago White Sox (Davis Martin)
-    Potential streaming option: Davis Martin (Chicago White Sox, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
-    Potential streaming option: Tanner Gordon (Colorado Rockies, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
-    Potential streaming option: Jake Irvin (Washington Nationals, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
-    Potential streaming option: Brandon Williamson (Cincinnati Reds, Unknown)
-      Opponent: St. Louis Cardinals
-      Opponent stats vs UnknownHP: wRC+: 92.39, K%: 0.21%
+Potential streaming options for the week starting 2024-09-12:
 
 Thursday:
   Colorado Rockies (Ryan Feltner) @ Detroit Tigers (Tarik Skubal)
     Potential streaming option: Ryan Feltner (Colorado Rockies, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+    Potential streaming option: Mitchell Parker (Washington Nationals, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+    Potential streaming option: Gavin Williams (Cleveland Guardians, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
+
+Friday:
+  Los Angeles Dodgers (Landon Knack) @ Atlanta Braves (Spencer Schwellenbach)
+    Potential streaming option: Landon Knack (Los Angeles Dodgers, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+
+Saturday:
+  Miami Marlins (Valente Bellozo) @ Washington Nationals (Patrick Corbin)
+    Potential streaming option: Patrick Corbin (Washington Nationals, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+    Potential streaming option: Chris Flexen (Chicago White Sox, R)
+      Opponent: Oakland Athletics
+      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
+    Potential streaming option: Jameson Taillon (Chicago Cubs, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+
+Sunday:
+  Miami Marlins (Adam Oller) @ Washington Nationals (MacKenzie Gore)
+    Potential streaming option: MacKenzie Gore (Washington Nationals, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+    Potential streaming option: Ben Lively (Cleveland Guardians, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
+    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
+      Opponent: Chicago Cubs
+      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
 
