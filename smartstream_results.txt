@@ -1,28 +1,19 @@
-Potential streaming options for the week starting 2024-09-12:
-
-Thursday:
-  Colorado Rockies (Ryan Feltner) @ Detroit Tigers (Tarik Skubal)
-    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
-    Potential streaming option: Mitchell Parker (Washington Nationals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: Gavin Williams (Cleveland Guardians, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
+Potential streaming options for the week starting 2024-09-13:
 
 Friday:
   Los Angeles Dodgers (Landon Knack) @ Atlanta Braves (Spencer Schwellenbach)
     Potential streaming option: Landon Knack (Los Angeles Dodgers, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+    Potential streaming option: Brady Basso (Oakland Athletics, L)
+      Opponent: Chicago White Sox
+      Opponent stats vs LHP: wRC+: 77.31, K%: 0.26%
 
 Saturday:
-  Miami Marlins (Valente Bellozo) @ Washington Nationals (Patrick Corbin)
-    Potential streaming option: Patrick Corbin (Washington Nationals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
+  Oakland Athletics (J.T. Ginn) @ Chicago White Sox (Chris Flexen)
+    Potential streaming option: J.T. Ginn (Oakland Athletics, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
     Potential streaming option: Chris Flexen (Chicago White Sox, R)
       Opponent: Oakland Athletics
       Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
@@ -41,7 +32,4 @@ Sunday:
     Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
-      Opponent: Chicago Cubs
-      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
 
