@@ -1,16 +1,10 @@
-Potential streaming options for the week starting 2024-09-13:
-
-Friday:
-  Los Angeles Dodgers (Landon Knack) @ Atlanta Braves (Spencer Schwellenbach)
-    Potential streaming option: Landon Knack (Los Angeles Dodgers, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
-    Potential streaming option: Brady Basso (Oakland Athletics, L)
-      Opponent: Chicago White Sox
-      Opponent stats vs LHP: wRC+: 77.31, K%: 0.26%
+Potential streaming options for the week starting 2024-09-14:
 
 Saturday:
-  Oakland Athletics (J.T. Ginn) @ Chicago White Sox (Chris Flexen)
+  Tampa Bay Rays (Drew Rasmussen) @ Cleveland Guardians (Joey Cantillo)
+    Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
     Potential streaming option: J.T. Ginn (Oakland Athletics, R)
       Opponent: Chicago White Sox
       Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
@@ -32,4 +26,13 @@ Sunday:
     Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+    Potential streaming option: Cal Quantrill (Colorado Rockies, R)
+      Opponent: Chicago Cubs
+      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
+
+Monday:
+  Pittsburgh Pirates (TBD) @ St. Louis Cardinals (Andre Pallante)
+    Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
 
