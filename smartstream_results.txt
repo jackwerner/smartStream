@@ -1,28 +1,10 @@
-Potential streaming options for the week starting 2024-09-14:
-
-Saturday:
-  Tampa Bay Rays (Drew Rasmussen) @ Cleveland Guardians (Joey Cantillo)
-    Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
-    Potential streaming option: J.T. Ginn (Oakland Athletics, R)
-      Opponent: Chicago White Sox
-      Opponent stats vs RHP: wRC+: 76.21, K%: 0.25%
-    Potential streaming option: Chris Flexen (Chicago White Sox, R)
-      Opponent: Oakland Athletics
-      Opponent stats vs RHP: wRC+: 96.66, K%: 0.24%
-    Potential streaming option: Jameson Taillon (Chicago Cubs, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
+Potential streaming options for the week starting 2024-09-15:
 
 Sunday:
   Miami Marlins (Adam Oller) @ Washington Nationals (MacKenzie Gore)
     Potential streaming option: MacKenzie Gore (Washington Nationals, L)
       Opponent: Miami Marlins
       Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: Ben Lively (Cleveland Guardians, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 93.39, K%: 0.25%
     Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
@@ -31,8 +13,26 @@ Sunday:
       Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
 
 Monday:
-  Pittsburgh Pirates (TBD) @ St. Louis Cardinals (Andre Pallante)
+  Oakland Athletics (Joey Estes) @ Chicago Cubs (TBD)
+    Potential streaming option: Joey Estes (Oakland Athletics, R)
+      Opponent: Chicago Cubs
+      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
     Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+
+Tuesday:
+  Minnesota Twins (Zebby Matthews) @ Cleveland Guardians (Gavin Williams)
+    Potential streaming option: Zebby Matthews (Minnesota Twins, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
+    Potential streaming option: Lance Lynn (St. Louis Cardinals, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+    Potential streaming option: Davis Martin (Chicago White Sox, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
 
