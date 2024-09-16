@@ -148,8 +148,8 @@ def create_team_name_mapping():
     }
 
 def main():
-    lhp_stats = load_team_stats('8.22 Splits vs LHP.csv')
-    rhp_stats = load_team_stats('8.22 Splits vs RHP.csv')
+    lhp_stats = load_team_stats('9.16 Splits vs LHP.csv')
+    rhp_stats = load_team_stats('9.16 Splits vs RHP.csv')
 
     left_handed = load_pitcher_handedness('left_handed_pitchers.csv')
     right_handed = load_pitcher_handedness('right_handed_pitchers.csv')
