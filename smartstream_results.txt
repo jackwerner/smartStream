@@ -1,19 +1,7 @@
-Potential streaming options for the week starting 2024-09-15:
-
-Sunday:
-  Miami Marlins (Adam Oller) @ Washington Nationals (MacKenzie Gore)
-    Potential streaming option: MacKenzie Gore (Washington Nationals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 90.13, K%: 0.25%
-    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 87.70, K%: 0.26%
-    Potential streaming option: Cal Quantrill (Colorado Rockies, R)
-      Opponent: Chicago Cubs
-      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
+Potential streaming options for the week starting 2024-09-16:
 
 Monday:
-  Oakland Athletics (Joey Estes) @ Chicago Cubs (TBD)
+  Oakland Athletics (Joey Estes) @ Chicago Cubs (Shota Imanaga)
     Potential streaming option: Joey Estes (Oakland Athletics, R)
       Opponent: Chicago Cubs
       Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
@@ -35,4 +23,19 @@ Tuesday:
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+
+Wednesday:
+  Atlanta Braves (TBD) @ Cincinnati Reds (Jakob Junis)
+    Potential streaming option: Jakob Junis (Cincinnati Reds, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+    Potential streaming option: Alec Marsh (Kansas City Royals, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+
+Thursday:
+  Atlanta Braves (TBD) @ Cincinnati Reds (Julian Aguiar)
+    Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
 
