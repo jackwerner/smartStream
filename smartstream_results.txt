@@ -1,41 +1,41 @@
 Potential streaming options for the week starting 2024-09-16:
 
 Monday:
-  Oakland Athletics (Joey Estes) @ Chicago Cubs (Shota Imanaga)
-    Potential streaming option: Joey Estes (Oakland Athletics, R)
-      Opponent: Chicago Cubs
-      Opponent stats vs RHP: wRC+: 96.10, K%: 0.23%
+  Pittsburgh Pirates (Paul Skenes) @ St. Louis Cardinals (Andre Pallante)
     Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
       Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
 
 Tuesday:
   Minnesota Twins (Zebby Matthews) @ Cleveland Guardians (Gavin Williams)
     Potential streaming option: Zebby Matthews (Minnesota Twins, R)
       Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 91.53, K%: 0.20%
-    Potential streaming option: Lance Lynn (St. Louis Cardinals, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.84, K%: 0.24%
+      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
+    Potential streaming option: Tylor Megill (New York Mets, R)
+      Opponent: Washington Nationals
+      Opponent stats vs RHP: wRC+: 96.81, K%: 0.19%
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 87.22, K%: 0.23%
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
 
 Wednesday:
   Atlanta Braves (TBD) @ Cincinnati Reds (Jakob Junis)
     Potential streaming option: Jakob Junis (Cincinnati Reds, R)
       Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
     Potential streaming option: Alec Marsh (Kansas City Royals, R)
       Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 86.53, K%: 0.24%
+      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
 
 Thursday:
-  Atlanta Braves (TBD) @ Cincinnati Reds (Julian Aguiar)
+  Minnesota Twins (Simeon Woods Richardson) @ Cleveland Guardians (Joey Cantillo)
+    Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
+      Opponent: Minnesota Twins
+      Opponent stats vs LHP: wRC+: 89.16, K%: 0.24%
     Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
       Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 93.14, K%: 0.25%
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
