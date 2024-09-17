@@ -1,28 +1,19 @@
-Potential streaming options for the week starting 2024-09-16:
-
-Monday:
-  Pittsburgh Pirates (Paul Skenes) @ St. Louis Cardinals (Andre Pallante)
-    Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
-    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+Potential streaming options for the week starting 2024-09-17:
 
 Tuesday:
   Minnesota Twins (Zebby Matthews) @ Cleveland Guardians (Gavin Williams)
     Potential streaming option: Zebby Matthews (Minnesota Twins, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
-    Potential streaming option: Tylor Megill (New York Mets, R)
-      Opponent: Washington Nationals
-      Opponent stats vs RHP: wRC+: 96.81, K%: 0.19%
+    Potential streaming option: Grant Holmes (Atlanta Braves, R)
+      Opponent: Cincinnati Reds
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
     Potential streaming option: Davis Martin (Chicago White Sox, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
 
 Wednesday:
-  Atlanta Braves (TBD) @ Cincinnati Reds (Jakob Junis)
+  Atlanta Braves (Spencer Schwellenbach) @ Cincinnati Reds (Jakob Junis)
     Potential streaming option: Jakob Junis (Cincinnati Reds, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
