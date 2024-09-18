@@ -1,32 +1,29 @@
-Potential streaming options for the week starting 2024-09-17:
-
-Tuesday:
-  Minnesota Twins (Zebby Matthews) @ Cleveland Guardians (Gavin Williams)
-    Potential streaming option: Zebby Matthews (Minnesota Twins, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
-    Potential streaming option: Grant Holmes (Atlanta Braves, R)
-      Opponent: Cincinnati Reds
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
-    Potential streaming option: Davis Martin (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+Potential streaming options for the week starting 2024-09-18:
 
 Wednesday:
-  Atlanta Braves (Spencer Schwellenbach) @ Cincinnati Reds (Jakob Junis)
+  Chicago White Sox (Jared Shuster) @ Los Angeles Angels (Jack Kochanowicz)
+    Potential streaming option: Jared Shuster (Chicago White Sox, L)
+      Opponent: Los Angeles Angels
+      Opponent stats vs LHP: wRC+: 90.46, K%: 0.22%
     Potential streaming option: Jakob Junis (Cincinnati Reds, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
-    Potential streaming option: Alec Marsh (Kansas City Royals, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
+    Potential streaming option: Tanner Houck (Boston Red Sox, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
 
 Thursday:
   Minnesota Twins (Simeon Woods Richardson) @ Cleveland Guardians (Joey Cantillo)
-    Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
-      Opponent: Minnesota Twins
-      Opponent stats vs LHP: wRC+: 89.16, K%: 0.24%
+    Potential streaming option: Simeon Woods Richardson (Minnesota Twins, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
     Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
+
+Friday:
+  Cleveland Guardians (Ben Lively) @ St. Louis Cardinals (Kyle Gibson)
+    Potential streaming option: Kyle Gibson (St. Louis Cardinals, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
 
