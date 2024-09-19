@@ -1,29 +1,20 @@
-Potential streaming options for the week starting 2024-09-18:
-
-Wednesday:
-  Chicago White Sox (Jared Shuster) @ Los Angeles Angels (Jack Kochanowicz)
-    Potential streaming option: Jared Shuster (Chicago White Sox, L)
-      Opponent: Los Angeles Angels
-      Opponent stats vs LHP: wRC+: 90.46, K%: 0.22%
-    Potential streaming option: Jakob Junis (Cincinnati Reds, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
-    Potential streaming option: Tanner Houck (Boston Red Sox, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
+Potential streaming options for the week starting 2024-09-19:
 
 Thursday:
-  Minnesota Twins (Simeon Woods Richardson) @ Cleveland Guardians (Joey Cantillo)
-    Potential streaming option: Simeon Woods Richardson (Minnesota Twins, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
+  Atlanta Braves (Chris Sale) @ Cincinnati Reds (Julian Aguiar)
     Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
-Friday:
-  Cleveland Guardians (Ben Lively) @ St. Louis Cardinals (Kyle Gibson)
-    Potential streaming option: Kyle Gibson (St. Louis Cardinals, R)
+Saturday:
+  Washington Nationals (TBD) @ Chicago Cubs (Kyle Hendricks)
+    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
+      Opponent: Washington Nationals
+      Opponent stats vs RHP: wRC+: 96.81, K%: 0.19%
+
+Sunday:
+  Cleveland Guardians (Gavin Williams) @ St. Louis Cardinals (Andre Pallante)
+    Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
 
