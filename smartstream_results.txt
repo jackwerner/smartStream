@@ -1,19 +1,31 @@
-Potential streaming options for the week starting 2024-09-19:
+Potential streaming options for the week starting 2024-09-20:
 
-Thursday:
-  Atlanta Braves (Chris Sale) @ Cincinnati Reds (Julian Aguiar)
-    Potential streaming option: Julian Aguiar (Cincinnati Reds, R)
+Friday:
+  Toronto Blue Jays (José Berríos) @ Tampa Bay Rays (Tyler Alexander)
+    Potential streaming option: Tyler Alexander (Tampa Bay Rays, L)
+      Opponent: Toronto Blue Jays
+      Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
+    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
+      Opponent: Minnesota Twins
+      Opponent stats vs UnknownHP: wRC+: 89.16, K%: 0.24%
+    Potential streaming option: Valente Bellozo (Miami Marlins, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
 Saturday:
-  Washington Nationals (TBD) @ Chicago Cubs (Kyle Hendricks)
+  Washington Nationals (MacKenzie Gore) @ Chicago Cubs (Kyle Hendricks)
     Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
       Opponent: Washington Nationals
       Opponent stats vs RHP: wRC+: 96.81, K%: 0.19%
+    Potential streaming option: Emerson Hancock (Seattle Mariners, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
 
 Sunday:
-  Cleveland Guardians (Gavin Williams) @ St. Louis Cardinals (Andre Pallante)
+  Atlanta Braves (Grant Holmes) @ Miami Marlins (Adam Oller)
+    Potential streaming option: Adam Oller (Miami Marlins, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
     Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
       Opponent: Cleveland Guardians
       Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
