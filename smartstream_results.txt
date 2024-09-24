@@ -1,19 +1,7 @@
-Potential streaming options for the week starting 2024-09-23:
-
-Monday:
-  Chicago Cubs (Nate Pearson) @ Philadelphia Phillies (Aaron Nola)
-    Potential streaming option: Nate Pearson (Chicago Cubs, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+Potential streaming options for the week starting 2024-09-24:
 
 Tuesday:
-  Cincinnati Reds (Jakob Junis) @ Cleveland Guardians (Tanner Bibee)
-    Potential streaming option: Jakob Junis (Cincinnati Reds, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
-    Potential streaming option: Tobias Myers (Milwaukee Brewers, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
+  Kansas City Royals (Cole Ragans) @ Washington Nationals (Mitchell Parker)
     Potential streaming option: Mitchell Parker (Washington Nationals, L)
       Opponent: Kansas City Royals
       Opponent stats vs LHP: wRC+: 91.61, K%: 0.21%
@@ -38,9 +26,6 @@ Wednesday:
     Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
       Opponent: Cincinnati Reds
       Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Zack Littell (Tampa Bay Rays, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
     Potential streaming option: Keider Montero (Detroit Tigers, R)
       Opponent: Tampa Bay Rays
       Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
