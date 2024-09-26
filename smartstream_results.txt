@@ -1,25 +1,13 @@
-Potential streaming options for the week starting 2024-09-25:
-
-Wednesday:
-  Tampa Bay Rays (Zack Littell) @ Detroit Tigers (Keider Montero)
-    Potential streaming option: Keider Montero (Detroit Tigers, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
-      Opponent: Toronto Blue Jays
-      Opponent stats vs UnknownHP: wRC+: 85.43, K%: 0.24%
-    Potential streaming option: Davis Martin (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: Brady Basso (Oakland Athletics, L)
-      Opponent: Texas Rangers
-      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+Potential streaming options for the week starting 2024-09-26:
 
 Thursday:
   Kansas City Royals (Michael Wacha) @ Washington Nationals (Patrick Corbin)
     Potential streaming option: Patrick Corbin (Washington Nationals, L)
       Opponent: Kansas City Royals
       Opponent stats vs LHP: wRC+: 91.61, K%: 0.21%
+    Potential streaming option: Tyler Alexander (Tampa Bay Rays, L)
+      Opponent: Detroit Tigers
+      Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
     Potential streaming option: Reese Olson (Detroit Tigers, R)
       Opponent: Tampa Bay Rays
       Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
@@ -35,15 +23,18 @@ Friday:
     Potential streaming option: Garrett Crochet (Chicago White Sox, L)
       Opponent: Detroit Tigers
       Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
+    Potential streaming option: Landen Roupp (San Francisco Giants, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
 
 Saturday:
   Chicago White Sox (Sean Burke) @ Detroit Tigers (TBD)
     Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
       Opponent: Detroit Tigers
       Opponent stats vs UnknownHP: wRC+: 88.63, K%: 0.30%
-    Potential streaming option: Andre Pallante (St. Louis Cardinals, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
+    Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
+      Opponent: Cincinnati Reds
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
 
 Sunday:
   Chicago White Sox (Jonathan Cannon) @ Detroit Tigers (TBD)
