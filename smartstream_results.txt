@@ -1,28 +1,16 @@
-Potential streaming options for the week starting 2024-09-26:
-
-Thursday:
-  Kansas City Royals (Michael Wacha) @ Washington Nationals (Patrick Corbin)
-    Potential streaming option: Patrick Corbin (Washington Nationals, L)
-      Opponent: Kansas City Royals
-      Opponent stats vs LHP: wRC+: 91.61, K%: 0.21%
-    Potential streaming option: Tyler Alexander (Tampa Bay Rays, L)
-      Opponent: Detroit Tigers
-      Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
-    Potential streaming option: Reese Olson (Detroit Tigers, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Chris Flexen (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: J.T. Ginn (Oakland Athletics, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+Potential streaming options for the week starting 2024-09-27:
 
 Friday:
-  Chicago White Sox (Garrett Crochet) @ Detroit Tigers (TBD)
-    Potential streaming option: Garrett Crochet (Chicago White Sox, L)
-      Opponent: Detroit Tigers
-      Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
+  Philadelphia Phillies (Ranger Suárez) @ Washington Nationals (Trevor Williams)
+    Potential streaming option: Trevor Williams (Washington Nationals, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Reid Detmers (Los Angeles Angels, L)
+      Opponent: Texas Rangers
+      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+    Potential streaming option: JP Sears (Oakland Athletics, L)
+      Opponent: Seattle Mariners
+      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
     Potential streaming option: Landen Roupp (San Francisco Giants, R)
       Opponent: St. Louis Cardinals
       Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
@@ -35,9 +23,18 @@ Saturday:
     Potential streaming option: Kyle Hendricks (Chicago Cubs, R)
       Opponent: Cincinnati Reds
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
+    Potential streaming option: Griffin Canning (Los Angeles Angels, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
 
 Sunday:
-  Chicago White Sox (Jonathan Cannon) @ Detroit Tigers (TBD)
+  Philadelphia Phillies (Aaron Nola) @ Washington Nationals (Jake Irvin)
+    Potential streaming option: Jake Irvin (Washington Nationals, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Ryan Weathers (Miami Marlins, L)
+      Opponent: Toronto Blue Jays
+      Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
