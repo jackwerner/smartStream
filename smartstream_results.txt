@@ -1,19 +1,4 @@
-Potential streaming options for the week starting 2024-09-27:
-
-Friday:
-  Philadelphia Phillies (Ranger Suárez) @ Washington Nationals (Trevor Williams)
-    Potential streaming option: Trevor Williams (Washington Nationals, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
-    Potential streaming option: Reid Detmers (Los Angeles Angels, L)
-      Opponent: Texas Rangers
-      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
-    Potential streaming option: JP Sears (Oakland Athletics, L)
-      Opponent: Seattle Mariners
-      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
-    Potential streaming option: Landen Roupp (San Francisco Giants, R)
-      Opponent: St. Louis Cardinals
-      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+Potential streaming options for the week starting 2024-09-28:
 
 Saturday:
   Chicago White Sox (Sean Burke) @ Detroit Tigers (TBD)
