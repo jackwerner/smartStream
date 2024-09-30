@@ -1,26 +1,2 @@
-Potential streaming options for the week starting 2024-09-29:
-
-Sunday:
-  Tampa Bay Rays (Ryan Pepiot) @ Boston Red Sox (Quinn Priester)
-    Potential streaming option: Quinn Priester (Boston Red Sox, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Jake Irvin (Washington Nationals, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
-    Potential streaming option: Ryan Weathers (Miami Marlins, L)
-      Opponent: Toronto Blue Jays
-      Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
-    Potential streaming option: Anthony Banda (Los Angeles Dodgers, L)
-      Opponent: Colorado Rockies
-      Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
-    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
-    Potential streaming option: Caleb Kilian (Chicago Cubs, Unknown)
-      Opponent: Cincinnati Reds
-      Opponent stats vs UnknownHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Alec Marsh (Kansas City Royals, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
+Potential streaming options for the week starting 2024-09-30:
 
