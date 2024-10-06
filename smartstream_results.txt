@@ -1,20 +1,14 @@
-Potential streaming options for the week starting 2024-10-05:
-
-Saturday:
-  Detroit Tigers (Tyler Holton) @ Cleveland Guardians (Tanner Bibee)
-    Potential streaming option: Tyler Holton (Detroit Tigers, L)
-      Opponent: Cleveland Guardians
-      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
-    Potential streaming option: Tanner Bibee (Cleveland Guardians, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
-    Potential streaming option: Kodai Senga (New York Mets, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+Potential streaming options for the week starting 2024-10-06:
 
 Sunday:
   New York Mets (Luis Severino) @ Philadelphia Phillies (Cristopher Sánchez)
     Potential streaming option: Luis Severino (New York Mets, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+
+Monday:
+  Detroit Tigers (Tarik Skubal) @ Cleveland Guardians (Matthew Boyd)
+    Potential streaming option: Matthew Boyd (Cleveland Guardians, L)
+      Opponent: Detroit Tigers
+      Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
 
