@@ -1,8 +1,17 @@
-Potential streaming options for the week starting 2025-02-19:
+Potential streaming options for the week starting 2025-02-20:
 
 Friday:
   Texas Rangers (TBD) @ Kansas City Royals (Daniel Lynch IV)
     Potential streaming option: Daniel Lynch IV (Kansas City Royals, L)
       Opponent: Texas Rangers
       Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+
+Saturday:
+  Philadelphia Phillies (TBD) @ Detroit Tigers (Kenta Maeda)
+    Potential streaming option: Kenta Maeda (Detroit Tigers, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Valente Bellozo (Miami Marlins, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
 
