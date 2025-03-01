@@ -1,53 +1,62 @@
-Potential streaming options for the week starting 2025-02-28:
-
-Friday:
-  Tampa Bay Rays (Ryan Pepiot) @ Pittsburgh Pirates (Mitch Keller)
-    Potential streaming option: Mitch Keller (Pittsburgh Pirates, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
-      Opponent: Cleveland Guardians
-      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
-    Potential streaming option: Jeffrey Springs (Athletics, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: Reid Detmers (Los Angeles Angels, L)
-      Opponent: Chicago White Sox
-      Opponent stats vs LHP: wRC+: 51.76, K%: 0.25%
-    Potential streaming option: Dustin May (Los Angeles Dodgers, Unknown)
-      Opponent: Los Angeles Angels
-      Opponent stats vs UnknownHP: wRC+: 90.46, K%: 0.22%
+Potential streaming options for the week starting 2025-03-01:
 
 Saturday:
-  New York Mets (Blade Tidwell) @ Tampa Bay Rays (Shane McClanahan)
+  Washington Nationals (Michael Soroka) @ St. Louis Cardinals (Miles Mikolas)
+    Potential streaming option: Michael Soroka (Washington Nationals, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
     Potential streaming option: Blade Tidwell (New York Mets, Unknown)
       Opponent: Tampa Bay Rays
       Opponent stats vs UnknownHP: wRC+: 93.58, K%: 0.25%
-    Potential streaming option: Keider Montero (Detroit Tigers, R)
+    Potential streaming option: Casey Mize (Detroit Tigers, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Colin Rea (Chicago Cubs, R)
+      Opponent: Cleveland Guardians
+      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
     Potential streaming option: Osvaldo Bido (Athletics, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
     Potential streaming option: Kyle Hendricks (Los Angeles Angels, R)
       Opponent: Athletics
       Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Emerson Hancock (Seattle Mariners, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
     Potential streaming option: Tobias Myers (Milwaukee Brewers, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+    Potential streaming option: MacKenzie Gore (Washington Nationals, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
 
 Sunday:
-  Detroit Tigers (Jackson Jobe) @ Pittsburgh Pirates (TBD)
+  Detroit Tigers (Jackson Jobe) @ Pittsburgh Pirates (Jared Jones)
     Potential streaming option: Jackson Jobe (Detroit Tigers, Unknown)
       Opponent: Pittsburgh Pirates
       Opponent stats vs UnknownHP: wRC+: 97.69, K%: 0.29%
+    Potential streaming option: Chris Paddack (Minnesota Twins, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Marcus Stroman (New York Yankees, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
     Potential streaming option: Steven Matz (St. Louis Cardinals, L)
       Opponent: Miami Marlins
       Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
+    Potential streaming option: Matthew Boyd (Chicago Cubs, L)
+      Opponent: Cincinnati Reds
+      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
+    Potential streaming option: Justin Wrobleski (Los Angeles Dodgers, L)
+      Opponent: Athletics
+      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
+
+Monday:
+  Texas Rangers (TBD) @ Kansas City Royals (Daniel Lynch IV)
+    Potential streaming option: Daniel Lynch IV (Kansas City Royals, L)
+      Opponent: Texas Rangers
+      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+    Potential streaming option: Tyler Anderson (Los Angeles Angels, L)
+      Opponent: Colorado Rockies
+      Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
 
