@@ -1,28 +1,10 @@
-Potential streaming options for the week starting 2025-03-02:
-
-Sunday:
-  Detroit Tigers (Jackson Jobe) @ Pittsburgh Pirates (Jared Jones)
-    Potential streaming option: Jackson Jobe (Detroit Tigers, Unknown)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs UnknownHP: wRC+: 97.69, K%: 0.29%
-    Potential streaming option: Chris Paddack (Minnesota Twins, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Marcus Stroman (New York Yankees, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
-    Potential streaming option: Steven Matz (St. Louis Cardinals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
-    Potential streaming option: Matthew Boyd (Chicago Cubs, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Justin Wrobleski (Los Angeles Dodgers, L)
-      Opponent: Athletics
-      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
+Potential streaming options for the week starting 2025-03-03:
 
 Monday:
-  Atlanta Braves (TBD) @ Tampa Bay Rays (Drew Rasmussen)
+  Atlanta Braves (AJ Smith-Shawver) @ Tampa Bay Rays (Drew Rasmussen)
+    Potential streaming option: AJ Smith-Shawver (Atlanta Braves, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
@@ -32,6 +14,9 @@ Monday:
     Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
       Opponent: Athletics
       Opponent stats vs UnknownHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
     Potential streaming option: Tyler Anderson (Los Angeles Angels, L)
       Opponent: Colorado Rockies
       Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
@@ -40,8 +25,29 @@ Monday:
       Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
 
 Tuesday:
-  Los Angeles Angels (Jack Kochanowicz) @ Cleveland Guardians (Gavin Williams)
+  St. Louis Cardinals (Andre Pallante) @ Washington Nationals (Jake Irvin)
+    Potential streaming option: Jake Irvin (Washington Nationals, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Kenta Maeda (Detroit Tigers, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Gavin Williams (Cleveland Guardians, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+
+Wednesday:
+  Philadelphia Phillies (TBD) @ Detroit Tigers (Reese Olson)
+    Potential streaming option: Reese Olson (Detroit Tigers, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+
+Thursday:
+  Washington Nationals (Michael Soroka) @ St. Louis Cardinals (TBD)
+    Potential streaming option: Michael Soroka (Washington Nationals, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
 
