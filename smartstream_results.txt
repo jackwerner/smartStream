@@ -1,46 +1,52 @@
-Potential streaming options for the week starting 2025-03-03:
-
-Monday:
-  Atlanta Braves (AJ Smith-Shawver) @ Tampa Bay Rays (Drew Rasmussen)
-    Potential streaming option: AJ Smith-Shawver (Atlanta Braves, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
-    Potential streaming option: Daniel Lynch IV (Kansas City Royals, L)
-      Opponent: Texas Rangers
-      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
-    Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
-      Opponent: Athletics
-      Opponent stats vs UnknownHP: wRC+: 0.00, K%: 0.00%
-    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: Tyler Anderson (Los Angeles Angels, L)
-      Opponent: Colorado Rockies
-      Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
-    Potential streaming option: Aaron Ashby (Milwaukee Brewers, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
+Potential streaming options for the week starting 2025-03-04:
 
 Tuesday:
-  St. Louis Cardinals (Andre Pallante) @ Washington Nationals (Jake Irvin)
+  Boston Red Sox (Quinn Priester) @ Pittsburgh Pirates (Andrew Heaney)
+    Potential streaming option: Quinn Priester (Boston Red Sox, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
     Potential streaming option: Jake Irvin (Washington Nationals, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Tylor Megill (New York Mets, R)
       Opponent: St. Louis Cardinals
       Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
     Potential streaming option: Kenta Maeda (Detroit Tigers, R)
       Opponent: Tampa Bay Rays
       Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
+    Potential streaming option: Will Warren (New York Yankees, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
     Potential streaming option: Gavin Williams (Cleveland Guardians, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+    Potential streaming option: J.T. Ginn (Athletics, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+    Potential streaming option: Dane Dunning (Texas Rangers, R)
+      Opponent: Athletics
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Graham Ashcraft (Cincinnati Reds, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
+    Potential streaming option: Bradley Blalock (Colorado Rockies, R)
+      Opponent: Cincinnati Reds
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
 
 Wednesday:
   Philadelphia Phillies (TBD) @ Detroit Tigers (Reese Olson)
     Potential streaming option: Reese Olson (Detroit Tigers, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Tyler Mahle (Texas Rangers, R)
+      Opponent: Cincinnati Reds
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
+    Potential streaming option: Tobias Myers (Milwaukee Brewers, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
+    Potential streaming option: Brandon Pfaadt (Arizona Diamondbacks, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
 
 Thursday:
   Washington Nationals (Michael Soroka) @ St. Louis Cardinals (TBD)
@@ -50,4 +56,13 @@ Thursday:
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: San Francisco Giants
       Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
+    Potential streaming option: Tyler Anderson (Los Angeles Angels, L)
+      Opponent: Seattle Mariners
+      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
+
+Friday:
+  Cleveland Guardians (Joey Cantillo) @ Athletics (TBD)
+    Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
+      Opponent: Athletics
+      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
 
