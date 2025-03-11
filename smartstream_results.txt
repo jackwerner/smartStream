@@ -1,37 +1,13 @@
-Potential streaming options for the week starting 2025-03-10:
-
-Monday:
-  Philadelphia Phillies (Seth Johnson) @ Minnesota Twins (Pablo López)
-    Potential streaming option: Seth Johnson (Philadelphia Phillies, Unknown)
-      Opponent: Minnesota Twins
-      Opponent stats vs UnknownHP: wRC+: 89.16, K%: 0.24%
-    Potential streaming option: Joe Boyle (Tampa Bay Rays, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
-    Potential streaming option: Will Warren (New York Yankees, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
-    Potential streaming option: Mitchell Parker (Washington Nationals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
-    Potential streaming option: Kris Bubic (Kansas City Royals, L)
-      Opponent: Cleveland Guardians
-      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
-    Potential streaming option: Luis Severino (Athletics, R)
-      Opponent: Chicago White Sox
-      Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
-    Potential streaming option: Chase Silseth (Los Angeles Angels, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
-    Potential streaming option: Griffin Canning (New York Mets, R)
-      Opponent: St. Louis Cardinals
-      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+Potential streaming options for the week starting 2025-03-11:
 
 Tuesday:
-  Los Angeles Angels (Kyle Hendricks) @ Texas Rangers (Tyler Mahle)
-    Potential streaming option: Kyle Hendricks (Los Angeles Angels, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+  Detroit Tigers (Jack Flaherty) @ Atlanta Braves (Grant Holmes)
+    Potential streaming option: Grant Holmes (Atlanta Braves, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
+    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
+      Opponent: Cincinnati Reds
+      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
     Potential streaming option: Tyler Mahle (Texas Rangers, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
@@ -40,10 +16,13 @@ Tuesday:
       Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
 
 Wednesday:
-  Tampa Bay Rays (TBD) @ Detroit Tigers (Casey Mize)
+  Tampa Bay Rays (Ryan Pepiot) @ Detroit Tigers (Casey Mize)
     Potential streaming option: Casey Mize (Detroit Tigers, R)
       Opponent: Tampa Bay Rays
       Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
+    Potential streaming option: Tristan Beck (San Francisco Giants, Unknown)
+      Opponent: Cleveland Guardians
+      Opponent stats vs UnknownHP: wRC+: 99.84, K%: 0.19%
     Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
       Opponent: San Francisco Giants
       Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
