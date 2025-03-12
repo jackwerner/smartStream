@@ -1,19 +1,4 @@
-Potential streaming options for the week starting 2025-03-11:
-
-Tuesday:
-  Detroit Tigers (Jack Flaherty) @ Atlanta Braves (Grant Holmes)
-    Potential streaming option: Grant Holmes (Atlanta Braves, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
-    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Tyler Mahle (Texas Rangers, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: Jeffrey Springs (Athletics, L)
-      Opponent: San Francisco Giants
-      Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
+Potential streaming options for the week starting 2025-03-12:
 
 Wednesday:
   Tampa Bay Rays (Ryan Pepiot) @ Detroit Tigers (Casey Mize)
@@ -26,9 +11,33 @@ Wednesday:
     Potential streaming option: Joey Cantillo (Cleveland Guardians, L)
       Opponent: San Francisco Giants
       Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
+    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+
+Thursday:
+  Athletics (JP Sears) @ Cincinnati Reds (Nick Lodolo)
+    Potential streaming option: JP Sears (Athletics, L)
+      Opponent: Cincinnati Reds
+      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
+    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
+      Opponent: Athletics
+      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Chase Dollander (Colorado Rockies, Unknown)
+      Opponent: Cleveland Guardians
+      Opponent stats vs UnknownHP: wRC+: 99.84, K%: 0.19%
 
 Friday:
-  Detroit Tigers (Keider Montero) @ Pittsburgh Pirates (TBD)
+  Los Angeles Angels (Tyler Anderson) @ Athletics (TBD)
+    Potential streaming option: Tyler Anderson (Los Angeles Angels, L)
+      Opponent: Athletics
+      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Logan Allen (Cleveland Guardians, L)
+      Opponent: Seattle Mariners
+      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
+    Potential streaming option: Nestor Cortes (Milwaukee Brewers, L)
+      Opponent: San Francisco Giants
+      Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
     Potential streaming option: Keider Montero (Detroit Tigers, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
