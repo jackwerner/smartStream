@@ -1,19 +1,4 @@
-Potential streaming options for the week starting 2025-03-13:
-
-Thursday:
-  Washington Nationals (DJ Herz) @ Tampa Bay Rays (Shane Baz)
-    Potential streaming option: DJ Herz (Washington Nationals, L)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs LHP: wRC+: 93.58, K%: 0.25%
-    Potential streaming option: JP Sears (Athletics, L)
-      Opponent: Cincinnati Reds
-      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
-    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
-      Opponent: Athletics
-      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
-    Potential streaming option: Chase Dollander (Colorado Rockies, Unknown)
-      Opponent: Cleveland Guardians
-      Opponent stats vs UnknownHP: wRC+: 99.84, K%: 0.19%
+Potential streaming options for the week starting 2025-03-14:
 
 Friday:
   Los Angeles Angels (Tyler Anderson) @ Athletics (Joey Estes)
@@ -29,22 +14,67 @@ Friday:
     Potential streaming option: Graham Ashcraft (Cincinnati Reds, R)
       Opponent: Chicago White Sox
       Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
+    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
+      Opponent: Miami Marlins
+      Opponent stats vs UnknownHP: wRC+: 77.53, K%: 0.25%
     Potential streaming option: Nestor Cortes (Milwaukee Brewers, L)
       Opponent: San Francisco Giants
       Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
     Potential streaming option: Keider Montero (Detroit Tigers, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
+    Potential streaming option: Chris Paddack (Minnesota Twins, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Kodai Senga (New York Mets, R)
       Opponent: St. Louis Cardinals
       Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Allan Winans (New York Yankees, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
     Potential streaming option: Ryan Feltner (Colorado Rockies, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+    Potential streaming option: Jon Gray (Texas Rangers, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
+
+Saturday:
+  Chicago Cubs (Julian Merryweather) @ Hanshin Tigers (TBD)
+    Potential streaming option: Julian Merryweather (Chicago Cubs, R)
+      Opponent: Hanshin Tigers
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Michael Lorenzen (Kansas City Royals, R)
+      Opponent: Cincinnati Reds
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
+    Potential streaming option: Kris Bubic (Kansas City Royals, L)
+      Opponent: Cleveland Guardians
+      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
+    Potential streaming option: Luis Severino (Athletics, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+    Potential streaming option: Antonio Senzatela (Colorado Rockies, Unknown)
+      Opponent: Chicago White Sox
+      Opponent stats vs UnknownHP: wRC+: 51.76, K%: 0.25%
+    Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
+      Opponent: Colorado Rockies
+      Opponent stats vs UnknownHP: wRC+: 55.90, K%: 0.30%
+    Potential streaming option: Tobias Myers (Milwaukee Brewers, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+    Potential streaming option: Simeon Woods Richardson (Minnesota Twins, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
 Sunday:
   Tampa Bay Rays (TBD) @ Washington Nationals (Michael Soroka)
     Potential streaming option: Michael Soroka (Washington Nationals, R)
       Opponent: Tampa Bay Rays
       Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
+
+Monday:
+  Pittsburgh Pirates (TBD) @ Detroit Tigers (Reese Olson)
+    Potential streaming option: Reese Olson (Detroit Tigers, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
 
