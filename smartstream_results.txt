@@ -1,28 +1,4 @@
-Potential streaming options for the week starting 2025-03-17:
-
-Monday:
-  Pittsburgh Pirates (Bailey Falter) @ Detroit Tigers (Reese Olson)
-    Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
-      Opponent: Detroit Tigers
-      Opponent stats vs LHP: wRC+: 88.63, K%: 0.30%
-    Potential streaming option: Reese Olson (Detroit Tigers, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
-    Potential streaming option: Joe Ryan (Minnesota Twins, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
-    Potential streaming option: Griffin Canning (New York Mets, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Hogan Harris (Athletics, L)
-      Opponent: Seattle Mariners
-      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
-    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
-    Potential streaming option: Tanner Bibee (Cleveland Guardians, R)
-      Opponent: Cincinnati Reds
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.24%
+Potential streaming options for the week starting 2025-03-18:
 
 Tuesday:
   Los Angeles Angels (José Soriano) @ Cincinnati Reds (Nick Lodolo)
@@ -40,10 +16,16 @@ Tuesday:
       Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
 
 Wednesday:
-  Washington Nationals (Jake Irvin) @ St. Louis Cardinals (TBD)
+  Washington Nationals (Jake Irvin) @ St. Louis Cardinals (Steven Matz)
     Potential streaming option: Jake Irvin (Washington Nationals, R)
       Opponent: St. Louis Cardinals
       Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Zack Littell (Tampa Bay Rays, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
+    Potential streaming option: JP Sears (Athletics, L)
+      Opponent: Cleveland Guardians
+      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
     Potential streaming option: Gavin Williams (Cleveland Guardians, R)
       Opponent: Athletics
       Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
@@ -56,4 +38,25 @@ Wednesday:
     Potential streaming option: Jordan Montgomery (Arizona Diamondbacks, L)
       Opponent: Colorado Rockies
       Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
+    Potential streaming option: Emerson Hancock (Seattle Mariners, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+    Potential streaming option: Aaron Civale (Milwaukee Brewers, R)
+      Opponent: Chicago White Sox
+      Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
+    Potential streaming option: Marcus Stroman (New York Yankees, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
+
+Thursday:
+  Kansas City Royals (Kris Bubic) @ Cincinnati Reds (TBD)
+    Potential streaming option: Kris Bubic (Kansas City Royals, L)
+      Opponent: Cincinnati Reds
+      Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
+
+Sunday:
+  Detroit Tigers (Reese Olson) @ Philadelphia Phillies (TBD)
+    Potential streaming option: Reese Olson (Detroit Tigers, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
 
