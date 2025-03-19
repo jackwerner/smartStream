@@ -1,28 +1,19 @@
-Potential streaming options for the week starting 2025-03-18:
-
-Tuesday:
-  Los Angeles Angels (José Soriano) @ Cincinnati Reds (Nick Lodolo)
-    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
-      Opponent: Los Angeles Angels
-      Opponent stats vs LHP: wRC+: 90.46, K%: 0.22%
-    Potential streaming option: Tyler Mahle (Texas Rangers, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 87.23, K%: 0.21%
-    Potential streaming option: Keaton Winn (San Francisco Giants, R)
-      Opponent: Colorado Rockies
-      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
-    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
+Potential streaming options for the week starting 2025-03-19:
 
 Wednesday:
-  Washington Nationals (Jake Irvin) @ St. Louis Cardinals (Steven Matz)
+  Detroit Tigers (Casey Mize) @ Boston Red Sox (Richard Fitts)
+    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
+      Opponent: Detroit Tigers
+      Opponent stats vs UnknownHP: wRC+: 88.63, K%: 0.30%
     Potential streaming option: Jake Irvin (Washington Nationals, R)
       Opponent: St. Louis Cardinals
       Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
     Potential streaming option: Zack Littell (Tampa Bay Rays, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
+    Potential streaming option: Marcus Stroman (New York Yankees, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
     Potential streaming option: JP Sears (Athletics, L)
       Opponent: Cleveland Guardians
       Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
@@ -44,15 +35,18 @@ Wednesday:
     Potential streaming option: Aaron Civale (Milwaukee Brewers, R)
       Opponent: Chicago White Sox
       Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
-    Potential streaming option: Marcus Stroman (New York Yankees, R)
-      Opponent: Atlanta Braves
-      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
 Thursday:
-  Kansas City Royals (Kris Bubic) @ Cincinnati Reds (TBD)
+  Kansas City Royals (Kris Bubic) @ Cincinnati Reds (Graham Ashcraft)
     Potential streaming option: Kris Bubic (Kansas City Royals, L)
       Opponent: Cincinnati Reds
       Opponent stats vs LHP: wRC+: 66.86, K%: 0.27%
+
+Friday:
+  Texas Rangers (TBD) @ Los Angeles Angels (Kyle Hendricks)
+    Potential streaming option: Kyle Hendricks (Los Angeles Angels, R)
+      Opponent: Texas Rangers
+      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
 
 Sunday:
   Detroit Tigers (Reese Olson) @ Philadelphia Phillies (TBD)
