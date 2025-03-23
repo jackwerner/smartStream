@@ -1,49 +1,52 @@
-Potential streaming options for the week starting 2025-03-22:
-
-Saturday:
-  Boston Red Sox (Tanner Houck) @ Tampa Bay Rays (Shane McClanahan)
-    Potential streaming option: Tanner Houck (Boston Red Sox, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Tylor Megill (New York Mets, R)
-      Opponent: Washington Nationals
-      Opponent stats vs RHP: wRC+: 96.81, K%: 0.19%
-    Potential streaming option: Matthew Liberatore (St. Louis Cardinals, L)
-      Opponent: Miami Marlins
-      Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
-    Potential streaming option: Valente Bellozo (Miami Marlins, R)
-      Opponent: St. Louis Cardinals
-      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
-    Potential streaming option: Brandon Pfaadt (Arizona Diamondbacks, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
-    Potential streaming option: Hagen Smith (Chicago White Sox, Unknown)
-      Opponent: Seattle Mariners
-      Opponent stats vs UnknownHP: wRC+: 89.41, K%: 0.26%
-    Potential streaming option: Noah Schultz (Chicago White Sox, Unknown)
-      Opponent: Colorado Rockies
-      Opponent stats vs UnknownHP: wRC+: 55.90, K%: 0.30%
-    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
-      Opponent: Chicago White Sox
-      Opponent stats vs LHP: wRC+: 51.76, K%: 0.25%
+Potential streaming options for the week starting 2025-03-23:
 
 Sunday:
-  Detroit Tigers (Reese Olson) @ Philadelphia Phillies (TBD)
+  Detroit Tigers (Reese Olson) @ Philadelphia Phillies (Aaron Nola)
     Potential streaming option: Reese Olson (Detroit Tigers, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
     Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
       Opponent: Toronto Blue Jays
       Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
+    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
+      Opponent: Cleveland Guardians
+      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
     Potential streaming option: Matthew Boyd (Chicago Cubs, L)
       Opponent: Athletics
       Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
+    Potential streaming option: Kyle Harrison (Sacramento River Cats, L)
+      Opponent: San Francisco Giants
+      Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
+    Potential streaming option: Landen Roupp (San Francisco Giants, R)
+      Opponent: Sacramento River Cats
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
 
 Monday:
-  Milwaukee Brewers (Nestor Cortes) @ Colorado Rockies (TBD)
+  Tampa Bay Rays (Pete Fairbanks) @ Philadelphia Phillies (TBD)
+    Potential streaming option: Pete Fairbanks (Tampa Bay Rays, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: JP Sears (Athletics, L)
+      Opponent: Chicago White Sox
+      Opponent stats vs LHP: wRC+: 51.76, K%: 0.25%
+    Potential streaming option: Davis Martin (Chicago White Sox, R)
+      Opponent: Athletics
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
     Potential streaming option: Nestor Cortes (Milwaukee Brewers, L)
       Opponent: Colorado Rockies
       Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
+
+Tuesday:
+  Colorado Rockies (TBD) @ Minnesota Twins (Chris Paddack)
+    Potential streaming option: Chris Paddack (Minnesota Twins, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
+    Potential streaming option: Kris Bubic (Kansas City Royals, L)
+      Opponent: Texas Rangers
+      Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+    Potential streaming option: Ben Brown (Chicago Cubs, R)
+      Opponent: Atlanta Braves
+      Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
 
 Thursday:
   Los Angeles Angels (Yusei Kikuchi) @ Chicago White Sox (Sean Burke)
@@ -62,4 +65,10 @@ Friday:
     Potential streaming option: Tanner Houck (Boston Red Sox, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
+
+Saturday:
+  Athletics (TBD) @ Seattle Mariners (Bryce Miller)
+    Potential streaming option: Bryce Miller (Seattle Mariners, R)
+      Opponent: Athletics
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
 
