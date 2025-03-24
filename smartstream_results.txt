@@ -1,31 +1,13 @@
-Potential streaming options for the week starting 2025-03-23:
-
-Sunday:
-  Detroit Tigers (Reese Olson) @ Philadelphia Phillies (Aaron Nola)
-    Potential streaming option: Reese Olson (Detroit Tigers, R)
-      Opponent: Philadelphia Phillies
-      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
-    Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
-      Opponent: Toronto Blue Jays
-      Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
-    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
-      Opponent: Cleveland Guardians
-      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
-    Potential streaming option: Matthew Boyd (Chicago Cubs, L)
-      Opponent: Athletics
-      Opponent stats vs LHP: wRC+: 0.00, K%: 0.00%
-    Potential streaming option: Kyle Harrison (Sacramento River Cats, L)
-      Opponent: San Francisco Giants
-      Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
-    Potential streaming option: Landen Roupp (San Francisco Giants, R)
-      Opponent: Sacramento River Cats
-      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
+Potential streaming options for the week starting 2025-03-24:
 
 Monday:
-  Tampa Bay Rays (Pete Fairbanks) @ Philadelphia Phillies (TBD)
-    Potential streaming option: Pete Fairbanks (Tampa Bay Rays, R)
+  Tampa Bay Rays (Zack Littell) @ Philadelphia Phillies (Taijuan Walker)
+    Potential streaming option: Zack Littell (Tampa Bay Rays, R)
       Opponent: Philadelphia Phillies
       Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Taijuan Walker (Philadelphia Phillies, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: JP Sears (Athletics, L)
       Opponent: Chicago White Sox
       Opponent stats vs LHP: wRC+: 51.76, K%: 0.25%
@@ -35,18 +17,33 @@ Monday:
     Potential streaming option: Nestor Cortes (Milwaukee Brewers, L)
       Opponent: Colorado Rockies
       Opponent stats vs LHP: wRC+: 55.90, K%: 0.30%
+    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
+      Opponent: Sultanes de Monterrey
+      Opponent stats vs UnknownHP: wRC+: 0.00, K%: 0.00%
 
 Tuesday:
-  Colorado Rockies (TBD) @ Minnesota Twins (Chris Paddack)
+  Colorado Rockies (Germán Márquez) @ Minnesota Twins (Chris Paddack)
     Potential streaming option: Chris Paddack (Minnesota Twins, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
     Potential streaming option: Kris Bubic (Kansas City Royals, L)
       Opponent: Texas Rangers
       Opponent stats vs LHP: wRC+: 76.81, K%: 0.25%
+    Potential streaming option: Jordan Montgomery (Arizona Diamondbacks, L)
+      Opponent: Cleveland Guardians
+      Opponent stats vs LHP: wRC+: 99.84, K%: 0.19%
     Potential streaming option: Ben Brown (Chicago Cubs, R)
       Opponent: Atlanta Braves
       Opponent stats vs RHP: wRC+: 98.13, K%: 0.24%
+    Potential streaming option: Jackson Jobe (Detroit Tigers, Unknown)
+      Opponent: San Francisco Giants
+      Opponent stats vs UnknownHP: wRC+: 99.34, K%: 0.29%
+    Potential streaming option: Jordan Hicks (San Francisco Giants, R)
+      Opponent: Detroit Tigers
+      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
+    Potential streaming option: Dustin May (Los Angeles Dodgers, Unknown)
+      Opponent: Los Angeles Angels
+      Opponent stats vs UnknownHP: wRC+: 90.46, K%: 0.22%
 
 Thursday:
   Los Angeles Angels (Yusei Kikuchi) @ Chicago White Sox (Sean Burke)
@@ -58,10 +55,10 @@ Thursday:
       Opponent stats vs UnknownHP: wRC+: 97.69, K%: 0.29%
 
 Friday:
-  Colorado Rockies (TBD) @ Tampa Bay Rays (Shane McClanahan)
-    Potential streaming option: Shane McClanahan (Tampa Bay Rays, Unknown)
-      Opponent: Colorado Rockies
-      Opponent stats vs UnknownHP: wRC+: 55.90, K%: 0.30%
+  Colorado Rockies (Kyle Freeland) @ Tampa Bay Rays (Ryan Pepiot)
+    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs LHP: wRC+: 93.58, K%: 0.25%
     Potential streaming option: Tanner Houck (Boston Red Sox, R)
       Opponent: Texas Rangers
       Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
