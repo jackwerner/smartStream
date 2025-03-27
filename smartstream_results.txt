@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2025-03-26:
+Potential streaming options for the week starting 2025-03-27:
 
 Thursday:
   Los Angeles Angels (Yusei Kikuchi) @ Chicago White Sox (Sean Burke)
@@ -22,7 +22,13 @@ Friday:
       Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
 
 Saturday:
-  Pittsburgh Pirates (TBD) @ Miami Marlins (Valente Bellozo)
+  Los Angeles Angels (José Soriano) @ Chicago White Sox (Jonathan Cannon)
+    Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+    Potential streaming option: Zack Littell (Tampa Bay Rays, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
     Potential streaming option: Valente Bellozo (Miami Marlins, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
@@ -35,6 +41,9 @@ Sunday:
     Potential streaming option: Max Meyer (Miami Marlins, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
+    Potential streaming option: Davis Martin (Chicago White Sox, R)
+      Opponent: Los Angeles Angels
+      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
     Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
       Opponent: Texas Rangers
       Opponent stats vs UnknownHP: wRC+: 76.81, K%: 0.25%
@@ -43,7 +52,10 @@ Sunday:
       Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
 
 Monday:
-  Detroit Tigers (TBD) @ Seattle Mariners (Emerson Hancock)
+  Pittsburgh Pirates (TBD) @ Tampa Bay Rays (Drew Rasmussen)
+    Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
+      Opponent: Pittsburgh Pirates
+      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
     Potential streaming option: Emerson Hancock (Seattle Mariners, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
