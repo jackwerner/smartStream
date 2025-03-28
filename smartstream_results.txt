@@ -1,13 +1,4 @@
-Potential streaming options for the week starting 2025-03-27:
-
-Thursday:
-  Los Angeles Angels (Yusei Kikuchi) @ Chicago White Sox (Sean Burke)
-    Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
-      Opponent: Los Angeles Angels
-      Opponent stats vs UnknownHP: wRC+: 90.46, K%: 0.22%
-    Potential streaming option: Sandy Alcantara (Miami Marlins, Unknown)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs UnknownHP: wRC+: 97.69, K%: 0.29%
+Potential streaming options for the week starting 2025-03-28:
 
 Friday:
   Colorado Rockies (Kyle Freeland) @ Tampa Bay Rays (Ryan Pepiot)
@@ -26,9 +17,24 @@ Saturday:
     Potential streaming option: Jonathan Cannon (Chicago White Sox, R)
       Opponent: Los Angeles Angels
       Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
+    Potential streaming option: Joe Ryan (Minnesota Twins, R)
+      Opponent: St. Louis Cardinals
+      Opponent stats vs RHP: wRC+: 96.15, K%: 0.20%
+    Potential streaming option: Jake Irvin (Washington Nationals, R)
+      Opponent: Philadelphia Phillies
+      Opponent stats vs RHP: wRC+: 96.06, K%: 0.23%
+    Potential streaming option: Nick Lodolo (Cincinnati Reds, L)
+      Opponent: San Francisco Giants
+      Opponent stats vs LHP: wRC+: 99.34, K%: 0.29%
+    Potential streaming option: Antonio Senzatela (Colorado Rockies, Unknown)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs UnknownHP: wRC+: 93.58, K%: 0.25%
     Potential streaming option: Zack Littell (Tampa Bay Rays, R)
       Opponent: Colorado Rockies
       Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
+    Potential streaming option: Bailey Falter (Pittsburgh Pirates, L)
+      Opponent: Miami Marlins
+      Opponent stats vs LHP: wRC+: 77.53, K%: 0.25%
     Potential streaming option: Valente Bellozo (Miami Marlins, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
@@ -37,7 +43,13 @@ Saturday:
       Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
 
 Sunday:
-  Pittsburgh Pirates (TBD) @ Miami Marlins (Max Meyer)
+  San Francisco Giants (Robbie Ray) @ Cincinnati Reds (Nick Martinez)
+    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
+      Opponent: San Francisco Giants
+      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
+    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Max Meyer (Miami Marlins, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
@@ -59,6 +71,9 @@ Monday:
     Potential streaming option: Emerson Hancock (Seattle Mariners, R)
       Opponent: Detroit Tigers
       Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
+    Potential streaming option: Ben Brown (Chicago Cubs, R)
+      Opponent: Athletics
+      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
 
 Tuesday:
   Los Angeles Angels (TBD) @ St. Louis Cardinals (Matthew Liberatore)
