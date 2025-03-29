@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2025-03-28:
-
-Friday:
-  Colorado Rockies (Kyle Freeland) @ Tampa Bay Rays (Ryan Pepiot)
-    Potential streaming option: Kyle Freeland (Colorado Rockies, L)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs LHP: wRC+: 93.58, K%: 0.25%
-    Potential streaming option: Tanner Houck (Boston Red Sox, R)
-      Opponent: Texas Rangers
-      Opponent stats vs RHP: wRC+: 88.84, K%: 0.21%
-    Potential streaming option: Jeffrey Springs (Athletics, L)
-      Opponent: Seattle Mariners
-      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
+Potential streaming options for the week starting 2025-03-29:
 
 Saturday:
   Los Angeles Angels (José Soriano) @ Chicago White Sox (Jonathan Cannon)
