@@ -1,31 +1,13 @@
-Potential streaming options for the week starting 2025-03-30:
-
-Sunday:
-  San Francisco Giants (Robbie Ray) @ Cincinnati Reds (Nick Martinez)
-    Potential streaming option: Nick Martinez (Cincinnati Reds, R)
-      Opponent: San Francisco Giants
-      Opponent stats vs RHP: wRC+: 89.10, K%: 0.26%
-    Potential streaming option: Ryan Feltner (Colorado Rockies, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Max Meyer (Miami Marlins, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
-    Potential streaming option: Davis Martin (Chicago White Sox, R)
-      Opponent: Los Angeles Angels
-      Opponent stats vs RHP: wRC+: 81.85, K%: 0.25%
-    Potential streaming option: Richard Fitts (Boston Red Sox, Unknown)
-      Opponent: Texas Rangers
-      Opponent stats vs UnknownHP: wRC+: 76.81, K%: 0.25%
-    Potential streaming option: JP Sears (Athletics, L)
-      Opponent: Seattle Mariners
-      Opponent stats vs LHP: wRC+: 89.41, K%: 0.26%
+Potential streaming options for the week starting 2025-03-31:
 
 Monday:
   Minnesota Twins (Chris Paddack) @ Chicago White Sox (Martín Pérez)
     Potential streaming option: Chris Paddack (Minnesota Twins, R)
       Opponent: Chicago White Sox
       Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
+    Potential streaming option: Carmen Mlodzinski (Pittsburgh Pirates, R)
+      Opponent: Tampa Bay Rays
+      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
     Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
       Opponent: Pittsburgh Pirates
       Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
@@ -68,4 +50,13 @@ Wednesday:
     Potential streaming option: Sean Burke (Chicago White Sox, Unknown)
       Opponent: Minnesota Twins
       Opponent stats vs UnknownHP: wRC+: 89.16, K%: 0.24%
+    Potential streaming option: MacKenzie Gore (Washington Nationals, L)
+      Opponent: Toronto Blue Jays
+      Opponent stats vs LHP: wRC+: 85.43, K%: 0.24%
+
+Thursday:
+  Colorado Rockies (Antonio Senzatela) @ Philadelphia Phillies (Taijuan Walker)
+    Potential streaming option: Taijuan Walker (Philadelphia Phillies, R)
+      Opponent: Colorado Rockies
+      Opponent stats vs RHP: wRC+: 90.61, K%: 0.28%
 
