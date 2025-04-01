@@ -1,25 +1,4 @@
-Potential streaming options for the week starting 2025-03-31:
-
-Monday:
-  Minnesota Twins (Chris Paddack) @ Chicago White Sox (Martín Pérez)
-    Potential streaming option: Chris Paddack (Minnesota Twins, R)
-      Opponent: Chicago White Sox
-      Opponent stats vs RHP: wRC+: 75.86, K%: 0.24%
-    Potential streaming option: Carmen Mlodzinski (Pittsburgh Pirates, R)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs RHP: wRC+: 87.03, K%: 0.26%
-    Potential streaming option: Drew Rasmussen (Tampa Bay Rays, R)
-      Opponent: Pittsburgh Pirates
-      Opponent stats vs RHP: wRC+: 86.37, K%: 0.23%
-    Potential streaming option: Jackson Jobe (Detroit Tigers, Unknown)
-      Opponent: Seattle Mariners
-      Opponent stats vs UnknownHP: wRC+: 89.41, K%: 0.26%
-    Potential streaming option: Emerson Hancock (Seattle Mariners, R)
-      Opponent: Detroit Tigers
-      Opponent stats vs RHP: wRC+: 94.55, K%: 0.24%
-    Potential streaming option: Ben Brown (Chicago Cubs, R)
-      Opponent: Athletics
-      Opponent stats vs RHP: wRC+: 0.00, K%: 0.00%
+Potential streaming options for the week starting 2025-04-01:
 
 Tuesday:
   Texas Rangers (Nathan Eovaldi) @ Cincinnati Reds (Carson Spiers)
