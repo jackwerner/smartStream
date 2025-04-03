@@ -1,47 +1,65 @@
 Potential streaming options for the week starting 2025-04-03:
 
 Thursday:
-  Arizona Diamondbacks (Merrill Kelly) @ New York Yankees (Carlos Carrasco)
-    Potential streaming option: Carlos Carrasco (New York Yankees, Unknown)
-      Opponent: Arizona Diamondbacks
-      Opponent stats vs UnknownHP: wRC+: 86.02, K%: 0.17%
+  Arizona Diamondbacks @ New York Yankees
+    • Carlos Carrasco (New York Yankees, Unknown)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs UnknownHP: wRC+: 86.0, K%: 0.2%
+
 
 Friday:
-  Athletics (Osvaldo Bido) @ Colorado Rockies (Ryan Feltner)
-    Potential streaming option: Osvaldo Bido (Athletics, Unknown)
-      Opponent: Colorado Rockies
-      Opponent stats vs UnknownHP: wRC+: 74.90, K%: 0.36%
-    Potential streaming option: Jake Irvin (Washington Nationals, Unknown)
-      Opponent: Arizona Diamondbacks
-      Opponent stats vs UnknownHP: wRC+: 86.02, K%: 0.17%
-    Potential streaming option: Tyler Mahle (Texas Rangers, Unknown)
-      Opponent: Tampa Bay Rays
-      Opponent stats vs UnknownHP: wRC+: 43.43, K%: 0.26%
+  Athletics @ Colorado Rockies
+    • Osvaldo Bido (Athletics, Unknown)
+      - Opponent: Colorado Rockies
+      - Stats vs UnknownHP: wRC+: 74.9, K%: 0.4%
+
+  Arizona Diamondbacks @ Washington Nationals
+    • Jake Irvin (Washington Nationals, Unknown)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs UnknownHP: wRC+: 86.0, K%: 0.2%
+
+  Tampa Bay Rays @ Texas Rangers
+    • Tyler Mahle (Texas Rangers, Unknown)
+      - Opponent: Tampa Bay Rays
+      - Stats vs UnknownHP: wRC+: 43.4, K%: 0.3%
+
 
 Saturday:
-  Arizona Diamondbacks (TBD) @ Washington Nationals (Mitchell Parker)
-    Potential streaming option: Mitchell Parker (Washington Nationals, L)
-      Opponent: Arizona Diamondbacks
-      Opponent stats vs LHP: wRC+: 86.02, K%: 0.17%
-    Potential streaming option: Andre Pallante (St. Louis Cardinals, Unknown)
-      Opponent: Boston Red Sox
-      Opponent stats vs UnknownHP: wRC+: 89.80, K%: 0.31%
-    Potential streaming option: JP Sears (Athletics, Unknown)
-      Opponent: Colorado Rockies
-      Opponent stats vs UnknownHP: wRC+: 74.90, K%: 0.36%
-    Potential streaming option: Jack Kochanowicz (Los Angeles Angels, R)
-      Opponent: Cleveland Guardians
-      Opponent stats vs RHP: wRC+: 78.05, K%: 0.25%
+  Arizona Diamondbacks @ Washington Nationals
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs LHP: wRC+: 86.0, K%: 0.2%
+
+  St. Louis Cardinals @ Boston Red Sox
+    • Andre Pallante (St. Louis Cardinals, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 89.8, K%: 0.3%
+
+  Athletics @ Colorado Rockies
+    • JP Sears (Athletics, Unknown)
+      - Opponent: Colorado Rockies
+      - Stats vs UnknownHP: wRC+: 74.9, K%: 0.4%
+
+  Cleveland Guardians @ Los Angeles Angels
+    • Jack Kochanowicz (Los Angeles Angels, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 78.1, K%: 0.2%
+
 
 Sunday:
-  Arizona Diamondbacks (TBD) @ Washington Nationals (Michael Soroka)
-    Potential streaming option: Michael Soroka (Washington Nationals, Unknown)
-      Opponent: Arizona Diamondbacks
-      Opponent stats vs UnknownHP: wRC+: 86.02, K%: 0.17%
-    Potential streaming option: Chris Paddack (Minnesota Twins, Unknown)
-      Opponent: Houston Astros
-      Opponent stats vs UnknownHP: wRC+: 21.93, K%: 0.33%
-    Potential streaming option: Miles Mikolas (St. Louis Cardinals, Unknown)
-      Opponent: Boston Red Sox
-      Opponent stats vs UnknownHP: wRC+: 89.80, K%: 0.31%
+  Arizona Diamondbacks @ Washington Nationals
+    • Michael Soroka (Washington Nationals, Unknown)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs UnknownHP: wRC+: 86.0, K%: 0.2%
+
+  Houston Astros @ Minnesota Twins
+    • Chris Paddack (Minnesota Twins, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 21.9, K%: 0.3%
+
+  St. Louis Cardinals @ Boston Red Sox
+    • Miles Mikolas (St. Louis Cardinals, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 89.8, K%: 0.3%
+
 

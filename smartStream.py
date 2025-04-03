@@ -195,11 +195,6 @@ def main():
     lhp_stats = team_stats['vs_lhp']
     rhp_stats = team_stats['vs_rhp']
     
-    # Enhanced debug prints for team stats
-    print(f"Loaded stats for {len(lhp_stats)} teams vs LHP and {len(rhp_stats)} teams vs RHP")
-    print("LHP stats type:", type(lhp_stats))
-    print("RHP stats type:", type(rhp_stats))
-    
     # If DataFrame, convert to dictionaries using the TeamNameAbb directly
     if hasattr(lhp_stats, 'columns'):
         print("Converting DataFrames to dictionaries using TeamNameAbb...")
@@ -232,9 +227,6 @@ def main():
             lhp_stats = lhp_stats_dict
             rhp_stats = rhp_stats_dict
             
-            print(f"Converted: LHP stats now has {len(lhp_stats)} teams, RHP stats has {len(rhp_stats)} teams")
-            print("Sample of converted LHP stats:", dict(list(lhp_stats.items())[:3]))
-            print("Sample of converted RHP stats:", dict(list(rhp_stats.items())[:3]))
         else:
             print("WARNING: Required columns not found in dataframes")
             print("LHP columns:", lhp_stats.columns.tolist())
@@ -245,10 +237,10 @@ def main():
     pitcher_handedness = {}
     
     if pitcher_df is not None and 'PlayerName' in pitcher_df.columns and 'Throws' in pitcher_df.columns:
+        print(pitcher_df.columns)
         for _, row in pitcher_df.iterrows():
             pitcher_handedness[row['PlayerName']] = row['Throws']  # Throws column contains 'R' or 'L'
         print(f"Loaded handedness for {len(pitcher_handedness)} pitchers")
-        print("Sample pitcher handedness:", dict(list(pitcher_handedness.items())[:5]))
     else:
         print("Warning: Failed to retrieve pitcher handedness data from Fangraphs")
 
@@ -264,8 +256,7 @@ def main():
     with open('smartstream_results.txt', 'w') as f:
         f.write(f"Potential streaming options for the week starting {start_date.strftime('%Y-%m-%d')}:\n\n")
         for day, matchups in matchups_by_day.items():
-            streamer_found = False
-            game_printed = False
+            day_printed = False
             for away_team, home_team, away_pitcher, home_pitcher in matchups:
                 available_pitchers = []
                 for pitcher_name in [away_pitcher, home_pitcher]:
@@ -281,11 +272,13 @@ def main():
                         pitcher_team = away_team if pitcher_name == away_pitcher else home_team
                         handedness = pitcher_handedness.get(pitcher_name, 'Unknown')
                         
+                        if handedness == 'Unknown':
+                            print(f"Handedness unknown for pitcher: {pitcher_name}")
+                        
                         opponent = home_team if pitcher_name == away_pitcher else away_team
                         split_stats = rhp_stats if handedness == 'R' else lhp_stats
                         
                         opponent_abbr = team_name_mapping.get(opponent, opponent)
-                        print(f"Looking up {opponent} (abbr: {opponent_abbr}) in {'RHP' if handedness == 'R' else 'LHP'} stats")
                         
                         opponent_stats = split_stats.get(opponent_abbr, {})
                         if not opponent_stats:
@@ -293,29 +286,29 @@ def main():
                         
                         wrc_plus = opponent_stats.get('wRC+', 0)
                         k_percent = opponent_stats.get('K%', 0)
-                        print(f"Stats found for {opponent_abbr}: wRC+: {wrc_plus}, K%: {k_percent}")
 
                         # Check for potential streaming option
                         if wrc_plus < 100 or k_percent > 22:
-                            print(f"Found potential streamer: {pitcher_name} against {opponent_abbr}")
                             potential_streamers.append((pitcher_name, pitcher_team, handedness, opponent, wrc_plus, k_percent))
-                            streamer_found = True
-                        else:
-                            print(f"Not a good streaming option: {pitcher_name} against {opponent_abbr} (wRC+: {wrc_plus}, K%: {k_percent})")
                     
                     if potential_streamers:
-                        if not game_printed:
-                            f.write(f"{day}:\n  {away_team} ({away_pitcher}) @ {home_team} ({home_pitcher})\n")
-                            game_printed = True
+                        if not day_printed:
+                            f.write(f"{day}:\n")
+                            day_printed = True
+                        
+                        # Write game information once per game with streamers
+                        f.write(f"  {away_team} @ {home_team}\n")
                         
                         for pitcher_info in potential_streamers:
                             pitcher_name, pitcher_team, handedness, opponent, wrc_plus, k_percent = pitcher_info
-                            f.write(f"    Potential streaming option: {pitcher_name} ({pitcher_team}, {handedness})\n")
-                            f.write(f"      Opponent: {opponent}\n")
-                            f.write(f"      Opponent stats vs {handedness}HP: wRC+: {wrc_plus:.2f}, K%: {k_percent:.2f}%\n")
+                            f.write(f"    • {pitcher_name} ({pitcher_team}, {handedness})\n")
+                            f.write(f"      - Opponent: {opponent}\n")
+                            f.write(f"      - Stats vs {handedness}HP: wRC+: {wrc_plus:.1f}, K%: {k_percent:.1f}%\n")
+                        
+                        f.write("\n")  # Add space between games
             
-            if streamer_found:
-                f.write('\n')
+            if day_printed:
+                f.write("\n")  # Add extra space between days
 
 if __name__ == "__main__":
     main()
