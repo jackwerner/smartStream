@@ -11,35 +11,6 @@ import dotenv
 
 dotenv.load_dotenv()
 
-def load_team_stats(filename):
-    stats = {}
-    with open(filename, 'r', encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            try:
-                team = row['Tm'].strip('"')
-                wrc_plus = float(row['wRC+'].strip('"'))
-                k_percent = float(row['K%'].strip('"').rstrip('%'))
-                stats[team] = {'wRC+': wrc_plus, 'K%': k_percent}
-            except KeyError as e:
-                print(f"KeyError in {filename}: {e}")
-                print(f"Row causing error: {row}")
-            except ValueError as e:
-                print(f"ValueError in {filename}: {e}")
-                print(f"Row causing error: {row}")
-    return stats
-
-def load_pitcher_handedness(filename):
-    handedness = {}
-    with open(filename, 'r') as file:
-        csv_reader = csv.reader(file)
-        next(csv_reader)  # Skip header
-        for row in csv_reader:
-            if len(row) >= 2:
-                full_name = row[0].strip('"')
-                handedness[full_name] = 'L' if 'left_handed' in filename else 'R'
-    return handedness
-
 def get_games_for_week(start_date):
     base_url = "https://statsapi.mlb.com/api/v1/schedule"
     games_for_week = []
@@ -211,7 +182,7 @@ def main():
                 k_pct = float(row['K%'].rstrip('%')) if isinstance(row['K%'], str) else float(row['K%'])
                 lhp_stats_dict[team_abbr] = {
                     'wRC+': float(row['wRC+']),
-                    'K%': k_pct
+                    'K%': k_pct*100
                 }
             
             for _, row in rhp_stats.iterrows():
@@ -220,7 +191,7 @@ def main():
                 k_pct = float(row['K%'].rstrip('%')) if isinstance(row['K%'], str) else float(row['K%'])
                 rhp_stats_dict[team_abbr] = {
                     'wRC+': float(row['wRC+']),
-                    'K%': k_pct
+                    'K%': k_pct*100
                 }
             
             # Use these dictionaries instead of the original dataframes
