@@ -7,3 +7,4 @@ pytz==2024.1
 requests==2.32.3
 urllib3==2.2.2
 zope.interface==7.0.1
+brotli==1.1.0
