@@ -4,30 +4,45 @@ Friday:
   Chicago White Sox @ Detroit Tigers
     • Jonathan Cannon (Chicago White Sox, Unknown)
       - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 86.8, K%: 0.3%
+      - Stats vs UnknownHP: wRC+: 86.8, K%: 25.4%
 
   Tampa Bay Rays @ Texas Rangers
     • Tyler Mahle (Texas Rangers, Unknown)
       - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 42.2, K%: 0.3%
+      - Stats vs UnknownHP: wRC+: 42.2, K%: 26.3%
 
 
 Saturday:
+  Chicago White Sox @ Detroit Tigers
+    • Davis Martin (Chicago White Sox, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 137.5, K%: 27.1%
+
+  St. Louis Cardinals @ Boston Red Sox
+    • Andre Pallante (St. Louis Cardinals, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 111.1, K%: 28.8%
+
   Athletics @ Colorado Rockies
     • JP Sears (Athletics, Unknown)
       - Opponent: Colorado Rockies
-      - Stats vs UnknownHP: wRC+: 90.3, K%: 0.4%
+      - Stats vs UnknownHP: wRC+: 90.3, K%: 37.3%
 
   Cleveland Guardians @ Los Angeles Angels
     • Jack Kochanowicz (Los Angeles Angels, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 76.5, K%: 0.2%
+      - Stats vs RHP: wRC+: 76.5, K%: 25.0%
 
 
 Sunday:
   Houston Astros @ Minnesota Twins
     • Chris Paddack (Minnesota Twins, Unknown)
       - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 20.4, K%: 0.3%
+      - Stats vs UnknownHP: wRC+: 20.4, K%: 33.3%
+
+  St. Louis Cardinals @ Boston Red Sox
+    • Miles Mikolas (St. Louis Cardinals, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 111.1, K%: 28.8%
 
 
