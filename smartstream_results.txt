@@ -1,48 +1,46 @@
-Potential streaming options for the week starting 2025-04-04:
-
-Friday:
-  Chicago White Sox @ Detroit Tigers
-    • Jonathan Cannon (Chicago White Sox, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 86.8, K%: 25.4%
-
-  Tampa Bay Rays @ Texas Rangers
-    • Tyler Mahle (Texas Rangers, Unknown)
-      - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 42.2, K%: 26.3%
-
+Potential streaming options for the week starting 2025-04-05:
 
 Saturday:
   Chicago White Sox @ Detroit Tigers
-    • Davis Martin (Chicago White Sox, R)
+    • Davis Martin (Chicago White Sox, Unknown)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 137.5, K%: 27.1%
+      - Stats vs UnknownHP: wRC+: 118.9, K%: 23.8%
 
   St. Louis Cardinals @ Boston Red Sox
     • Andre Pallante (St. Louis Cardinals, Unknown)
       - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 111.1, K%: 28.8%
+      - Stats vs UnknownHP: wRC+: 127.6, K%: 23.8%
+    • Richard Fitts (Boston Red Sox, Unknown)
+      - Opponent: St. Louis Cardinals
+      - Stats vs UnknownHP: wRC+: 157.3, K%: 23.0%
+
+  Toronto Blue Jays @ New York Mets
+    • Griffin Canning (New York Mets, Unknown)
+      - Opponent: Toronto Blue Jays
+      - Stats vs UnknownHP: wRC+: 193.3, K%: 23.9%
 
   Athletics @ Colorado Rockies
     • JP Sears (Athletics, Unknown)
       - Opponent: Colorado Rockies
-      - Stats vs UnknownHP: wRC+: 90.3, K%: 37.3%
-
-  Cleveland Guardians @ Los Angeles Angels
-    • Jack Kochanowicz (Los Angeles Angels, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 76.5, K%: 25.0%
+      - Stats vs UnknownHP: wRC+: 90.9, K%: 37.3%
 
 
 Sunday:
   Houston Astros @ Minnesota Twins
     • Chris Paddack (Minnesota Twins, Unknown)
       - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 20.4, K%: 33.3%
+      - Stats vs UnknownHP: wRC+: 17.7, K%: 33.3%
 
   St. Louis Cardinals @ Boston Red Sox
     • Miles Mikolas (St. Louis Cardinals, Unknown)
       - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 111.1, K%: 28.8%
+      - Stats vs UnknownHP: wRC+: 127.6, K%: 23.8%
+
+
+Monday:
+  St. Louis Cardinals @ Pittsburgh Pirates
+    • Matthew Liberatore (St. Louis Cardinals, Unknown)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs UnknownHP: wRC+: 49.3, K%: 34.1%
 
 
