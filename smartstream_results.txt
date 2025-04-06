@@ -1,46 +1,55 @@
-Potential streaming options for the week starting 2025-04-05:
+Potential streaming options for the week starting 2025-04-06:
 
-Saturday:
-  Chicago White Sox @ Detroit Tigers
-    • Davis Martin (Chicago White Sox, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 118.9, K%: 23.8%
-
+Sunday:
   St. Louis Cardinals @ Boston Red Sox
     • Andre Pallante (St. Louis Cardinals, Unknown)
       - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 127.6, K%: 23.8%
-    • Richard Fitts (Boston Red Sox, Unknown)
-      - Opponent: St. Louis Cardinals
-      - Stats vs UnknownHP: wRC+: 157.3, K%: 23.0%
-
-  Toronto Blue Jays @ New York Mets
-    • Griffin Canning (New York Mets, Unknown)
-      - Opponent: Toronto Blue Jays
-      - Stats vs UnknownHP: wRC+: 193.3, K%: 23.9%
-
-  Athletics @ Colorado Rockies
-    • JP Sears (Athletics, Unknown)
-      - Opponent: Colorado Rockies
-      - Stats vs UnknownHP: wRC+: 90.9, K%: 37.3%
-
-
-Sunday:
-  Houston Astros @ Minnesota Twins
-    • Chris Paddack (Minnesota Twins, Unknown)
-      - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 17.7, K%: 33.3%
+      - Stats vs UnknownHP: wRC+: 123.6, K%: 23.8%
 
   St. Louis Cardinals @ Boston Red Sox
     • Miles Mikolas (St. Louis Cardinals, Unknown)
       - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 127.6, K%: 23.8%
+      - Stats vs UnknownHP: wRC+: 123.6, K%: 23.8%
+
+  Baltimore Orioles @ Kansas City Royals
+    • Cade Povich (Baltimore Orioles, Unknown)
+      - Opponent: Kansas City Royals
+      - Stats vs UnknownHP: wRC+: 89.0, K%: 20.0%
+
+  Houston Astros @ Minnesota Twins
+    • Chris Paddack (Minnesota Twins, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 16.0, K%: 33.3%
+
+  Cincinnati Reds @ Milwaukee Brewers
+    • Carson Spiers (Cincinnati Reds, Unknown)
+      - Opponent: Milwaukee Brewers
+      - Stats vs UnknownHP: wRC+: 59.5, K%: 27.5%
 
 
 Monday:
   St. Louis Cardinals @ Pittsburgh Pirates
     • Matthew Liberatore (St. Louis Cardinals, Unknown)
       - Opponent: Pittsburgh Pirates
-      - Stats vs UnknownHP: wRC+: 49.3, K%: 34.1%
+      - Stats vs UnknownHP: wRC+: 44.2, K%: 36.4%
+
+  Minnesota Twins @ Kansas City Royals
+    • Michael Lorenzen (Kansas City Royals, Unknown)
+      - Opponent: Minnesota Twins
+      - Stats vs UnknownHP: wRC+: -2.7, K%: 31.3%
+
+
+Tuesday:
+  Chicago White Sox @ Cleveland Guardians
+    • Ben Lively (Cleveland Guardians, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 87.5, K%: 21.8%
+
+
+Wednesday:
+  Chicago White Sox @ Cleveland Guardians
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 95.0, K%: 24.3%
 
 
