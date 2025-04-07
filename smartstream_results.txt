@@ -1,55 +1,33 @@
-Potential streaming options for the week starting 2025-04-06:
-
-Sunday:
-  St. Louis Cardinals @ Boston Red Sox
-    • Andre Pallante (St. Louis Cardinals, Unknown)
-      - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 123.6, K%: 23.8%
-
-  St. Louis Cardinals @ Boston Red Sox
-    • Miles Mikolas (St. Louis Cardinals, Unknown)
-      - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 123.6, K%: 23.8%
-
-  Baltimore Orioles @ Kansas City Royals
-    • Cade Povich (Baltimore Orioles, Unknown)
-      - Opponent: Kansas City Royals
-      - Stats vs UnknownHP: wRC+: 89.0, K%: 20.0%
-
-  Houston Astros @ Minnesota Twins
-    • Chris Paddack (Minnesota Twins, Unknown)
-      - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 16.0, K%: 33.3%
-
-  Cincinnati Reds @ Milwaukee Brewers
-    • Carson Spiers (Cincinnati Reds, Unknown)
-      - Opponent: Milwaukee Brewers
-      - Stats vs UnknownHP: wRC+: 59.5, K%: 27.5%
-
+Potential streaming options for the week starting 2025-04-07:
 
 Monday:
-  St. Louis Cardinals @ Pittsburgh Pirates
-    • Matthew Liberatore (St. Louis Cardinals, Unknown)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs UnknownHP: wRC+: 44.2, K%: 36.4%
-
   Minnesota Twins @ Kansas City Royals
     • Michael Lorenzen (Kansas City Royals, Unknown)
       - Opponent: Minnesota Twins
-      - Stats vs UnknownHP: wRC+: -2.7, K%: 31.3%
+      - Stats vs UnknownHP: wRC+: -15.0, K%: 32.9%
 
 
 Tuesday:
   Chicago White Sox @ Cleveland Guardians
     • Ben Lively (Cleveland Guardians, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 87.5, K%: 21.8%
+      - Stats vs RHP: wRC+: 79.1, K%: 20.6%
+
+  Baltimore Orioles @ Arizona Diamondbacks
+    • Charlie Morton (Baltimore Orioles, Unknown)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs UnknownHP: wRC+: 95.3, K%: 14.8%
 
 
 Wednesday:
   Chicago White Sox @ Cleveland Guardians
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 95.0, K%: 24.3%
+      - Stats vs RHP: wRC+: 86.9, K%: 25.4%
+
+  Philadelphia Phillies @ Atlanta Braves
+    • Taijuan Walker (Philadelphia Phillies, Unknown)
+      - Opponent: Atlanta Braves
+      - Stats vs UnknownHP: wRC+: 44.4, K%: 23.0%
 
 
