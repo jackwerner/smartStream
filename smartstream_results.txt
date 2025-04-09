@@ -1,58 +1,48 @@
-Potential streaming options for the week starting 2025-04-08:
-
-Tuesday:
-  New York Yankees @ Detroit Tigers
-    • Carlos Carrasco (New York Yankees, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 87.0, K%: 24.3%
-
-  Miami Marlins @ New York Mets
-    • Connor Gillispie (Miami Marlins, R)
-      - Opponent: New York Mets
-      - Stats vs RHP: wRC+: 85.6, K%: 19.6%
-
-  Los Angeles Angels @ Tampa Bay Rays
-    • Kyle Hendricks (Los Angeles Angels, Unknown)
-      - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 25.5, K%: 26.9%
-
-  Baltimore Orioles @ Arizona Diamondbacks
-    • Charlie Morton (Baltimore Orioles, Unknown)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs UnknownHP: wRC+: 94.5, K%: 14.4%
-
+Potential streaming options for the week starting 2025-04-09:
 
 Wednesday:
   Los Angeles Dodgers @ Washington Nationals
-    • Jake Irvin (Washington Nationals, R)
+    • Jake Irvin (Washington Nationals, Unknown)
       - Opponent: Los Angeles Dodgers
-      - Stats vs RHP: wRC+: 146.1, K%: 22.0%
+      - Stats vs UnknownHP: wRC+: 78.9, K%: 25.5%
 
   Chicago White Sox @ Cleveland Guardians
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 88.9, K%: 25.4%
+      - Stats vs RHP: wRC+: 85.9, K%: 25.0%
 
   Philadelphia Phillies @ Atlanta Braves
     • Taijuan Walker (Philadelphia Phillies, Unknown)
       - Opponent: Atlanta Braves
-      - Stats vs UnknownHP: wRC+: 45.1, K%: 23.0%
+      - Stats vs UnknownHP: wRC+: 54.5, K%: 22.0%
     • Grant Holmes (Atlanta Braves, Unknown)
       - Opponent: Philadelphia Phillies
-      - Stats vs UnknownHP: wRC+: 103.0, K%: 28.0%
+      - Stats vs UnknownHP: wRC+: 115.7, K%: 26.5%
+
+  Milwaukee Brewers @ Colorado Rockies
+    • Tyler Alexander (Milwaukee Brewers, Unknown)
+      - Opponent: Colorado Rockies
+      - Stats vs UnknownHP: wRC+: 98.9, K%: 27.6%
 
 
 Friday:
   Philadelphia Phillies @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, Unknown)
       - Opponent: Philadelphia Phillies
-      - Stats vs UnknownHP: wRC+: 103.0, K%: 28.0%
+      - Stats vs UnknownHP: wRC+: 115.7, K%: 26.5%
 
 
 Saturday:
   Philadelphia Phillies @ St. Louis Cardinals
     • Miles Mikolas (St. Louis Cardinals, Unknown)
       - Opponent: Philadelphia Phillies
-      - Stats vs UnknownHP: wRC+: 103.0, K%: 28.0%
+      - Stats vs UnknownHP: wRC+: 115.7, K%: 26.5%
+
+
+Sunday:
+  Boston Red Sox @ Chicago White Sox
+    • Shane Smith (Chicago White Sox, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 117.2, K%: 22.7%
 
 
