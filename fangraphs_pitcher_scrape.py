@@ -19,7 +19,7 @@ def scrape_fangraphs_pitcher_data(season="2025"):
     end_date = f"{season}-11-01"
     position = "all"
     league = "all"
-    qualified = "y"
+    qualified = "n"
     team = "0"
     sort_stat = "WAR"
     verbose = False
@@ -211,7 +211,7 @@ def scrape_fangraphs_pitcher_data(season="2025"):
 if __name__ == "__main__":
     # This code will only run when the script is executed directly, not when imported
     df = scrape_fangraphs_pitcher_data(season="2025")
-    
+    print(df.head())
     if df is not None:
         print(f"Successfully retrieved {len(df)} pitcher records")
     else:

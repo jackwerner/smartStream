@@ -247,7 +247,7 @@ def main():
                             print(f"Handedness unknown for pitcher: {pitcher_name}")
                         
                         opponent = home_team if pitcher_name == away_pitcher else away_team
-                        split_stats = rhp_stats if handedness == 'R' else lhp_stats
+                        split_stats = lhp_stats if handedness == 'L' else rhp_stats
                         
                         opponent_abbr = team_name_mapping.get(opponent, opponent)
                         
@@ -274,7 +274,9 @@ def main():
                             pitcher_name, pitcher_team, handedness, opponent, wrc_plus, k_percent = pitcher_info
                             f.write(f"    • {pitcher_name} ({pitcher_team}, {handedness})\n")
                             f.write(f"      - Opponent: {opponent}\n")
-                            f.write(f"      - Stats vs {handedness}HP: wRC+: {wrc_plus:.1f}, K%: {k_percent:.1f}%\n")
+                            # Fix the display of handedness
+                            handedness_display = "RHP" if handedness == "R" else "LHP" if handedness == "L" else "UnknownHP"
+                            f.write(f"      - Stats vs {handedness_display}: wRC+: {wrc_plus:.1f}, K%: {k_percent:.1f}%\n")
                         
                         f.write("\n")  # Add space between games
             
