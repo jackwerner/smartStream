@@ -1,48 +1,53 @@
-Potential streaming options for the week starting 2025-04-10:
+Potential streaming options for the week starting 2025-04-11:
 
 Friday:
-  San Francisco Giants @ New York Yankees
-    • Marcus Stroman (New York Yankees, Unknown)
-      - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 84.1, K%: 23.7%
-
   Los Angeles Angels @ Houston Astros
-    • Ronel Blanco (Houston Astros, Unknown)
-      - Opponent: Los Angeles Angels
-      - Stats vs UnknownHP: wRC+: 93.7, K%: 25.0%
+    • Jack Kochanowicz (Los Angeles Angels, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 76.6, K%: 25.3%
 
-  Philadelphia Phillies @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, Unknown)
-      - Opponent: Philadelphia Phillies
-      - Stats vs UnknownHP: wRC+: 119.6, K%: 27.5%
+  Detroit Tigers @ Minnesota Twins
+    • David Festa (Minnesota Twins, Unknown)
+      - Opponent: Detroit Tigers
+      - Stats vs UnknownHP: wRC+: 159.4, K%: 24.5%
 
 
 Saturday:
-  Philadelphia Phillies @ St. Louis Cardinals
-    • Miles Mikolas (St. Louis Cardinals, Unknown)
-      - Opponent: Philadelphia Phillies
-      - Stats vs UnknownHP: wRC+: 119.6, K%: 27.5%
-
   San Francisco Giants @ New York Yankees
-    • Will Warren (New York Yankees, Unknown)
+    • Will Warren (New York Yankees, R)
       - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 84.1, K%: 23.7%
+      - Stats vs RHP: wRC+: 98.2, K%: 24.4%
 
-  Toronto Blue Jays @ Baltimore Orioles
-    • Cade Povich (Baltimore Orioles, Unknown)
-      - Opponent: Toronto Blue Jays
-      - Stats vs UnknownHP: wRC+: 152.2, K%: 22.4%
+  Kansas City Royals @ Cleveland Guardians
+    • Michael Lorenzen (Kansas City Royals, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 95.2, K%: 23.4%
+
+  Los Angeles Angels @ Houston Astros
+    • Tyler Anderson (Los Angeles Angels, L)
+      - Opponent: Houston Astros
+      - Stats vs LHP: wRC+: -16.8, K%: 23.1%
 
   Chicago Cubs @ Los Angeles Dodgers
-    • Ben Brown (Chicago Cubs, Unknown)
+    • Ben Brown (Chicago Cubs, R)
       - Opponent: Los Angeles Dodgers
-      - Stats vs UnknownHP: wRC+: 79.8, K%: 25.5%
+      - Stats vs RHP: wRC+: 140.4, K%: 23.5%
 
 
 Sunday:
+  Los Angeles Angels @ Houston Astros
+    • Kyle Hendricks (Los Angeles Angels, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 76.6, K%: 25.3%
+
+  Detroit Tigers @ Minnesota Twins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 159.4, K%: 24.5%
+
   Boston Red Sox @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 105.7, K%: 24.1%
+      - Stats vs RHP: wRC+: 103.3, K%: 24.1%
 
 
