@@ -1,53 +1,36 @@
-Potential streaming options for the week starting 2025-04-11:
-
-Friday:
-  Los Angeles Angels @ Houston Astros
-    • Jack Kochanowicz (Los Angeles Angels, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 76.6, K%: 25.3%
-
-  Detroit Tigers @ Minnesota Twins
-    • David Festa (Minnesota Twins, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 159.4, K%: 24.5%
-
+Potential streaming options for the week starting 2025-04-12:
 
 Saturday:
-  San Francisco Giants @ New York Yankees
-    • Will Warren (New York Yankees, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 98.2, K%: 24.4%
+  Washington Nationals @ Miami Marlins
+    • Trevor Williams (Washington Nationals, R)
+      - Opponent: Miami Marlins
+      - Stats vs RHP: wRC+: 79.3, K%: 28.2%
 
-  Kansas City Royals @ Cleveland Guardians
-    • Michael Lorenzen (Kansas City Royals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 95.2, K%: 23.4%
-
-  Los Angeles Angels @ Houston Astros
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Houston Astros
-      - Stats vs LHP: wRC+: -16.8, K%: 23.1%
+  Pittsburgh Pirates @ Cincinnati Reds
+    • Andrew Abbott (Cincinnati Reds, Unknown)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs UnknownHP: wRC+: 71.0, K%: 23.4%
 
   Chicago Cubs @ Los Angeles Dodgers
     • Ben Brown (Chicago Cubs, R)
       - Opponent: Los Angeles Dodgers
-      - Stats vs RHP: wRC+: 140.4, K%: 23.5%
+      - Stats vs RHP: wRC+: 139.8, K%: 23.5%
 
 
 Sunday:
   Los Angeles Angels @ Houston Astros
     • Kyle Hendricks (Los Angeles Angels, R)
       - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 76.6, K%: 25.3%
+      - Stats vs RHP: wRC+: 86.9, K%: 23.7%
 
   Detroit Tigers @ Minnesota Twins
     • Simeon Woods Richardson (Minnesota Twins, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 159.4, K%: 24.5%
+      - Stats vs RHP: wRC+: 149.7, K%: 23.5%
 
   Boston Red Sox @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 103.3, K%: 24.1%
+      - Stats vs RHP: wRC+: 100.7, K%: 24.5%
 
 
