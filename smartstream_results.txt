@@ -1,22 +1,22 @@
-Potential streaming options for the week starting 2025-04-13:
+Potential streaming options for the week starting 2025-04-14:
 
-Sunday:
-  Los Angeles Angels @ Houston Astros
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 87.6, K%: 24.0%
-
-  Detroit Tigers @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 137.7, K%: 23.5%
+Monday:
+  Atlanta Braves @ Toronto Blue Jays
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Toronto Blue Jays
+      - Stats vs RHP: wRC+: 95.5, K%: 17.7%
 
 
 Tuesday:
-  Boston Red Sox @ Tampa Bay Rays
-    • Zack Littell (Tampa Bay Rays, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 97.8, K%: 24.9%
+  Washington Nationals @ Pittsburgh Pirates
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 63.4, K%: 23.9%
+
+  Cleveland Guardians @ Baltimore Orioles
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 98.2, K%: 23.2%
 
   Athletics @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
@@ -25,9 +25,41 @@ Tuesday:
 
 
 Wednesday:
+  New York Mets @ Minnesota Twins
+    • David Festa (Minnesota Twins, R)
+      - Opponent: New York Mets
+      - Stats vs RHP: wRC+: 90.6, K%: 18.9%
+
+  Detroit Tigers @ Milwaukee Brewers
+    • Jose Quintana (Milwaukee Brewers, L)
+      - Opponent: Detroit Tigers
+      - Stats vs LHP: wRC+: 93.2, K%: 28.0%
+
   Houston Astros @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 87.6, K%: 24.0%
+      - Stats vs RHP: wRC+: 90.3, K%: 23.4%
+
+  Boston Red Sox @ Tampa Bay Rays
+    • Zack Littell (Tampa Bay Rays, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 99.2, K%: 24.3%
+
+  Athletics @ Chicago White Sox
+    • Osvaldo Bido (Athletics, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 72.5, K%: 23.1%
+
+
+Thursday:
+  Athletics @ Chicago White Sox
+    • JP Sears (Athletics, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 54.5, K%: 29.8%
+
+  Los Angeles Angels @ Texas Rangers
+    • Jack Kochanowicz (Los Angeles Angels, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 74.9, K%: 22.0%
 
 
