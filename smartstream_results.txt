@@ -1,56 +1,26 @@
-Potential streaming options for the week starting 2025-04-19:
-
-Saturday:
-  Chicago White Sox @ Boston Red Sox
-    • Shane Smith (Chicago White Sox, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 100.9, K%: 25.0%
-
-  Athletics @ Milwaukee Brewers
-    • Chad Patrick (Milwaukee Brewers, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
-  Minnesota Twins @ Atlanta Braves
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 95.9, K%: 27.2%
-
-  San Francisco Giants @ Los Angeles Angels
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 110.6, K%: 24.8%
-
+Potential streaming options for the week starting 2025-04-20:
 
 Sunday:
   Cincinnati Reds @ Baltimore Orioles
     • Charlie Morton (Baltimore Orioles, R)
       - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 84.5, K%: 23.7%
-
-  Minnesota Twins @ Atlanta Braves
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 98.8, K%: 19.5%
+      - Stats vs RHP: wRC+: 91.4, K%: 23.4%
 
   Chicago White Sox @ Boston Red Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 100.9, K%: 25.0%
+      - Stats vs RHP: wRC+: 102.1, K%: 24.4%
 
   Washington Nationals @ Colorado Rockies
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 62.9, K%: 29.8%
     • Kyle Freeland (Colorado Rockies, L)
       - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 68.9, K%: 25.7%
+      - Stats vs LHP: wRC+: 75.3, K%: 24.9%
 
 
 Monday:
   New York Yankees @ Cleveland Guardians
     • Gavin Williams (Cleveland Guardians, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 127.3, K%: 23.8%
+      - Stats vs RHP: wRC+: 127.2, K%: 24.2%
 
 
