@@ -1,70 +1,63 @@
-Potential streaming options for the week starting 2025-04-21:
-
-Monday:
-  New York Yankees @ Cleveland Guardians
-    • Gavin Williams (Cleveland Guardians, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 128.3, K%: 24.4%
-
-  Milwaukee Brewers @ San Francisco Giants
-    • Quinn Priester (Milwaukee Brewers, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 106.4, K%: 23.7%
-
+Potential streaming options for the week starting 2025-04-22:
 
 Tuesday:
+  Cincinnati Reds @ Miami Marlins
+    • Edward Cabrera (Miami Marlins, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 104.0, K%: 22.8%
+
   Baltimore Orioles @ Washington Nationals
     • Dean Kremer (Baltimore Orioles, R)
       - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 97.7, K%: 19.7%
+      - Stats vs RHP: wRC+: 97.4, K%: 19.7%
 
-  St. Louis Cardinals @ Atlanta Braves
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.7, K%: 26.1%
+  Pittsburgh Pirates @ Los Angeles Angels
+    • Bailey Falter (Pittsburgh Pirates, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 73.1, K%: 25.7%
 
   Texas Rangers @ Athletics
-    • Osvaldo Bido (Athletics, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 81.2, K%: 22.4%
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Athletics
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
 
 
 Wednesday:
   St. Louis Cardinals @ Atlanta Braves
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.7, K%: 26.1%
+      - Stats vs RHP: wRC+: 102.2, K%: 25.6%
 
   Chicago White Sox @ Minnesota Twins
     • David Festa (Minnesota Twins, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 74.7, K%: 22.9%
+      - Stats vs RHP: wRC+: 71.9, K%: 23.5%
 
 
 Thursday:
+  Chicago White Sox @ Minnesota Twins
+    • Shane Smith (Chicago White Sox, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 94.0, K%: 20.0%
+
   Colorado Rockies @ Kansas City Royals
     • Chase Dollander (Colorado Rockies, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 62.6, K%: 20.6%
+      - Stats vs RHP: wRC+: 62.3, K%: 20.6%
 
   Milwaukee Brewers @ San Francisco Giants
     • Tobias Myers (Milwaukee Brewers, Unknown)
       - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 106.4, K%: 23.7%
-
-  Baltimore Orioles @ Washington Nationals
-    • Cade Povich (Baltimore Orioles, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 77.9, K%: 24.3%
+      - Stats vs UnknownHP: wRC+: 106.2, K%: 23.4%
 
   Pittsburgh Pirates @ Los Angeles Angels
     • Tyler Anderson (Los Angeles Angels, L)
       - Opponent: Pittsburgh Pirates
-      - Stats vs LHP: wRC+: 56.1, K%: 28.9%
+      - Stats vs LHP: wRC+: 55.8, K%: 28.9%
 
   Texas Rangers @ Athletics
     • J.T. Ginn (Athletics, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 81.2, K%: 22.4%
+      - Stats vs RHP: wRC+: 80.9, K%: 22.4%
 
 
