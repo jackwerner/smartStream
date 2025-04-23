@@ -1,63 +1,31 @@
-Potential streaming options for the week starting 2025-04-22:
-
-Tuesday:
-  Cincinnati Reds @ Miami Marlins
-    • Edward Cabrera (Miami Marlins, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 104.0, K%: 22.8%
-
-  Baltimore Orioles @ Washington Nationals
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 97.4, K%: 19.7%
-
-  Pittsburgh Pirates @ Los Angeles Angels
-    • Bailey Falter (Pittsburgh Pirates, L)
-      - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 73.1, K%: 25.7%
-
-  Texas Rangers @ Athletics
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-04-23:
 
 Wednesday:
   St. Louis Cardinals @ Atlanta Braves
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 102.2, K%: 25.6%
-
-  Chicago White Sox @ Minnesota Twins
-    • David Festa (Minnesota Twins, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 71.9, K%: 23.5%
+      - Stats vs RHP: wRC+: 103.6, K%: 24.8%
 
 
 Thursday:
   Chicago White Sox @ Minnesota Twins
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 94.0, K%: 20.0%
+      - Stats vs RHP: wRC+: 94.4, K%: 20.0%
 
   Colorado Rockies @ Kansas City Royals
     • Chase Dollander (Colorado Rockies, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 62.3, K%: 20.6%
+      - Stats vs RHP: wRC+: 63.6, K%: 20.1%
 
   Milwaukee Brewers @ San Francisco Giants
     • Tobias Myers (Milwaukee Brewers, Unknown)
       - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 106.2, K%: 23.4%
-
-  Pittsburgh Pirates @ Los Angeles Angels
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs LHP: wRC+: 55.8, K%: 28.9%
+      - Stats vs UnknownHP: wRC+: 105.8, K%: 23.0%
 
   Texas Rangers @ Athletics
     • J.T. Ginn (Athletics, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 80.9, K%: 22.4%
+      - Stats vs RHP: wRC+: 87.9, K%: 21.8%
 
 
