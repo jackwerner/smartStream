@@ -1,36 +1,53 @@
-Potential streaming options for the week starting 2025-04-24:
-
-Thursday:
-  Chicago White Sox @ Minnesota Twins
-    • Chris Paddack (Minnesota Twins, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 73.7, K%: 23.8%
-
-  Colorado Rockies @ Kansas City Royals
-    • Chase Dollander (Colorado Rockies, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 63.3, K%: 20.1%
-
-  Milwaukee Brewers @ San Francisco Giants
-    • Tobias Myers (Milwaukee Brewers, Unknown)
-      - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 105.2, K%: 22.8%
-
-  Baltimore Orioles @ Washington Nationals
-    • Cade Povich (Baltimore Orioles, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 77.6, K%: 23.8%
-
-  Texas Rangers @ Athletics
-    • J.T. Ginn (Athletics, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 85.4, K%: 22.3%
-
+Potential streaming options for the week starting 2025-04-25:
 
 Friday:
+  Los Angeles Angels @ Minnesota Twins
+    • Kyle Hendricks (Los Angeles Angels, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 98.3, K%: 20.3%
+
+  Cincinnati Reds @ Colorado Rockies
+    • Kyle Freeland (Colorado Rockies, L)
+      - Opponent: Cincinnati Reds
+      - Stats vs LHP: wRC+: 79.5, K%: 23.2%
+
   Chicago White Sox @ Athletics
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Athletics
       - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Saturday:
+  Baltimore Orioles @ Detroit Tigers
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 107.2, K%: 23.3%
+
+  Los Angeles Angels @ Minnesota Twins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 97.2, K%: 25.8%
+
+  Houston Astros @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 94.5, K%: 22.4%
+
+
+Sunday:
+  Baltimore Orioles @ Detroit Tigers
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 107.2, K%: 23.3%
+
+  Texas Rangers @ San Francisco Giants
+    • Jordan Hicks (San Francisco Giants, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 89.0, K%: 21.6%
+
+  Chicago White Sox @ Athletics
+    • Osvaldo Bido (Athletics, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 77.7, K%: 23.8%
 
 
