@@ -1,23 +1,11 @@
-Potential streaming options for the week starting 2025-04-25:
-
-Friday:
-  Los Angeles Angels @ Minnesota Twins
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 98.3, K%: 20.3%
-
-  Cincinnati Reds @ Colorado Rockies
-    • Kyle Freeland (Colorado Rockies, L)
-      - Opponent: Cincinnati Reds
-      - Stats vs LHP: wRC+: 79.5, K%: 23.2%
-
-  Chicago White Sox @ Athletics
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-04-26:
 
 Saturday:
+  Boston Red Sox @ Cleveland Guardians
+    • Ben Lively (Cleveland Guardians, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 104.0, K%: 24.4%
+
   Baltimore Orioles @ Detroit Tigers
     • Charlie Morton (Baltimore Orioles, R)
       - Opponent: Detroit Tigers
@@ -26,12 +14,7 @@ Saturday:
   Los Angeles Angels @ Minnesota Twins
     • Simeon Woods Richardson (Minnesota Twins, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 97.2, K%: 25.8%
-
-  Houston Astros @ Kansas City Royals
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 94.5, K%: 22.4%
+      - Stats vs RHP: wRC+: 98.7, K%: 25.8%
 
 
 Sunday:
@@ -43,11 +26,11 @@ Sunday:
   Texas Rangers @ San Francisco Giants
     • Jordan Hicks (San Francisco Giants, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 89.0, K%: 21.6%
+      - Stats vs RHP: wRC+: 87.5, K%: 22.0%
 
   Chicago White Sox @ Athletics
     • Osvaldo Bido (Athletics, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 77.7, K%: 23.8%
+      - Stats vs RHP: wRC+: 80.1, K%: 23.9%
 
 
