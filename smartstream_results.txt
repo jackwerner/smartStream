@@ -1,36 +1,39 @@
-Potential streaming options for the week starting 2025-04-26:
-
-Saturday:
-  Boston Red Sox @ Cleveland Guardians
-    • Ben Lively (Cleveland Guardians, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 104.0, K%: 24.4%
-
-  Baltimore Orioles @ Detroit Tigers
-    • Charlie Morton (Baltimore Orioles, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 107.2, K%: 23.3%
-
-  Los Angeles Angels @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 98.7, K%: 25.8%
-
+Potential streaming options for the week starting 2025-04-27:
 
 Sunday:
   Baltimore Orioles @ Detroit Tigers
     • Dean Kremer (Baltimore Orioles, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 107.2, K%: 23.3%
+      - Stats vs RHP: wRC+: 109.0, K%: 23.3%
+
+  Cincinnati Reds @ Colorado Rockies
+    • Ryan Feltner (Colorado Rockies, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 103.0, K%: 23.1%
 
   Texas Rangers @ San Francisco Giants
     • Jordan Hicks (San Francisco Giants, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 87.5, K%: 22.0%
+      - Stats vs RHP: wRC+: 87.0, K%: 22.0%
 
   Chicago White Sox @ Athletics
+    • Davis Martin (Chicago White Sox, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
     • Osvaldo Bido (Athletics, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 80.1, K%: 23.9%
+      - Stats vs RHP: wRC+: 81.1, K%: 23.9%
+
+  Miami Marlins @ Seattle Mariners
+    • Logan Evans (Seattle Mariners, Unknown)
+      - Opponent: Miami Marlins
+      - Stats vs UnknownHP: wRC+: 89.4, K%: 24.7%
+
+
+Wednesday:
+  Boston Red Sox @ Toronto Blue Jays
+    • Lucas Giolito (Boston Red Sox, Unknown)
+      - Opponent: Toronto Blue Jays
+      - Stats vs UnknownHP: wRC+: 82.5, K%: 18.1%
 
 
