@@ -1,39 +1,65 @@
-Potential streaming options for the week starting 2025-04-27:
+Potential streaming options for the week starting 2025-04-28:
 
-Sunday:
-  Baltimore Orioles @ Detroit Tigers
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 109.0, K%: 23.3%
+Monday:
+  New York Yankees @ Baltimore Orioles
+    • Will Warren (New York Yankees, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 120.2, K%: 22.1%
 
-  Cincinnati Reds @ Colorado Rockies
-    • Ryan Feltner (Colorado Rockies, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 103.0, K%: 23.1%
-
-  Texas Rangers @ San Francisco Giants
-    • Jordan Hicks (San Francisco Giants, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 87.0, K%: 22.0%
-
-  Chicago White Sox @ Athletics
-    • Davis Martin (Chicago White Sox, R)
+  Athletics @ Texas Rangers
+    • Patrick Corbin (Texas Rangers, L)
       - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-    • Osvaldo Bido (Athletics, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 81.1, K%: 23.9%
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
 
-  Miami Marlins @ Seattle Mariners
-    • Logan Evans (Seattle Mariners, Unknown)
-      - Opponent: Miami Marlins
-      - Stats vs UnknownHP: wRC+: 89.4, K%: 24.7%
+  Atlanta Braves @ Colorado Rockies
+    • Ryan Feltner (Colorado Rockies, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 106.6, K%: 23.4%
+
+  Miami Marlins @ Los Angeles Dodgers
+    • Edward Cabrera (Miami Marlins, R)
+      - Opponent: Los Angeles Dodgers
+      - Stats vs RHP: wRC+: 111.5, K%: 22.5%
+
+
+Tuesday:
+  St. Louis Cardinals @ Cincinnati Reds
+    • Miles Mikolas (St. Louis Cardinals, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 104.5, K%: 22.8%
+
+  Detroit Tigers @ Houston Astros
+    • Ryan Gusto (Houston Astros, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 107.4, K%: 23.0%
 
 
 Wednesday:
+  Atlanta Braves @ Colorado Rockies
+    • Chase Dollander (Colorado Rockies, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 106.6, K%: 23.4%
+
+  Miami Marlins @ Los Angeles Dodgers
+    • Tony Gonsolin (Los Angeles Dodgers, Unknown)
+      - Opponent: Miami Marlins
+      - Stats vs UnknownHP: wRC+: 92.2, K%: 24.1%
+
   Boston Red Sox @ Toronto Blue Jays
     • Lucas Giolito (Boston Red Sox, Unknown)
       - Opponent: Toronto Blue Jays
-      - Stats vs UnknownHP: wRC+: 82.5, K%: 18.1%
+      - Stats vs UnknownHP: wRC+: 79.7, K%: 18.8%
+
+  Milwaukee Brewers @ Chicago White Sox
+    • Tobias Myers (Milwaukee Brewers, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 81.6, K%: 23.4%
+
+
+Thursday:
+  Milwaukee Brewers @ Chicago White Sox
+    • Chad Patrick (Milwaukee Brewers, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 81.6, K%: 23.4%
 
 
