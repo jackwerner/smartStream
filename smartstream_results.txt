@@ -1,38 +1,41 @@
-Potential streaming options for the week starting 2025-05-01:
-
-Thursday:
-  Colorado Rockies @ San Francisco Giants
-    • Kyle Freeland (Colorado Rockies, L)
-      - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 79.8, K%: 25.1%
-
+Potential streaming options for the week starting 2025-05-02:
 
 Friday:
   Kansas City Royals @ Baltimore Orioles
     • Dean Kremer (Baltimore Orioles, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 74.1, K%: 19.7%
+      - Stats vs RHP: wRC+: 79.4, K%: 19.1%
 
 
 Saturday:
   Tampa Bay Rays @ New York Yankees
     • Zack Littell (Tampa Bay Rays, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 133.4, K%: 24.1%
+      - Stats vs RHP: wRC+: 133.3, K%: 24.1%
 
   Colorado Rockies @ San Francisco Giants
     • Ryan Feltner (Colorado Rockies, R)
       - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 99.0, K%: 23.1%
+      - Stats vs RHP: wRC+: 98.2, K%: 22.9%
     • Jordan Hicks (San Francisco Giants, R)
       - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 64.4, K%: 28.1%
+      - Stats vs RHP: wRC+: 65.0, K%: 27.6%
+
+  Seattle Mariners @ Texas Rangers
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 106.5, K%: 27.5%
 
 
 Sunday:
+  Tampa Bay Rays @ New York Yankees
+    • Will Warren (New York Yankees, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 116.5, K%: 22.1%
+
   Seattle Mariners @ Texas Rangers
     • Logan Evans (Seattle Mariners, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 89.6, K%: 21.8%
+      - Stats vs RHP: wRC+: 87.7, K%: 21.8%
 
 
