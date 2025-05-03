@@ -1,41 +1,50 @@
-Potential streaming options for the week starting 2025-05-02:
-
-Friday:
-  Kansas City Royals @ Baltimore Orioles
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 79.4, K%: 19.1%
-
+Potential streaming options for the week starting 2025-05-03:
 
 Saturday:
   Tampa Bay Rays @ New York Yankees
     • Zack Littell (Tampa Bay Rays, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 133.3, K%: 24.1%
+      - Stats vs RHP: wRC+: 132.3, K%: 23.7%
 
-  Colorado Rockies @ San Francisco Giants
-    • Ryan Feltner (Colorado Rockies, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 98.2, K%: 22.9%
-    • Jordan Hicks (San Francisco Giants, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 65.0, K%: 27.6%
+  Houston Astros @ Chicago White Sox
+    • Davis Martin (Chicago White Sox, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 91.9, K%: 22.3%
 
   Seattle Mariners @ Texas Rangers
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 106.5, K%: 27.5%
+      - Stats vs LHP: wRC+: 111.9, K%: 26.7%
 
 
 Sunday:
   Tampa Bay Rays @ New York Yankees
     • Will Warren (New York Yankees, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 116.5, K%: 22.1%
+      - Stats vs RHP: wRC+: 114.8, K%: 22.3%
 
   Seattle Mariners @ Texas Rangers
     • Logan Evans (Seattle Mariners, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 87.7, K%: 21.8%
+      - Stats vs RHP: wRC+: 83.7, K%: 22.2%
+
+
+Tuesday:
+  Cleveland Guardians @ Washington Nationals
+    • Ben Lively (Cleveland Guardians, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 100.0, K%: 20.7%
+
+  Chicago White Sox @ Kansas City Royals
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 76.1, K%: 18.9%
+
+
+Thursday:
+  Chicago White Sox @ Kansas City Royals
+    • Davis Martin (Chicago White Sox, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 76.1, K%: 18.9%
 
 
