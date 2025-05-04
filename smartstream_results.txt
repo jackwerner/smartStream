@@ -1,50 +1,50 @@
-Potential streaming options for the week starting 2025-05-03:
-
-Saturday:
-  Tampa Bay Rays @ New York Yankees
-    • Zack Littell (Tampa Bay Rays, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 132.3, K%: 23.7%
-
-  Houston Astros @ Chicago White Sox
-    • Davis Martin (Chicago White Sox, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 91.9, K%: 22.3%
-
-  Seattle Mariners @ Texas Rangers
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 111.9, K%: 26.7%
-
+Potential streaming options for the week starting 2025-05-04:
 
 Sunday:
-  Tampa Bay Rays @ New York Yankees
-    • Will Warren (New York Yankees, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 114.8, K%: 22.3%
+  Minnesota Twins @ Boston Red Sox
+    • Chris Paddack (Minnesota Twins, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 111.4, K%: 24.0%
 
-  Seattle Mariners @ Texas Rangers
-    • Logan Evans (Seattle Mariners, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 83.7, K%: 22.2%
+  Athletics @ Miami Marlins
+    • Edward Cabrera (Miami Marlins, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Monday:
+  Cincinnati Reds @ Atlanta Braves
+    • AJ Smith-Shawver (Atlanta Braves, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 101.5, K%: 22.2%
+
+  Pittsburgh Pirates @ St. Louis Cardinals
+    • Miles Mikolas (St. Louis Cardinals, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 82.0, K%: 21.7%
 
 
 Tuesday:
   Cleveland Guardians @ Washington Nationals
     • Ben Lively (Cleveland Guardians, R)
       - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 100.0, K%: 20.7%
+      - Stats vs RHP: wRC+: 99.8, K%: 20.8%
 
   Chicago White Sox @ Kansas City Royals
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 76.1, K%: 18.9%
+      - Stats vs RHP: wRC+: 78.3, K%: 18.8%
+
+  Houston Astros @ Milwaukee Brewers
+    • Chad Patrick (Milwaukee Brewers, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 94.9, K%: 22.2%
 
 
 Thursday:
   Chicago White Sox @ Kansas City Royals
     • Davis Martin (Chicago White Sox, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 76.1, K%: 18.9%
+      - Stats vs RHP: wRC+: 78.3, K%: 18.8%
 
 
