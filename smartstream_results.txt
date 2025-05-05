@@ -1,22 +1,10 @@
-Potential streaming options for the week starting 2025-05-04:
-
-Sunday:
-  Minnesota Twins @ Boston Red Sox
-    • Chris Paddack (Minnesota Twins, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 111.4, K%: 24.0%
-
-  Athletics @ Miami Marlins
-    • Edward Cabrera (Miami Marlins, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-05-05:
 
 Monday:
-  Cincinnati Reds @ Atlanta Braves
-    • AJ Smith-Shawver (Atlanta Braves, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 101.5, K%: 22.2%
+  Houston Astros @ Milwaukee Brewers
+    • Tobias Myers (Milwaukee Brewers, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 94.9, K%: 22.2%
 
   Pittsburgh Pirates @ St. Louis Cardinals
     • Miles Mikolas (St. Louis Cardinals, R)
@@ -36,15 +24,33 @@ Tuesday:
       - Stats vs RHP: wRC+: 78.3, K%: 18.8%
 
   Houston Astros @ Milwaukee Brewers
+    • Hayden Wesneski (Houston Astros, R)
+      - Opponent: Milwaukee Brewers
+      - Stats vs RHP: wRC+: 96.5, K%: 20.0%
     • Chad Patrick (Milwaukee Brewers, R)
       - Opponent: Houston Astros
       - Stats vs RHP: wRC+: 94.9, K%: 22.2%
 
+  Detroit Tigers @ Colorado Rockies
+    • Chase Dollander (Colorado Rockies, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 109.6, K%: 23.0%
 
-Thursday:
-  Chicago White Sox @ Kansas City Royals
-    • Davis Martin (Chicago White Sox, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 78.3, K%: 18.8%
+
+Wednesday:
+  Cincinnati Reds @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 101.5, K%: 22.2%
+
+  Baltimore Orioles @ Minnesota Twins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 119.7, K%: 23.0%
+
+  Detroit Tigers @ Colorado Rockies
+    • Kyle Freeland (Colorado Rockies, L)
+      - Opponent: Detroit Tigers
+      - Stats vs LHP: wRC+: 124.8, K%: 24.7%
 
 
