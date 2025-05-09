@@ -1,48 +1,53 @@
-Potential streaming options for the week starting 2025-05-08:
-
-Thursday:
-  Detroit Tigers @ Colorado Rockies
-    • Kyle Freeland (Colorado Rockies, L)
-      - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 124.8, K%: 24.8%
-
+Potential streaming options for the week starting 2025-05-09:
 
 Friday:
-  Milwaukee Brewers @ Tampa Bay Rays
-    • Zack Littell (Tampa Bay Rays, R)
-      - Opponent: Milwaukee Brewers
-      - Stats vs RHP: wRC+: 98.1, K%: 20.2%
+  Texas Rangers @ Detroit Tigers
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Detroit Tigers
+      - Stats vs LHP: wRC+: 132.2, K%: 23.9%
+
+  Boston Red Sox @ Kansas City Royals
+    • Hunter Dobbins (Boston Red Sox, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 89.5, K%: 17.9%
+
+  San Francisco Giants @ Minnesota Twins
+    • Jordan Hicks (San Francisco Giants, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 99.1, K%: 20.5%
 
   New York Yankees @ Athletics
-    • Will Warren (New York Yankees, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
     • Osvaldo Bido (Athletics, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 120.9, K%: 22.7%
+      - Stats vs RHP: wRC+: 120.4, K%: 22.7%
 
 
 Saturday:
-  Milwaukee Brewers @ Tampa Bay Rays
-    • Tobias Myers (Milwaukee Brewers, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 110.8, K%: 23.5%
-
   Miami Marlins @ Chicago White Sox
     • Edward Cabrera (Miami Marlins, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 80.3, K%: 23.3%
+      - Stats vs RHP: wRC+: 78.8, K%: 23.4%
 
   Toronto Blue Jays @ Seattle Mariners
     • Logan Evans (Seattle Mariners, R)
       - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 86.3, K%: 19.1%
+      - Stats vs RHP: wRC+: 89.2, K%: 19.3%
 
 
 Sunday:
+  Boston Red Sox @ Kansas City Royals
+    • Lucas Giolito (Boston Red Sox, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 89.5, K%: 17.9%
+
+  San Francisco Giants @ Minnesota Twins
+    • Landen Roupp (San Francisco Giants, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 99.1, K%: 20.5%
+
   Miami Marlins @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 92.4, K%: 24.3%
+      - Stats vs RHP: wRC+: 92.6, K%: 24.3%
 
 
