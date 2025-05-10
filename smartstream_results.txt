@@ -1,53 +1,31 @@
-Potential streaming options for the week starting 2025-05-09:
-
-Friday:
-  Texas Rangers @ Detroit Tigers
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 132.2, K%: 23.9%
-
-  Boston Red Sox @ Kansas City Royals
-    • Hunter Dobbins (Boston Red Sox, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 89.5, K%: 17.9%
-
-  San Francisco Giants @ Minnesota Twins
-    • Jordan Hicks (San Francisco Giants, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 99.1, K%: 20.5%
-
-  New York Yankees @ Athletics
-    • Osvaldo Bido (Athletics, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 120.4, K%: 22.7%
-
+Potential streaming options for the week starting 2025-05-10:
 
 Saturday:
-  Miami Marlins @ Chicago White Sox
-    • Edward Cabrera (Miami Marlins, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 78.8, K%: 23.4%
-
   Toronto Blue Jays @ Seattle Mariners
     • Logan Evans (Seattle Mariners, R)
       - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 89.2, K%: 19.3%
+      - Stats vs RHP: wRC+: 90.7, K%: 19.4%
 
 
 Sunday:
+  St. Louis Cardinals @ Washington Nationals
+    • Miles Mikolas (St. Louis Cardinals, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.2, K%: 20.8%
+
+  Milwaukee Brewers @ Tampa Bay Rays
+    • Chad Patrick (Milwaukee Brewers, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 109.3, K%: 23.7%
+
   Boston Red Sox @ Kansas City Royals
     • Lucas Giolito (Boston Red Sox, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 89.5, K%: 17.9%
+      - Stats vs RHP: wRC+: 88.7, K%: 18.0%
 
   San Francisco Giants @ Minnesota Twins
     • Landen Roupp (San Francisco Giants, R)
       - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 99.1, K%: 20.5%
-
-  Miami Marlins @ Chicago White Sox
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 92.6, K%: 24.3%
+      - Stats vs RHP: wRC+: 99.7, K%: 20.6%
 
 
