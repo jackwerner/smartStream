@@ -1,39 +1,15 @@
-Potential streaming options for the week starting 2025-05-15:
-
-Thursday:
-  Athletics @ Los Angeles Dodgers
-    • Osvaldo Bido (Athletics, R)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs RHP: wRC+: 124.2, K%: 22.3%
-
-
-Friday:
-  Chicago White Sox @ Chicago Cubs
-    • Cade Horton (Chicago Cubs, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 79.9, K%: 23.6%
-
-  St. Louis Cardinals @ Kansas City Royals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 86.0, K%: 18.2%
-
-  Minnesota Twins @ Milwaukee Brewers
-    • Chad Patrick (Milwaukee Brewers, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 99.5, K%: 21.5%
-
+Potential streaming options for the week starting 2025-05-16:
 
 Saturday:
   St. Louis Cardinals @ Kansas City Royals
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 86.0, K%: 18.2%
+      - Stats vs RHP: wRC+: 86.3, K%: 18.2%
 
   Minnesota Twins @ Milwaukee Brewers
     • Jose Quintana (Milwaukee Brewers, L)
       - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 87.5, K%: 25.5%
+      - Stats vs LHP: wRC+: 85.7, K%: 25.4%
 
   Athletics @ San Francisco Giants
     • Landen Roupp (San Francisco Giants, R)
