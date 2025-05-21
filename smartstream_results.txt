@@ -1,43 +1,35 @@
-Potential streaming options for the week starting 2025-05-20:
-
-Tuesday:
-  Cincinnati Reds @ Pittsburgh Pirates
-    • Bailey Falter (Pittsburgh Pirates, L)
-      - Opponent: Cincinnati Reds
-      - Stats vs LHP: wRC+: 77.6, K%: 25.0%
-
-  Atlanta Braves @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 77.5, K%: 23.9%
-
-  Texas Rangers @ New York Yankees
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 147.2, K%: 23.6%
-
-  Kansas City Royals @ San Francisco Giants
-    • Hayden Birdsong (San Francisco Giants, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.1, K%: 17.8%
-
+Potential streaming options for the week starting 2025-05-21:
 
 Wednesday:
   Detroit Tigers @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 114.9, K%: 22.7%
+      - Stats vs RHP: wRC+: 115.5, K%: 22.5%
 
   Philadelphia Phillies @ Colorado Rockies
     • Taijuan Walker (Philadelphia Phillies, R)
       - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 68.2, K%: 26.5%
+      - Stats vs RHP: wRC+: 69.4, K%: 26.3%
 
 
 Thursday:
   San Diego Padres @ Toronto Blue Jays
     • Stephen Kolek (San Diego Padres, R)
       - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 97.9, K%: 19.5%
+      - Stats vs RHP: wRC+: 97.3, K%: 19.6%
+
+
+Friday:
+  Texas Rangers @ Chicago White Sox
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 89.7, K%: 21.1%
+
+
+Saturday:
+  Texas Rangers @ Chicago White Sox
+    • Jonathan Cannon (Chicago White Sox, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 89.7, K%: 21.1%
 
 
