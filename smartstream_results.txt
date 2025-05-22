@@ -1,35 +1,65 @@
-Potential streaming options for the week starting 2025-05-21:
-
-Wednesday:
-  Detroit Tigers @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 115.5, K%: 22.5%
-
-  Philadelphia Phillies @ Colorado Rockies
-    • Taijuan Walker (Philadelphia Phillies, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 69.4, K%: 26.3%
-
+Potential streaming options for the week starting 2025-05-22:
 
 Thursday:
-  San Diego Padres @ Toronto Blue Jays
-    • Stephen Kolek (San Diego Padres, R)
-      - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 97.3, K%: 19.6%
+  Milwaukee Brewers @ Pittsburgh Pirates
+    • Mike Burrows (Pittsburgh Pirates, Unknown)
+      - Opponent: Milwaukee Brewers
+      - Stats vs UnknownHP: wRC+: 90.5, K%: 21.1%
+
+  Baltimore Orioles @ Boston Red Sox
+    • Cade Povich (Baltimore Orioles, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 116.0, K%: 23.9%
 
 
 Friday:
+  Baltimore Orioles @ Boston Red Sox
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 100.9, K%: 23.5%
+
   Texas Rangers @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 89.7, K%: 21.1%
+      - Stats vs RHP: wRC+: 90.9, K%: 21.0%
+
+  Kansas City Royals @ Minnesota Twins
+    • Noah Cameron (Kansas City Royals, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 86.3, K%: 25.3%
 
 
 Saturday:
+  Kansas City Royals @ Minnesota Twins
+    • Zebby Matthews (Minnesota Twins, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 87.0, K%: 17.9%
+
+  Baltimore Orioles @ Boston Red Sox
+    • Hunter Dobbins (Boston Red Sox, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 109.9, K%: 23.6%
+
   Texas Rangers @ Chicago White Sox
     • Jonathan Cannon (Chicago White Sox, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 89.7, K%: 21.1%
+      - Stats vs RHP: wRC+: 90.9, K%: 21.0%
+
+
+Sunday:
+  Baltimore Orioles @ Boston Red Sox
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 100.9, K%: 23.5%
+
+  Milwaukee Brewers @ Pittsburgh Pirates
+    • Bailey Falter (Pittsburgh Pirates, L)
+      - Opponent: Milwaukee Brewers
+      - Stats vs LHP: wRC+: 71.5, K%: 23.6%
+
+  Miami Marlins @ Los Angeles Angels
+    • Edward Cabrera (Miami Marlins, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 96.8, K%: 26.8%
 
 
