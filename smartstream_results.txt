@@ -1,32 +1,15 @@
-Potential streaming options for the week starting 2025-05-22:
-
-Thursday:
-  Milwaukee Brewers @ Pittsburgh Pirates
-    • Mike Burrows (Pittsburgh Pirates, Unknown)
-      - Opponent: Milwaukee Brewers
-      - Stats vs UnknownHP: wRC+: 90.5, K%: 21.1%
-
-  Baltimore Orioles @ Boston Red Sox
-    • Cade Povich (Baltimore Orioles, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 116.0, K%: 23.9%
-
+Potential streaming options for the week starting 2025-05-23:
 
 Friday:
   Baltimore Orioles @ Boston Red Sox
-    • Charlie Morton (Baltimore Orioles, R)
+    • Cade Povich (Baltimore Orioles, L)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 100.9, K%: 23.5%
+      - Stats vs LHP: wRC+: 115.9, K%: 23.9%
 
   Texas Rangers @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 90.9, K%: 21.0%
-
-  Kansas City Royals @ Minnesota Twins
-    • Noah Cameron (Kansas City Royals, L)
-      - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 86.3, K%: 25.3%
+      - Stats vs RHP: wRC+: 90.1, K%: 21.1%
 
 
 Saturday:
@@ -43,7 +26,12 @@ Saturday:
   Texas Rangers @ Chicago White Sox
     • Jonathan Cannon (Chicago White Sox, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 90.9, K%: 21.0%
+      - Stats vs RHP: wRC+: 90.1, K%: 21.1%
+
+  New York Yankees @ Colorado Rockies
+    • Kyle Freeland (Colorado Rockies, L)
+      - Opponent: New York Yankees
+      - Stats vs LHP: wRC+: 143.7, K%: 23.1%
 
 
 Sunday:
@@ -52,14 +40,24 @@ Sunday:
       - Opponent: Boston Red Sox
       - Stats vs RHP: wRC+: 100.9, K%: 23.5%
 
+  San Francisco Giants @ Washington Nationals
+    • Michael Soroka (Washington Nationals, R)
+      - Opponent: San Francisco Giants
+      - Stats vs RHP: wRC+: 103.8, K%: 22.2%
+
   Milwaukee Brewers @ Pittsburgh Pirates
     • Bailey Falter (Pittsburgh Pirates, L)
       - Opponent: Milwaukee Brewers
-      - Stats vs LHP: wRC+: 71.5, K%: 23.6%
+      - Stats vs LHP: wRC+: 71.5, K%: 23.3%
+
+  New York Yankees @ Colorado Rockies
+    • Will Warren (New York Yankees, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 70.9, K%: 26.1%
 
   Miami Marlins @ Los Angeles Angels
     • Edward Cabrera (Miami Marlins, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 96.8, K%: 26.8%
+      - Stats vs RHP: wRC+: 98.9, K%: 26.7%
 
 
