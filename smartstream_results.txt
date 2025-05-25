@@ -1,43 +1,60 @@
-Potential streaming options for the week starting 2025-05-24:
-
-Saturday:
-  San Francisco Giants @ Washington Nationals
-    • Kyle Harrison (San Francisco Giants, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 84.1, K%: 23.7%
-
-  Milwaukee Brewers @ Pittsburgh Pirates
-    • Quinn Priester (Milwaukee Brewers, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 79.2, K%: 21.6%
-
-  New York Yankees @ Colorado Rockies
-    • Kyle Freeland (Colorado Rockies, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 143.5, K%: 23.1%
-
+Potential streaming options for the week starting 2025-05-25:
 
 Sunday:
   Baltimore Orioles @ Boston Red Sox
     • Dean Kremer (Baltimore Orioles, R)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 104.7, K%: 23.3%
+      - Stats vs RHP: wRC+: 108.6, K%: 22.8%
 
   San Francisco Giants @ Washington Nationals
     • Michael Soroka (Washington Nationals, R)
       - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 105.2, K%: 22.0%
+      - Stats vs RHP: wRC+: 102.1, K%: 22.1%
 
-  Milwaukee Brewers @ Pittsburgh Pirates
-    • Bailey Falter (Pittsburgh Pirates, L)
-      - Opponent: Milwaukee Brewers
-      - Stats vs LHP: wRC+: 71.3, K%: 23.4%
+  Miami Marlins @ Los Angeles Angels
+    • Kyle Hendricks (Los Angeles Angels, R)
+      - Opponent: Miami Marlins
+      - Stats vs RHP: wRC+: 98.2, K%: 22.3%
+
+
+Monday:
+  San Francisco Giants @ Detroit Tigers
+    • Hayden Birdsong (San Francisco Giants, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 109.3, K%: 22.7%
+
+  Boston Red Sox @ Milwaukee Brewers
+    • Chad Patrick (Milwaukee Brewers, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 108.6, K%: 22.8%
+
+  Minnesota Twins @ Tampa Bay Rays
+    • Chris Paddack (Minnesota Twins, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 103.9, K%: 23.0%
 
 
 Tuesday:
   St. Louis Cardinals @ Baltimore Orioles
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 110.5, K%: 23.8%
+      - Stats vs RHP: wRC+: 110.5, K%: 24.1%
+
+  Boston Red Sox @ Milwaukee Brewers
+    • Aaron Civale (Milwaukee Brewers, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 108.6, K%: 22.8%
+
+
+Wednesday:
+  San Francisco Giants @ Detroit Tigers
+    • Landen Roupp (San Francisco Giants, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 109.3, K%: 22.7%
+
+  St. Louis Cardinals @ Baltimore Orioles
+    • Miles Mikolas (St. Louis Cardinals, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 110.5, K%: 24.1%
 
 
