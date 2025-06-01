@@ -1,53 +1,40 @@
-Potential streaming options for the week starting 2025-05-31:
-
-Saturday:
-  Athletics @ Toronto Blue Jays
-    • Gunnar Hoglund (Athletics, R)
-      - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 99.7, K%: 18.2%
-
-  Los Angeles Angels @ Cleveland Guardians
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 98.7, K%: 20.8%
-
+Potential streaming options for the week starting 2025-06-01:
 
 Sunday:
-  Chicago White Sox @ Baltimore Orioles
-    • Adrian Houser (Chicago White Sox, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 110.2, K%: 23.9%
-    • Charlie Morton (Baltimore Orioles, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 81.6, K%: 22.6%
-
-  Milwaukee Brewers @ Philadelphia Phillies
-    • Jose Quintana (Milwaukee Brewers, L)
-      - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 109.8, K%: 23.2%
-
-  San Francisco Giants @ Miami Marlins
-    • Hayden Birdsong (San Francisco Giants, R)
-      - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 97.5, K%: 22.3%
+  Detroit Tigers @ Kansas City Royals
+    • Keider Montero (Detroit Tigers, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 87.1, K%: 18.2%
 
   Washington Nationals @ Arizona Diamondbacks
     • Mitchell Parker (Washington Nationals, L)
       - Opponent: Arizona Diamondbacks
-      - Stats vs LHP: wRC+: 98.8, K%: 16.7%
+      - Stats vs LHP: wRC+: 98.2, K%: 16.6%
 
 
 Monday:
   Milwaukee Brewers @ Cincinnati Reds
     • Aaron Civale (Milwaukee Brewers, R)
       - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 104.6, K%: 23.2%
+      - Stats vs RHP: wRC+: 101.2, K%: 23.4%
 
 
 Tuesday:
   Kansas City Royals @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.1, K%: 18.3%
+      - Stats vs RHP: wRC+: 87.1, K%: 18.2%
+
+  San Diego Padres @ San Francisco Giants
+    • Kyle Harrison (San Francisco Giants, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 86.2, K%: 19.1%
+
+
+Wednesday:
+  Detroit Tigers @ Chicago White Sox
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 104.2, K%: 24.0%
 
 
