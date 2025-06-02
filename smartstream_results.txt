@@ -1,40 +1,50 @@
-Potential streaming options for the week starting 2025-06-01:
-
-Sunday:
-  Detroit Tigers @ Kansas City Royals
-    • Keider Montero (Detroit Tigers, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.1, K%: 18.2%
-
-  Washington Nationals @ Arizona Diamondbacks
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs LHP: wRC+: 98.2, K%: 16.6%
-
+Potential streaming options for the week starting 2025-06-02:
 
 Monday:
-  Milwaukee Brewers @ Cincinnati Reds
-    • Aaron Civale (Milwaukee Brewers, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 101.2, K%: 23.4%
+  Detroit Tigers @ Chicago White Sox
+    • Jonathan Cannon (Chicago White Sox, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 104.9, K%: 24.0%
 
 
 Tuesday:
+  Los Angeles Angels @ Boston Red Sox
+    • Brayan Bello (Boston Red Sox, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 95.4, K%: 26.8%
+
   Kansas City Royals @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.1, K%: 18.2%
+      - Stats vs RHP: wRC+: 87.0, K%: 18.1%
+
+
+Wednesday:
+  Los Angeles Angels @ Boston Red Sox
+    • Lucas Giolito (Boston Red Sox, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 95.4, K%: 26.8%
+
+  Detroit Tigers @ Chicago White Sox
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 104.9, K%: 24.0%
+
+  Kansas City Royals @ St. Louis Cardinals
+    • Miles Mikolas (St. Louis Cardinals, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 87.0, K%: 18.1%
 
   San Diego Padres @ San Francisco Giants
     • Kyle Harrison (San Francisco Giants, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 86.2, K%: 19.1%
+      - Stats vs LHP: wRC+: 88.4, K%: 18.9%
 
 
-Wednesday:
-  Detroit Tigers @ Chicago White Sox
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 104.2, K%: 24.0%
+Thursday:
+  Cleveland Guardians @ New York Yankees
+    • Slade Cecconi (Cleveland Guardians, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 125.9, K%: 22.6%
 
 
