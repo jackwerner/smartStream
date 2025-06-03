@@ -1,50 +1,31 @@
-Potential streaming options for the week starting 2025-06-02:
-
-Monday:
-  Detroit Tigers @ Chicago White Sox
-    • Jonathan Cannon (Chicago White Sox, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 104.9, K%: 24.0%
-
-
-Tuesday:
-  Los Angeles Angels @ Boston Red Sox
-    • Brayan Bello (Boston Red Sox, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 95.4, K%: 26.8%
-
-  Kansas City Royals @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.0, K%: 18.1%
-
+Potential streaming options for the week starting 2025-06-03:
 
 Wednesday:
   Los Angeles Angels @ Boston Red Sox
     • Lucas Giolito (Boston Red Sox, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 95.4, K%: 26.8%
-
-  Detroit Tigers @ Chicago White Sox
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 104.9, K%: 24.0%
+      - Stats vs RHP: wRC+: 95.9, K%: 26.5%
 
   Kansas City Royals @ St. Louis Cardinals
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.0, K%: 18.1%
+      - Stats vs RHP: wRC+: 86.7, K%: 18.1%
 
   San Diego Padres @ San Francisco Giants
     • Kyle Harrison (San Francisco Giants, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 88.4, K%: 18.9%
+      - Stats vs LHP: wRC+: 88.7, K%: 18.9%
 
 
 Thursday:
+  Detroit Tigers @ Chicago White Sox
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 108.8, K%: 23.7%
+
   Cleveland Guardians @ New York Yankees
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 125.9, K%: 22.6%
+      - Stats vs RHP: wRC+: 125.5, K%: 22.6%
 
 
