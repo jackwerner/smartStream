@@ -1,31 +1,36 @@
-Potential streaming options for the week starting 2025-06-03:
+Potential streaming options for the week starting 2025-06-04:
 
 Wednesday:
-  Los Angeles Angels @ Boston Red Sox
-    • Lucas Giolito (Boston Red Sox, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 95.9, K%: 26.5%
+  Colorado Rockies @ Miami Marlins
+    • Kyle Freeland (Colorado Rockies, L)
+      - Opponent: Miami Marlins
+      - Stats vs LHP: wRC+: 80.6, K%: 21.3%
 
-  Kansas City Royals @ St. Louis Cardinals
-    • Miles Mikolas (St. Louis Cardinals, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 86.7, K%: 18.1%
+  Texas Rangers @ Tampa Bay Rays
+    • Kumar Rocker (Texas Rangers, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 109.3, K%: 22.5%
+
+  Baltimore Orioles @ Seattle Mariners
+    • Cade Povich (Baltimore Orioles, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 107.6, K%: 25.3%
 
   San Diego Padres @ San Francisco Giants
     • Kyle Harrison (San Francisco Giants, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 88.7, K%: 18.9%
+      - Stats vs LHP: wRC+: 89.5, K%: 18.9%
 
 
 Thursday:
   Detroit Tigers @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 108.8, K%: 23.7%
+      - Stats vs RHP: wRC+: 107.8, K%: 23.7%
 
   Cleveland Guardians @ New York Yankees
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 125.5, K%: 22.6%
+      - Stats vs RHP: wRC+: 124.8, K%: 22.6%
 
 
