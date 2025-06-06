@@ -1,14 +1,26 @@
-Potential streaming options for the week starting 2025-06-05:
+Potential streaming options for the week starting 2025-06-06:
 
-Thursday:
-  Detroit Tigers @ Chicago White Sox
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 106.9, K%: 23.6%
+Saturday:
+  Texas Rangers @ Washington Nationals
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 73.5, K%: 27.3%
 
-  Cleveland Guardians @ New York Yankees
-    • Slade Cecconi (Cleveland Guardians, R)
+  Baltimore Orioles @ Athletics
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Sunday:
+  Kansas City Royals @ Chicago White Sox
+    • Michael Lorenzen (Kansas City Royals, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 81.5, K%: 22.4%
+
+  Boston Red Sox @ New York Yankees
+    • Hunter Dobbins (Boston Red Sox, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 123.7, K%: 22.8%
+      - Stats vs RHP: wRC+: 123.0, K%: 22.7%
 
 
