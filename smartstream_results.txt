@@ -1,26 +1,33 @@
-Potential streaming options for the week starting 2025-06-06:
-
-Saturday:
-  Texas Rangers @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Texas Rangers
-      - Stats vs LHP: wRC+: 73.5, K%: 27.3%
-
-  Baltimore Orioles @ Athletics
-    • Charlie Morton (Baltimore Orioles, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-06-07:
 
 Sunday:
   Kansas City Royals @ Chicago White Sox
     • Michael Lorenzen (Kansas City Royals, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 81.5, K%: 22.4%
+      - Stats vs RHP: wRC+: 82.6, K%: 22.4%
 
   Boston Red Sox @ New York Yankees
     • Hunter Dobbins (Boston Red Sox, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 123.0, K%: 22.7%
+      - Stats vs RHP: wRC+: 124.9, K%: 22.6%
+
+
+Monday:
+  Tampa Bay Rays @ Boston Red Sox
+    • Brayan Bello (Boston Red Sox, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 109.8, K%: 22.9%
+
+
+Tuesday:
+  Cincinnati Reds @ Cleveland Guardians
+    • Slade Cecconi (Cleveland Guardians, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 101.0, K%: 23.5%
+
+  Tampa Bay Rays @ Boston Red Sox
+    • Lucas Giolito (Boston Red Sox, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 109.8, K%: 22.9%
 
 
