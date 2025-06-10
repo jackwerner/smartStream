@@ -1,21 +1,4 @@
-Potential streaming options for the week starting 2025-06-09:
-
-Monday:
-  Miami Marlins @ Pittsburgh Pirates
-    • Mike Burrows (Pittsburgh Pirates, R)
-      - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 96.3, K%: 21.7%
-
-  Tampa Bay Rays @ Boston Red Sox
-    • Brayan Bello (Boston Red Sox, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 110.6, K%: 22.9%
-
-  Toronto Blue Jays @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Toronto Blue Jays
-      - Stats vs RHP: wRC+: 99.7, K%: 17.8%
-
+Potential streaming options for the week starting 2025-06-10:
 
 Tuesday:
   Detroit Tigers @ Baltimore Orioles
@@ -23,32 +6,37 @@ Tuesday:
       - Opponent: Baltimore Orioles
       - Stats vs RHP: wRC+: 110.4, K%: 23.3%
 
+  Cincinnati Reds @ Cleveland Guardians
+    • Slade Cecconi (Cleveland Guardians, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 105.5, K%: 23.1%
+
   Tampa Bay Rays @ Boston Red Sox
     • Lucas Giolito (Boston Red Sox, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 110.6, K%: 22.9%
+      - Stats vs RHP: wRC+: 110.2, K%: 22.6%
 
   San Francisco Giants @ Colorado Rockies
     • Kyle Harrison (San Francisco Giants, L)
       - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 53.5, K%: 27.8%
+      - Stats vs LHP: wRC+: 53.3, K%: 27.8%
 
 
 Wednesday:
   Miami Marlins @ Pittsburgh Pirates
     • Bailey Falter (Pittsburgh Pirates, L)
       - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 83.0, K%: 21.4%
+      - Stats vs LHP: wRC+: 80.9, K%: 21.5%
 
   Cincinnati Reds @ Cleveland Guardians
     • Logan Allen (Cleveland Guardians, L)
       - Opponent: Cincinnati Reds
-      - Stats vs LHP: wRC+: 72.8, K%: 24.2%
+      - Stats vs LHP: wRC+: 74.0, K%: 23.9%
 
-  Texas Rangers @ Minnesota Twins
-    • David Festa (Minnesota Twins, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 83.7, K%: 21.9%
+  Seattle Mariners @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 104.5, K%: 25.9%
 
   Chicago White Sox @ Houston Astros
     • Sean Burke (Chicago White Sox, R)
@@ -57,10 +45,10 @@ Wednesday:
 
 
 Thursday:
-  San Francisco Giants @ Colorado Rockies
-    • Hayden Birdsong (San Francisco Giants, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 71.3, K%: 25.9%
+  Detroit Tigers @ Baltimore Orioles
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 103.7, K%: 23.6%
 
   New York Yankees @ Kansas City Royals
     • Will Warren (New York Yankees, R)
