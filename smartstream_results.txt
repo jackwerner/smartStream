@@ -1,43 +1,26 @@
-Potential streaming options for the week starting 2025-06-11:
-
-Wednesday:
-  Cincinnati Reds @ Cleveland Guardians
-    • Logan Allen (Cleveland Guardians, L)
-      - Opponent: Cincinnati Reds
-      - Stats vs LHP: wRC+: 73.7, K%: 23.9%
-
-  Seattle Mariners @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 104.5, K%: 25.9%
-
-  Texas Rangers @ Minnesota Twins
-    • David Festa (Minnesota Twins, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 86.7, K%: 21.5%
-
-  Chicago White Sox @ Houston Astros
-    • Sean Burke (Chicago White Sox, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 97.1, K%: 20.8%
-
+Potential streaming options for the week starting 2025-06-12:
 
 Thursday:
   Detroit Tigers @ Baltimore Orioles
     • Dean Kremer (Baltimore Orioles, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 102.9, K%: 23.6%
-
-  New York Yankees @ Kansas City Royals
-    • Will Warren (New York Yankees, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 90.0, K%: 17.8%
+      - Stats vs RHP: wRC+: 101.1, K%: 23.5%
 
 
 Saturday:
+  Los Angeles Angels @ Baltimore Orioles
+    • Tyler Anderson (Los Angeles Angels, L)
+      - Opponent: Baltimore Orioles
+      - Stats vs LHP: wRC+: 63.6, K%: 25.1%
+
   St. Louis Cardinals @ Milwaukee Brewers
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Milwaukee Brewers
-      - Stats vs RHP: wRC+: 92.9, K%: 21.0%
+      - Stats vs RHP: wRC+: 91.8, K%: 21.2%
+
+  New York Yankees @ Boston Red Sox
+    • Hunter Dobbins (Boston Red Sox, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 125.8, K%: 22.3%
 
 
