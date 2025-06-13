@@ -1,26 +1,28 @@
-Potential streaming options for the week starting 2025-06-12:
+Potential streaming options for the week starting 2025-06-13:
 
-Thursday:
-  Detroit Tigers @ Baltimore Orioles
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 101.1, K%: 23.5%
+Friday:
+  Los Angeles Angels @ Baltimore Orioles
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 96.1, K%: 26.0%
 
 
 Saturday:
   Los Angeles Angels @ Baltimore Orioles
     • Tyler Anderson (Los Angeles Angels, L)
       - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 63.6, K%: 25.1%
+      - Stats vs LHP: wRC+: 61.1, K%: 25.0%
 
   St. Louis Cardinals @ Milwaukee Brewers
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Milwaukee Brewers
-      - Stats vs RHP: wRC+: 91.8, K%: 21.2%
+      - Stats vs RHP: wRC+: 92.9, K%: 21.0%
 
-  New York Yankees @ Boston Red Sox
-    • Hunter Dobbins (Boston Red Sox, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 125.8, K%: 22.3%
+
+Sunday:
+  Cincinnati Reds @ Detroit Tigers
+    • Sawyer Gipson-Long (Detroit Tigers, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 103.2, K%: 23.2%
 
 
