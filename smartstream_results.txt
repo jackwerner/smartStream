@@ -1,21 +1,43 @@
-Potential streaming options for the week starting 2025-06-15:
+Potential streaming options for the week starting 2025-06-16:
 
-Sunday:
-  Los Angeles Angels @ Baltimore Orioles
-    • Cade Povich (Baltimore Orioles, L)
-      - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 69.2, K%: 28.9%
+Tuesday:
+  Pittsburgh Pirates @ Detroit Tigers
+    • Bailey Falter (Pittsburgh Pirates, L)
+      - Opponent: Detroit Tigers
+      - Stats vs LHP: wRC+: 122.8, K%: 23.1%
 
-  Chicago White Sox @ Texas Rangers
-    • Aaron Civale (Chicago White Sox, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 91.8, K%: 21.2%
+  Colorado Rockies @ Washington Nationals
+    • Michael Soroka (Washington Nationals, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.6, K%: 26.2%
+
+  Baltimore Orioles @ Tampa Bay Rays
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 110.7, K%: 22.4%
 
 
 Wednesday:
+  Colorado Rockies @ Washington Nationals
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Colorado Rockies
+      - Stats vs LHP: wRC+: 58.7, K%: 27.5%
+
   Cleveland Guardians @ San Francisco Giants
     • Logan Allen (Cleveland Guardians, L)
       - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 80.4, K%: 24.5%
+      - Stats vs LHP: wRC+: 78.9, K%: 24.8%
+
+
+Thursday:
+  Los Angeles Angels @ New York Yankees
+    • Tyler Anderson (Los Angeles Angels, L)
+      - Opponent: New York Yankees
+      - Stats vs LHP: wRC+: 127.4, K%: 23.5%
+
+  Baltimore Orioles @ Tampa Bay Rays
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 110.7, K%: 22.4%
 
 
