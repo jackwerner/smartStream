@@ -32,7 +32,6 @@ jobs:
     
     - name: Run scraper
       run: |
-        cd ACScrape
         python ac_scrape.py
       env:
         PYTHONPATH: ${{ github.workspace }}
