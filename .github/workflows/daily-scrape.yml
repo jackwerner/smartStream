@@ -2,9 +2,9 @@ name: Daily FanGraphs Auction Data Scrape
 
 on:
   schedule:
-    # Run at 10:00 AM Eastern Time (14:00 UTC during EST, 15:00 UTC during EDT)
+    # Run at 11:00 AM Eastern Time (15:00 UTC during EST, 16:00 UTC during EDT)
     # Using 16:00 UTC to account for EDT (most of baseball season)
-    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
