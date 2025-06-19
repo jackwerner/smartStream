@@ -27,7 +27,7 @@ class FanGraphsAuctionScraper:
         })
         
         # Create ac_data directory if it doesn't exist
-        self.data_dir = "../ac_data"
+        self.data_dir = "ac_data"
         if not os.path.exists(self.data_dir):
             os.makedirs(self.data_dir)
             print(f"Created directory: {self.data_dir}")
