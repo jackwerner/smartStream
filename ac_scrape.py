@@ -112,6 +112,8 @@ class FanGraphsAuctionScraper:
             filepath = os.path.join(self.data_dir, dated_filename)
             
             df = pd.DataFrame(data["data"])
+            # Add date as first column
+            df.insert(0, 'date', date_str)
             df.to_csv(filepath, index=False)
             print(f"Data saved to {filepath} with {len(df)} rows")
         else:
@@ -139,6 +141,8 @@ class FanGraphsAuctionScraper:
         
         if "data" in batter_data and isinstance(batter_data["data"], list):
             result["batters"] = pd.DataFrame(batter_data["data"])
+            # Add date as first column
+            result["batters"].insert(0, 'date', date_str)
             if save_files:
                 batter_filename = f"{date_str}_fangraphs_batters.csv"
                 batter_filepath = os.path.join(self.data_dir, batter_filename)
@@ -149,6 +153,8 @@ class FanGraphsAuctionScraper:
         
         if "data" in pitcher_data and isinstance(pitcher_data["data"], list):
             result["pitchers"] = pd.DataFrame(pitcher_data["data"])
+            # Add date as first column
+            result["pitchers"].insert(0, 'date', date_str)
             if save_files:
                 pitcher_filename = f"{date_str}_fangraphs_pitchers.csv"
                 pitcher_filepath = os.path.join(self.data_dir, pitcher_filename)
