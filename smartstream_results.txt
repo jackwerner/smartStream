@@ -1,28 +1,47 @@
-Potential streaming options for the week starting 2025-06-19:
+Potential streaming options for the week starting 2025-06-20:
 
-Thursday:
-  Los Angeles Angels @ New York Yankees
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 125.5, K%: 23.4%
+Saturday:
+  Detroit Tigers @ Tampa Bay Rays
+    • Sawyer Gipson-Long (Detroit Tigers, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 113.6, K%: 22.3%
 
+  Texas Rangers @ Pittsburgh Pirates
+    • Kumar Rocker (Texas Rangers, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 80.7, K%: 22.4%
 
-Friday:
-  Cincinnati Reds @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 106.2, K%: 23.0%
+  Cleveland Guardians @ Athletics
+    • Mitch Spence (Athletics, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 96.6, K%: 21.6%
 
 
 Sunday:
+  Baltimore Orioles @ New York Yankees
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 117.9, K%: 22.6%
+
+  Texas Rangers @ Pittsburgh Pirates
+    • Jack Leiter (Texas Rangers, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 80.7, K%: 22.4%
+    • Bailey Falter (Pittsburgh Pirates, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 75.2, K%: 25.9%
+
   Milwaukee Brewers @ Minnesota Twins
     • David Festa (Minnesota Twins, R)
       - Opponent: Milwaukee Brewers
-      - Stats vs RHP: wRC+: 93.2, K%: 21.6%
+      - Stats vs RHP: wRC+: 94.3, K%: 21.5%
 
   Cleveland Guardians @ Athletics
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: Athletics
       - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+    • JP Sears (Athletics, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 75.9, K%: 24.7%
 
 
