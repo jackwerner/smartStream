@@ -1,33 +1,50 @@
-Potential streaming options for the week starting 2025-06-22:
+Potential streaming options for the week starting 2025-06-23:
 
-Sunday:
-  Baltimore Orioles @ New York Yankees
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 119.8, K%: 22.7%
+Monday:
+  Texas Rangers @ Baltimore Orioles
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Baltimore Orioles
+      - Stats vs LHP: wRC+: 72.2, K%: 25.1%
 
-  Milwaukee Brewers @ Minnesota Twins
-    • David Festa (Minnesota Twins, R)
-      - Opponent: Milwaukee Brewers
-      - Stats vs RHP: wRC+: 95.4, K%: 21.2%
+  New York Yankees @ Cincinnati Reds
+    • Allan Winans (New York Yankees, Unknown)
+      - Opponent: Cincinnati Reds
+      - Stats vs UnknownHP: wRC+: 102.1, K%: 23.3%
+
+  Washington Nationals @ San Diego Padres
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 83.1, K%: 19.9%
 
 
 Tuesday:
-  Arizona Diamondbacks @ Chicago White Sox
-    • Ryne Nelson (Arizona Diamondbacks, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 78.4, K%: 23.0%
+  Pittsburgh Pirates @ Milwaukee Brewers
+    • Andrew Heaney (Pittsburgh Pirates, L)
+      - Opponent: Milwaukee Brewers
+      - Stats vs LHP: wRC+: 91.0, K%: 23.1%
+
+  Boston Red Sox @ Los Angeles Angels
+    • Tyler Anderson (Los Angeles Angels, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 118.1, K%: 23.3%
 
 
 Wednesday:
-  Arizona Diamondbacks @ Chicago White Sox
-    • Zac Gallen (Arizona Diamondbacks, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 78.4, K%: 23.0%
-
   Athletics @ Detroit Tigers
     • Jacob Lopez (Athletics, L)
       - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 123.9, K%: 22.5%
+      - Stats vs LHP: wRC+: 123.1, K%: 22.8%
+
+
+Thursday:
+  Tampa Bay Rays @ Kansas City Royals
+    • Michael Lorenzen (Kansas City Royals, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 115.4, K%: 22.0%
+
+  Miami Marlins @ San Francisco Giants
+    • Hayden Birdsong (San Francisco Giants, R)
+      - Opponent: Miami Marlins
+      - Stats vs RHP: wRC+: 94.9, K%: 21.4%
 
 
