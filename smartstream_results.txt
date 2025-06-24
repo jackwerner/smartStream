@@ -1,50 +1,33 @@
-Potential streaming options for the week starting 2025-06-23:
-
-Monday:
-  Texas Rangers @ Baltimore Orioles
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 72.2, K%: 25.1%
-
-  New York Yankees @ Cincinnati Reds
-    • Allan Winans (New York Yankees, Unknown)
-      - Opponent: Cincinnati Reds
-      - Stats vs UnknownHP: wRC+: 102.1, K%: 23.3%
-
-  Washington Nationals @ San Diego Padres
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 83.1, K%: 19.9%
-
+Potential streaming options for the week starting 2025-06-24:
 
 Tuesday:
+  Toronto Blue Jays @ Cleveland Guardians
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 74.1, K%: 24.9%
+
   Pittsburgh Pirates @ Milwaukee Brewers
     • Andrew Heaney (Pittsburgh Pirates, L)
       - Opponent: Milwaukee Brewers
-      - Stats vs LHP: wRC+: 91.0, K%: 23.1%
+      - Stats vs LHP: wRC+: 90.8, K%: 23.1%
 
   Boston Red Sox @ Los Angeles Angels
     • Tyler Anderson (Los Angeles Angels, L)
       - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 118.1, K%: 23.3%
+      - Stats vs LHP: wRC+: 118.5, K%: 23.4%
 
 
 Wednesday:
   Athletics @ Detroit Tigers
     • Jacob Lopez (Athletics, L)
       - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 123.1, K%: 22.8%
+      - Stats vs LHP: wRC+: 123.2, K%: 22.8%
 
 
 Thursday:
   Tampa Bay Rays @ Kansas City Royals
     • Michael Lorenzen (Kansas City Royals, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 115.4, K%: 22.0%
-
-  Miami Marlins @ San Francisco Giants
-    • Hayden Birdsong (San Francisco Giants, R)
-      - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 94.9, K%: 21.4%
+      - Stats vs RHP: wRC+: 115.5, K%: 22.0%
 
 
