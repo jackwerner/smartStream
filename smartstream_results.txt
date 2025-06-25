@@ -1,33 +1,9 @@
-Potential streaming options for the week starting 2025-06-24:
-
-Tuesday:
-  Toronto Blue Jays @ Cleveland Guardians
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Cleveland Guardians
-      - Stats vs LHP: wRC+: 74.1, K%: 24.9%
-
-  Pittsburgh Pirates @ Milwaukee Brewers
-    • Andrew Heaney (Pittsburgh Pirates, L)
-      - Opponent: Milwaukee Brewers
-      - Stats vs LHP: wRC+: 90.8, K%: 23.1%
-
-  Boston Red Sox @ Los Angeles Angels
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 118.5, K%: 23.4%
-
+Potential streaming options for the week starting 2025-06-25:
 
 Wednesday:
   Athletics @ Detroit Tigers
     • Jacob Lopez (Athletics, L)
       - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 123.2, K%: 22.8%
-
-
-Thursday:
-  Tampa Bay Rays @ Kansas City Royals
-    • Michael Lorenzen (Kansas City Royals, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 115.5, K%: 22.0%
+      - Stats vs LHP: wRC+: 123.9, K%: 22.7%
 
 
