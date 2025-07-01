@@ -1,37 +1,10 @@
-Potential streaming options for the week starting 2025-06-30:
-
-Monday:
-  St. Louis Cardinals @ Pittsburgh Pirates
-    • Andrew Heaney (Pittsburgh Pirates, L)
-      - Opponent: St. Louis Cardinals
-      - Stats vs LHP: wRC+: 92.9, K%: 21.8%
-
-  Athletics @ Tampa Bay Rays
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 92.7, K%: 23.2%
-
-  Baltimore Orioles @ Texas Rangers
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 72.7, K%: 25.2%
-
+Potential streaming options for the week starting 2025-07-01:
 
 Tuesday:
   Los Angeles Angels @ Atlanta Braves
     • Tyler Anderson (Los Angeles Angels, L)
       - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 83.0, K%: 24.0%
-
-  Houston Astros @ Colorado Rockies
-    • Colton Gordon (Houston Astros, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 61.6, K%: 26.9%
-
-  Kansas City Royals @ Seattle Mariners
-    • Emerson Hancock (Seattle Mariners, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 87.1, K%: 18.0%
+      - Stats vs LHP: wRC+: 83.1, K%: 24.0%
 
 
 Thursday:
@@ -43,6 +16,6 @@ Thursday:
   Los Angeles Angels @ Atlanta Braves
     • Bryce Elder (Atlanta Braves, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 99.6, K%: 25.9%
+      - Stats vs RHP: wRC+: 99.4, K%: 25.9%
 
 
