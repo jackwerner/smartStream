@@ -1,21 +1,33 @@
-Potential streaming options for the week starting 2025-07-01:
+Potential streaming options for the week starting 2025-07-02:
 
-Tuesday:
-  Los Angeles Angels @ Atlanta Braves
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 83.1, K%: 24.0%
+Wednesday:
+  Detroit Tigers @ Washington Nationals
+    • Tyler Holton (Detroit Tigers, L)
+      - Opponent: Washington Nationals
+      - Stats vs LHP: wRC+: 90.1, K%: 22.5%
+
+  Minnesota Twins @ Miami Marlins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Miami Marlins
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
 
 
 Thursday:
   Houston Astros @ Colorado Rockies
     • Brandon Walter (Houston Astros, L)
       - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 61.6, K%: 26.9%
+      - Stats vs LHP: wRC+: 65.3, K%: 26.5%
 
   Los Angeles Angels @ Atlanta Braves
     • Bryce Elder (Atlanta Braves, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 99.4, K%: 25.9%
+      - Stats vs RHP: wRC+: 99.0, K%: 25.9%
+
+
+Friday:
+  Detroit Tigers @ Cleveland Guardians
+    • Slade Cecconi (Cleveland Guardians, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 108.2, K%: 23.1%
 
 
