@@ -1,27 +1,20 @@
-Potential streaming options for the week starting 2025-07-03:
-
-Thursday:
-  Minnesota Twins @ Miami Marlins
-    • David Festa (Minnesota Twins, R)
-      - Opponent: Miami Marlins
-      - Stats vs RHP: wRC+: 98.6, K%: 21.4%
-
-  Los Angeles Angels @ Atlanta Braves
-    • Bryce Elder (Atlanta Braves, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 98.6, K%: 26.0%
-
+Potential streaming options for the week starting 2025-07-04:
 
 Friday:
-  Detroit Tigers @ Cleveland Guardians
-    • Slade Cecconi (Cleveland Guardians, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 109.7, K%: 23.1%
+  Boston Red Sox @ Washington Nationals
+    • Michael Soroka (Washington Nationals, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 99.5, K%: 23.9%
+
+  Los Angeles Angels @ Toronto Blue Jays
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 82.4, K%: 28.0%
 
   San Francisco Giants @ Athletics
     • JP Sears (Athletics, L)
       - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 77.1, K%: 25.0%
+      - Stats vs LHP: wRC+: 76.4, K%: 25.0%
 
 
 Saturday:
@@ -35,6 +28,14 @@ Sunday:
   Texas Rangers @ San Diego Padres
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 83.9, K%: 19.5%
+      - Stats vs LHP: wRC+: 84.0, K%: 19.5%
+
+  San Francisco Giants @ Athletics
+    • Hayden Birdsong (San Francisco Giants, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+    • Jacob Lopez (Athletics, L)
+      - Opponent: San Francisco Giants
+      - Stats vs LHP: wRC+: 76.4, K%: 25.0%
 
 
