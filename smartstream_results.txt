@@ -1,34 +1,22 @@
-Potential streaming options for the week starting 2025-07-04:
-
-Friday:
-  Boston Red Sox @ Washington Nationals
-    • Michael Soroka (Washington Nationals, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 99.5, K%: 23.9%
-
-  Los Angeles Angels @ Toronto Blue Jays
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 82.4, K%: 28.0%
-
-  San Francisco Giants @ Athletics
-    • JP Sears (Athletics, L)
-      - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 76.4, K%: 25.0%
-
+Potential streaming options for the week starting 2025-07-05:
 
 Saturday:
   Boston Red Sox @ Washington Nationals
     • Walker Buehler (Boston Red Sox, R)
       - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 99.1, K%: 19.4%
+      - Stats vs RHP: wRC+: 98.3, K%: 19.5%
 
-
-Sunday:
   Texas Rangers @ San Diego Padres
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 84.0, K%: 19.5%
+      - Stats vs LHP: wRC+: 85.0, K%: 19.8%
+
+
+Sunday:
+  Chicago White Sox @ Colorado Rockies
+    • Shane Smith (Chicago White Sox, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.4, K%: 26.9%
 
   San Francisco Giants @ Athletics
     • Hayden Birdsong (San Francisco Giants, R)
@@ -36,6 +24,13 @@ Sunday:
       - Stats vs RHP: wRC+: 0.0, K%: 0.0%
     • Jacob Lopez (Athletics, L)
       - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 76.4, K%: 25.0%
+      - Stats vs LHP: wRC+: 75.3, K%: 25.1%
+
+
+Monday:
+  Pittsburgh Pirates @ Kansas City Royals
+    • Andrew Heaney (Pittsburgh Pirates, L)
+      - Opponent: Kansas City Royals
+      - Stats vs LHP: wRC+: 73.3, K%: 21.7%
 
 
