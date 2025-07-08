@@ -1,35 +1,6 @@
-Potential streaming options for the week starting 2025-07-07:
-
-Monday:
-  Miami Marlins @ Cincinnati Reds
-    • Janson Junk (Miami Marlins, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 100.6, K%: 23.2%
-
-  Pittsburgh Pirates @ Kansas City Royals
-    • Andrew Heaney (Pittsburgh Pirates, L)
-      - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 73.4, K%: 21.6%
-
-
-Tuesday:
-  Washington Nationals @ St. Louis Cardinals
-    • Andre Pallante (St. Louis Cardinals, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 98.2, K%: 19.4%
-
+Potential streaming options for the week starting 2025-07-08:
 
 Wednesday:
-  Toronto Blue Jays @ Chicago White Sox
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 86.0, K%: 26.5%
-
-  Texas Rangers @ Los Angeles Angels
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 90.9, K%: 21.4%
-
   Atlanta Braves @ Athletics
     • Bryce Elder (Atlanta Braves, R)
       - Opponent: Athletics
@@ -40,11 +11,16 @@ Thursday:
   Atlanta Braves @ Athletics
     • JP Sears (Athletics, L)
       - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 81.8, K%: 24.4%
+      - Stats vs LHP: wRC+: 81.9, K%: 24.4%
 
   Texas Rangers @ Los Angeles Angels
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 79.4, K%: 28.1%
+      - Stats vs LHP: wRC+: 79.7, K%: 28.0%
+
+  Arizona Diamondbacks @ San Diego Padres
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 88.1, K%: 19.3%
 
 
