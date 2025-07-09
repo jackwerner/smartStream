@@ -1,6 +1,11 @@
-Potential streaming options for the week starting 2025-07-08:
+Potential streaming options for the week starting 2025-07-09:
 
 Wednesday:
+  Texas Rangers @ Los Angeles Angels
+    • Kyle Hendricks (Los Angeles Angels, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 91.3, K%: 21.3%
+
   Atlanta Braves @ Athletics
     • Bryce Elder (Atlanta Braves, R)
       - Opponent: Athletics
@@ -11,16 +16,35 @@ Thursday:
   Atlanta Braves @ Athletics
     • JP Sears (Athletics, L)
       - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 81.9, K%: 24.4%
+      - Stats vs LHP: wRC+: 82.9, K%: 24.0%
 
   Texas Rangers @ Los Angeles Angels
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 79.7, K%: 28.0%
+      - Stats vs LHP: wRC+: 79.3, K%: 28.0%
 
   Arizona Diamondbacks @ San Diego Padres
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 88.1, K%: 19.3%
+      - Stats vs LHP: wRC+: 88.3, K%: 19.3%
+
+
+Friday:
+  Cleveland Guardians @ Chicago White Sox
+    • Shane Smith (Chicago White Sox, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 91.4, K%: 21.6%
+
+
+Saturday:
+  New York Mets @ Kansas City Royals
+    • Frankie Montas (New York Mets, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 84.3, K%: 18.0%
+
+  Cleveland Guardians @ Chicago White Sox
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 91.4, K%: 21.6%
 
 
