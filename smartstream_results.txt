@@ -1,40 +1,31 @@
-Potential streaming options for the week starting 2025-07-10:
-
-Thursday:
-  Seattle Mariners @ New York Yankees
-    • Marcus Stroman (New York Yankees, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 112.3, K%: 22.2%
-
-  Arizona Diamondbacks @ San Diego Padres
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 88.4, K%: 19.3%
-
+Potential streaming options for the week starting 2025-07-11:
 
 Friday:
   Cleveland Guardians @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 91.0, K%: 21.6%
+      - Stats vs RHP: wRC+: 91.1, K%: 21.6%
+
+  Washington Nationals @ Milwaukee Brewers
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Milwaukee Brewers
+      - Stats vs LHP: wRC+: 98.2, K%: 22.2%
 
 
 Saturday:
+  Atlanta Braves @ St. Louis Cardinals
+    • Erick Fedde (St. Louis Cardinals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 100.9, K%: 22.2%
+
   New York Mets @ Kansas City Royals
     • Frankie Montas (New York Mets, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 84.6, K%: 18.1%
+      - Stats vs RHP: wRC+: 84.7, K%: 18.1%
 
   Cleveland Guardians @ Chicago White Sox
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 91.0, K%: 21.6%
-
-
-Sunday:
-  Pittsburgh Pirates @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 81.7, K%: 22.6%
+      - Stats vs RHP: wRC+: 91.1, K%: 21.6%
 
 
