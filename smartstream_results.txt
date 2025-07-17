@@ -1,9 +1,14 @@
-Potential streaming options for the week starting 2025-07-16:
+Potential streaming options for the week starting 2025-07-17:
 
 Saturday:
   San Francisco Giants @ Toronto Blue Jays
     • Eric Lauer (Toronto Blue Jays, L)
       - Opponent: San Francisco Giants
       - Stats vs LHP: wRC+: 76.9, K%: 25.8%
+
+  Detroit Tigers @ Texas Rangers
+    • Kumar Rocker (Texas Rangers, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 107.6, K%: 23.4%
 
 
