@@ -1,26 +1,23 @@
-Potential streaming options for the week starting 2025-07-19:
-
-Saturday:
-  Los Angeles Angels @ Philadelphia Phillies
-    • Taijuan Walker (Philadelphia Phillies, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 99.5, K%: 25.3%
-
-  San Diego Padres @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 91.7, K%: 19.4%
-
-  Detroit Tigers @ Texas Rangers
-    • Kumar Rocker (Texas Rangers, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 107.2, K%: 23.4%
-
+Potential streaming options for the week starting 2025-07-20:
 
 Sunday:
-  New York Yankees @ Atlanta Braves
-    • Marcus Stroman (New York Yankees, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.0, K%: 22.3%
+  Boston Red Sox @ Chicago Cubs
+    • Cade Horton (Chicago Cubs, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 101.7, K%: 23.2%
+
+
+Monday:
+  Athletics @ Texas Rangers
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 73.8, K%: 24.3%
+
+
+Tuesday:
+  Los Angeles Angels @ New York Mets
+    • Frankie Montas (New York Mets, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 100.9, K%: 25.4%
 
 
