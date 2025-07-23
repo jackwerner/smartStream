@@ -1,40 +1,36 @@
-Potential streaming options for the week starting 2025-07-22:
-
-Tuesday:
-  St. Louis Cardinals @ Colorado Rockies
-    • Erick Fedde (St. Louis Cardinals, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 76.4, K%: 26.5%
-
+Potential streaming options for the week starting 2025-07-23:
 
 Wednesday:
-  Cincinnati Reds @ Washington Nationals
-    • Michael Soroka (Washington Nationals, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 102.1, K%: 22.8%
-
   Detroit Tigers @ Pittsburgh Pirates
     • Bailey Falter (Pittsburgh Pirates, L)
       - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 113.4, K%: 22.2%
+      - Stats vs LHP: wRC+: 114.8, K%: 22.3%
 
   St. Louis Cardinals @ Colorado Rockies
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 76.4, K%: 26.5%
+      - Stats vs RHP: wRC+: 77.5, K%: 26.7%
+
+  Athletics @ Texas Rangers
+    • JP Sears (Athletics, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 74.6, K%: 25.0%
 
 
 Thursday:
   Baltimore Orioles @ Cleveland Guardians
+    • Charlie Morton (Baltimore Orioles, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 92.2, K%: 21.5%
     • Logan Allen (Cleveland Guardians, L)
       - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 75.2, K%: 25.1%
+      - Stats vs LHP: wRC+: 75.6, K%: 25.1%
 
 
 Friday:
   San Diego Padres @ St. Louis Cardinals
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: San Diego Padres
-      - Stats vs RHP: wRC+: 99.6, K%: 18.7%
+      - Stats vs RHP: wRC+: 99.4, K%: 18.8%
 
 
