@@ -1,22 +1,22 @@
-Potential streaming options for the week starting 2025-07-24:
+Potential streaming options for the week starting 2025-07-25:
 
 Friday:
   San Diego Padres @ St. Louis Cardinals
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: San Diego Padres
-      - Stats vs RHP: wRC+: 98.2, K%: 18.7%
+      - Stats vs RHP: wRC+: 99.3, K%: 18.7%
 
 
 Saturday:
   Atlanta Braves @ Texas Rangers
     • Kumar Rocker (Texas Rangers, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.7, K%: 22.4%
+      - Stats vs RHP: wRC+: 101.6, K%: 22.4%
 
   Washington Nationals @ Minnesota Twins
     • Mitchell Parker (Washington Nationals, L)
       - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 97.5, K%: 24.2%
+      - Stats vs LHP: wRC+: 97.4, K%: 24.2%
 
   Chicago Cubs @ Chicago White Sox
     • Cade Horton (Chicago Cubs, R)
@@ -26,13 +26,6 @@ Saturday:
   Seattle Mariners @ Los Angeles Angels
     • Tyler Anderson (Los Angeles Angels, L)
       - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 106.3, K%: 24.6%
-
-
-Sunday:
-  Atlanta Braves @ Texas Rangers
-    • Bryce Elder (Atlanta Braves, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 94.1, K%: 21.5%
+      - Stats vs LHP: wRC+: 107.6, K%: 24.6%
 
 
