@@ -1,21 +1,23 @@
-Potential streaming options for the week starting 2025-07-26:
+Potential streaming options for the week starting 2025-07-27:
 
-Saturday:
-  Washington Nationals @ Minnesota Twins
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 95.7, K%: 24.1%
-
-  Seattle Mariners @ Los Angeles Angels
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 107.0, K%: 24.7%
+Sunday:
+  Atlanta Braves @ Texas Rangers
+    • Bryce Elder (Atlanta Braves, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 94.1, K%: 21.4%
 
 
 Monday:
   New York Mets @ San Diego Padres
     • Frankie Montas (New York Mets, R)
       - Opponent: San Diego Padres
-      - Stats vs RHP: wRC+: 99.2, K%: 18.7%
+      - Stats vs RHP: wRC+: 98.9, K%: 18.7%
+
+
+Tuesday:
+  Tampa Bay Rays @ New York Yankees
+    • Joe Boyle (Tampa Bay Rays, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.3, K%: 22.5%
 
 
