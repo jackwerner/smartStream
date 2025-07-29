@@ -1,31 +1,14 @@
-Potential streaming options for the week starting 2025-07-28:
-
-Monday:
-  Arizona Diamondbacks @ Detroit Tigers
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Detroit Tigers
-      - Stats vs LHP: wRC+: 109.9, K%: 22.6%
-
-  Boston Red Sox @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 101.6, K%: 23.5%
-
-  Seattle Mariners @ Athletics
-    • JP Sears (Athletics, L)
-      - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 107.2, K%: 24.4%
-
+Potential streaming options for the week starting 2025-07-29:
 
 Tuesday:
   Tampa Bay Rays @ New York Yankees
     • Joe Boyle (Tampa Bay Rays, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.6, K%: 22.5%
+      - Stats vs RHP: wRC+: 117.2, K%: 22.6%
 
-  Boston Red Sox @ Minnesota Twins
-    • Chris Paddack (Minnesota Twins, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 101.6, K%: 23.5%
+  Washington Nationals @ Houston Astros
+    • Michael Soroka (Washington Nationals, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 99.8, K%: 21.0%
 
 
