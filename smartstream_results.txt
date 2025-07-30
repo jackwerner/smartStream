@@ -1,14 +1,28 @@
-Potential streaming options for the week starting 2025-07-29:
+Potential streaming options for the week starting 2025-07-30:
 
-Tuesday:
-  Tampa Bay Rays @ New York Yankees
-    • Joe Boyle (Tampa Bay Rays, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 117.2, K%: 22.6%
+Wednesday:
+  Philadelphia Phillies @ Chicago White Sox
+    • Taijuan Walker (Philadelphia Phillies, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 79.9, K%: 22.2%
 
-  Washington Nationals @ Houston Astros
-    • Michael Soroka (Washington Nationals, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 99.8, K%: 21.0%
+
+Saturday:
+  Chicago White Sox @ Los Angeles Angels
+    • Aaron Civale (Chicago White Sox, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 99.7, K%: 25.4%
+
+
+Sunday:
+  Minnesota Twins @ Cleveland Guardians
+    • Joey Cantillo (Cleveland Guardians, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 96.8, K%: 23.9%
+
+  Chicago White Sox @ Los Angeles Angels
+    • Sean Burke (Chicago White Sox, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 99.7, K%: 25.4%
 
 
