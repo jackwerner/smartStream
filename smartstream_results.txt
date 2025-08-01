@@ -1,15 +1,10 @@
-Potential streaming options for the week starting 2025-07-31:
+Potential streaming options for the week starting 2025-08-01:
 
 Friday:
   Pittsburgh Pirates @ Colorado Rockies
     • Andrew Heaney (Pittsburgh Pirates, L)
       - Opponent: Colorado Rockies
       - Stats vs LHP: wRC+: 68.9, K%: 25.8%
-
-  Chicago White Sox @ Los Angeles Angels
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.3, K%: 25.1%
 
 
 Saturday:
@@ -21,7 +16,7 @@ Saturday:
   Chicago White Sox @ Los Angeles Angels
     • Aaron Civale (Chicago White Sox, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 98.8, K%: 25.4%
+      - Stats vs RHP: wRC+: 98.9, K%: 25.4%
 
 
 Sunday:
@@ -38,6 +33,6 @@ Sunday:
   Chicago White Sox @ Los Angeles Angels
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 98.8, K%: 25.4%
+      - Stats vs RHP: wRC+: 98.9, K%: 25.4%
 
 
