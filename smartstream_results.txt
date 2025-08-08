@@ -1,27 +1,10 @@
-Potential streaming options for the week starting 2025-08-07:
-
-Thursday:
-  Athletics @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
-
-  Chicago White Sox @ Seattle Mariners
-    • Shane Smith (Chicago White Sox, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 111.1, K%: 22.4%
-
+Potential streaming options for the week starting 2025-08-08:
 
 Friday:
   Los Angeles Angels @ Detroit Tigers
     • Kyle Hendricks (Los Angeles Angels, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 103.7, K%: 23.9%
-
-  Cleveland Guardians @ Chicago White Sox
-    • Aaron Civale (Chicago White Sox, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 91.9, K%: 21.5%
+      - Stats vs RHP: wRC+: 103.8, K%: 23.9%
 
 
 Saturday:
@@ -30,21 +13,16 @@ Saturday:
       - Opponent: Cleveland Guardians
       - Stats vs RHP: wRC+: 91.9, K%: 21.5%
 
-  Colorado Rockies @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 71.6, K%: 25.0%
-
   Tampa Bay Rays @ Seattle Mariners
     • Joe Boyle (Tampa Bay Rays, R)
       - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 111.1, K%: 22.4%
+      - Stats vs RHP: wRC+: 110.4, K%: 22.6%
 
 
 Sunday:
   Cincinnati Reds @ Pittsburgh Pirates
     • Mike Burrows (Pittsburgh Pirates, R)
       - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 99.9, K%: 22.5%
+      - Stats vs RHP: wRC+: 99.4, K%: 22.6%
 
 
