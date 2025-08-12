@@ -1,43 +1,23 @@
-Potential streaming options for the week starting 2025-08-11:
-
-Monday:
-  Washington Nationals @ Kansas City Royals
-    • Bailey Falter (Kansas City Royals, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 84.3, K%: 23.8%
-
-  Detroit Tigers @ Chicago White Sox
-    • Chris Paddack (Detroit Tigers, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 83.7, K%: 22.1%
-
+Potential streaming options for the week starting 2025-08-12:
 
 Tuesday:
-  Seattle Mariners @ Baltimore Orioles
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 111.2, K%: 22.5%
-
-  Miami Marlins @ Cleveland Guardians
-    • Logan Allen (Cleveland Guardians, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 77.8, K%: 21.5%
-
   Washington Nationals @ Kansas City Royals
     • Mitchell Parker (Washington Nationals, L)
       - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 77.4, K%: 22.3%
-
-  Los Angeles Dodgers @ Los Angeles Angels
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 112.5, K%: 22.1%
+      - Stats vs LHP: wRC+: 76.9, K%: 22.4%
 
 
 Wednesday:
   Detroit Tigers @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 103.3, K%: 24.1%
+      - Stats vs RHP: wRC+: 103.5, K%: 24.0%
+
+
+Friday:
+  New York Yankees @ St. Louis Cardinals
+    • Andre Pallante (St. Louis Cardinals, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 112.3, K%: 22.8%
 
 
