@@ -1,23 +1,16 @@
-Potential streaming options for the week starting 2025-08-12:
-
-Tuesday:
-  Washington Nationals @ Kansas City Royals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 76.9, K%: 22.4%
-
+Potential streaming options for the week starting 2025-08-13:
 
 Wednesday:
   Detroit Tigers @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 103.5, K%: 24.0%
+      - Stats vs RHP: wRC+: 103.2, K%: 24.1%
 
 
 Friday:
   New York Yankees @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 112.3, K%: 22.8%
+      - Stats vs RHP: wRC+: 113.7, K%: 22.6%
 
 
