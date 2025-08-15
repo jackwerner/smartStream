@@ -1,17 +1,22 @@
-Potential streaming options for the week starting 2025-08-14:
+Potential streaming options for the week starting 2025-08-15:
 
 Friday:
   New York Yankees @ St. Louis Cardinals
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 113.3, K%: 22.6%
+      - Stats vs RHP: wRC+: 113.5, K%: 22.6%
 
 
 Saturday:
+  Baltimore Orioles @ Houston Astros
+    • Jason Alexander (Houston Astros, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 101.5, K%: 23.2%
+
   Chicago White Sox @ Kansas City Royals
     • Sean Burke (Chicago White Sox, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 90.6, K%: 17.5%
+      - Stats vs RHP: wRC+: 90.7, K%: 17.5%
 
   Los Angeles Angels @ Athletics
     • Tyler Anderson (Los Angeles Angels, L)
@@ -23,11 +28,16 @@ Sunday:
   Philadelphia Phillies @ Washington Nationals
     • Mitchell Parker (Washington Nationals, L)
       - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 101.1, K%: 23.2%
+      - Stats vs LHP: wRC+: 100.7, K%: 23.3%
+
+  Atlanta Braves @ Cleveland Guardians
+    • Erick Fedde (Atlanta Braves, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 93.0, K%: 21.6%
 
   Detroit Tigers @ Minnesota Twins
     • Chris Paddack (Detroit Tigers, R)
       - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 98.5, K%: 21.7%
+      - Stats vs RHP: wRC+: 98.1, K%: 21.7%
 
 
