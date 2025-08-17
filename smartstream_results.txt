@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2025-08-16:
-
-Saturday:
-  Los Angeles Angels @ Athletics
-    • Tyler Anderson (Los Angeles Angels, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-08-17:
 
 Sunday:
   Philadelphia Phillies @ Washington Nationals
@@ -18,14 +11,23 @@ Sunday:
       - Opponent: Cleveland Guardians
       - Stats vs RHP: wRC+: 91.8, K%: 21.7%
 
-  Baltimore Orioles @ Houston Astros
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 99.5, K%: 20.6%
 
-  Detroit Tigers @ Minnesota Twins
-    • Chris Paddack (Detroit Tigers, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.6, K%: 21.7%
+Tuesday:
+  Baltimore Orioles @ Boston Red Sox
+    • Walker Buehler (Boston Red Sox, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 101.9, K%: 23.1%
+
+  Chicago White Sox @ Atlanta Braves
+    • Shane Smith (Chicago White Sox, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 100.9, K%: 22.6%
+
+
+Wednesday:
+  Cincinnati Reds @ Los Angeles Angels
+    • Nick Martinez (Cincinnati Reds, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 99.1, K%: 25.8%
 
 
