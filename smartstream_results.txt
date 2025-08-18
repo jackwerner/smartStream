@@ -1,33 +1,33 @@
-Potential streaming options for the week starting 2025-08-17:
-
-Sunday:
-  Philadelphia Phillies @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 101.2, K%: 23.3%
-
-  Atlanta Braves @ Cleveland Guardians
-    • Erick Fedde (Atlanta Braves, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 91.8, K%: 21.7%
-
+Potential streaming options for the week starting 2025-08-18:
 
 Tuesday:
   Baltimore Orioles @ Boston Red Sox
     • Walker Buehler (Boston Red Sox, R)
       - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 101.9, K%: 23.1%
+      - Stats vs RHP: wRC+: 102.3, K%: 23.1%
 
   Chicago White Sox @ Atlanta Braves
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 100.9, K%: 22.6%
+      - Stats vs RHP: wRC+: 101.5, K%: 22.5%
 
 
 Wednesday:
+  Houston Astros @ Detroit Tigers
+    • Charlie Morton (Detroit Tigers, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 98.6, K%: 20.7%
+
   Cincinnati Reds @ Los Angeles Angels
     • Nick Martinez (Cincinnati Reds, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 99.1, K%: 25.8%
+      - Stats vs RHP: wRC+: 98.3, K%: 25.8%
+
+
+Thursday:
+  Texas Rangers @ Kansas City Royals
+    • Michael Lorenzen (Kansas City Royals, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.4%
 
 
