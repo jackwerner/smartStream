@@ -1,33 +1,36 @@
-Potential streaming options for the week starting 2025-08-18:
+Potential streaming options for the week starting 2025-08-19:
 
 Tuesday:
   Baltimore Orioles @ Boston Red Sox
     • Walker Buehler (Boston Red Sox, R)
       - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 102.3, K%: 23.1%
+      - Stats vs RHP: wRC+: 102.7, K%: 23.0%
 
   Chicago White Sox @ Atlanta Braves
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.5, K%: 22.5%
+      - Stats vs RHP: wRC+: 102.5, K%: 22.5%
+    • Bryce Elder (Atlanta Braves, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 84.9, K%: 22.2%
 
 
 Wednesday:
   Houston Astros @ Detroit Tigers
     • Charlie Morton (Detroit Tigers, R)
       - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 98.6, K%: 20.7%
+      - Stats vs RHP: wRC+: 97.8, K%: 20.8%
 
   Cincinnati Reds @ Los Angeles Angels
     • Nick Martinez (Cincinnati Reds, R)
       - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 98.3, K%: 25.8%
+      - Stats vs RHP: wRC+: 98.0, K%: 25.8%
 
 
 Thursday:
   Texas Rangers @ Kansas City Royals
     • Michael Lorenzen (Kansas City Royals, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.4%
+      - Stats vs RHP: wRC+: 94.9, K%: 21.4%
 
 
