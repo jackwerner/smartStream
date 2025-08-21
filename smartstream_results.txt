@@ -1,21 +1,21 @@
-Potential streaming options for the week starting 2025-08-20:
-
-Wednesday:
-  Houston Astros @ Detroit Tigers
-    • Charlie Morton (Detroit Tigers, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 97.3, K%: 20.8%
-
+Potential streaming options for the week starting 2025-08-21:
 
 Friday:
   St. Louis Cardinals @ Tampa Bay Rays
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.1, K%: 22.2%
+      - Stats vs RHP: wRC+: 103.5, K%: 22.5%
 
   Cleveland Guardians @ Texas Rangers
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 94.7, K%: 21.3%
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
+
+Sunday:
+  Houston Astros @ Baltimore Orioles
+    • Spencer Arrighetti (Houston Astros, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 102.5, K%: 23.0%
 
 
