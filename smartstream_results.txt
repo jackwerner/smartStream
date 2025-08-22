@@ -1,21 +1,16 @@
-Potential streaming options for the week starting 2025-08-21:
+Potential streaming options for the week starting 2025-08-22:
 
 Friday:
   St. Louis Cardinals @ Tampa Bay Rays
     • Miles Mikolas (St. Louis Cardinals, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 103.5, K%: 22.5%
-
-  Cleveland Guardians @ Texas Rangers
-    • Slade Cecconi (Cleveland Guardians, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+      - Stats vs RHP: wRC+: 103.8, K%: 22.4%
 
 
-Sunday:
-  Houston Astros @ Baltimore Orioles
-    • Spencer Arrighetti (Houston Astros, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 102.5, K%: 23.0%
+Saturday:
+  Washington Nationals @ Philadelphia Phillies
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Philadelphia Phillies
+      - Stats vs LHP: wRC+: 102.4, K%: 22.8%
 
 
