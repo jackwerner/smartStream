@@ -1,30 +1,46 @@
-Potential streaming options for the week starting 2025-08-24:
-
-Sunday:
-  Minnesota Twins @ Chicago White Sox
-    • Taj Bradley (Minnesota Twins, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 85.9, K%: 22.1%
-
+Potential streaming options for the week starting 2025-08-25:
 
 Monday:
   Kansas City Royals @ Chicago White Sox
     • Shane Smith (Chicago White Sox, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 93.2, K%: 17.5%
+      - Stats vs RHP: wRC+: 94.1, K%: 17.5%
+
+  San Diego Padres @ Seattle Mariners
+    • JP Sears (San Diego Padres, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 103.7, K%: 25.7%
 
 
 Tuesday:
   Pittsburgh Pirates @ St. Louis Cardinals
+    • Mitch Keller (Pittsburgh Pirates, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 99.9, K%: 20.5%
     • Andre Pallante (St. Louis Cardinals, R)
       - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.4, K%: 22.6%
+      - Stats vs RHP: wRC+: 84.6, K%: 22.5%
+
+  Los Angeles Angels @ Texas Rangers
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 92.5, K%: 26.9%
 
 
 Wednesday:
   Tampa Bay Rays @ Cleveland Guardians
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 105.3, K%: 22.3%
+      - Stats vs RHP: wRC+: 105.8, K%: 22.3%
+
+  Kansas City Royals @ Chicago White Sox
+    • Aaron Civale (Chicago White Sox, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 94.1, K%: 17.5%
+
+  Los Angeles Angels @ Texas Rangers
+    • Tyler Anderson (Los Angeles Angels, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 81.7, K%: 23.6%
 
 
