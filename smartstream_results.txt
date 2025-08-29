@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2025-08-28:
-
-Thursday:
-  Pittsburgh Pirates @ St. Louis Cardinals
-    • Miles Mikolas (St. Louis Cardinals, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.7, K%: 22.7%
-
+Potential streaming options for the week starting 2025-08-29:
 
 Friday:
   Tampa Bay Rays @ Washington Nationals
@@ -23,9 +16,16 @@ Friday:
       - Opponent: Houston Astros
       - Stats vs LHP: wRC+: 107.9, K%: 22.6%
 
-  Detroit Tigers @ Kansas City Royals
-    • Chris Paddack (Detroit Tigers, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 93.5, K%: 17.4%
+
+Saturday:
+  Los Angeles Angels @ Houston Astros
+    • Spencer Arrighetti (Houston Astros, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 95.9, K%: 26.1%
+
+  Arizona Diamondbacks @ Los Angeles Dodgers
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Los Angeles Dodgers
+      - Stats vs LHP: wRC+: 112.3, K%: 22.4%
 
 
