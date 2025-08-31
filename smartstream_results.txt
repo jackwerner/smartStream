@@ -1,26 +1,9 @@
-Potential streaming options for the week starting 2025-08-30:
-
-Saturday:
-  Detroit Tigers @ Kansas City Royals
-    • Stephen Kolek (Kansas City Royals, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 102.1, K%: 24.1%
-
-  Arizona Diamondbacks @ Los Angeles Dodgers
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.2, K%: 22.4%
-
+Potential streaming options for the week starting 2025-08-31:
 
 Tuesday:
   Cleveland Guardians @ Boston Red Sox
     • Slade Cecconi (Cleveland Guardians, R)
       - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 101.7, K%: 22.9%
-
-  Athletics @ St. Louis Cardinals
-    • Miles Mikolas (St. Louis Cardinals, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+      - Stats vs RHP: wRC+: 101.8, K%: 22.9%
 
 
