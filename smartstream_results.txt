@@ -1,26 +1,9 @@
-Potential streaming options for the week starting 2025-09-02:
-
-Tuesday:
-  Chicago White Sox @ Minnesota Twins
-    • Davis Martin (Chicago White Sox, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.1, K%: 22.0%
-
-  Athletics @ St. Louis Cardinals
-    • Miles Mikolas (St. Louis Cardinals, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-09-03:
 
 Wednesday:
   Miami Marlins @ Washington Nationals
     • Mitchell Parker (Washington Nationals, L)
       - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 76.2, K%: 21.4%
-
-  Los Angeles Dodgers @ Pittsburgh Pirates
-    • Braxton Ashcraft (Pittsburgh Pirates, R)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs RHP: wRC+: 113.8, K%: 22.1%
+      - Stats vs LHP: wRC+: 75.3, K%: 21.5%
 
 
