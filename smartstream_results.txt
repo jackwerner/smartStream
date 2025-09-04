@@ -1,9 +1,38 @@
-Potential streaming options for the week starting 2025-09-03:
+Potential streaming options for the week starting 2025-09-04:
 
-Wednesday:
-  Miami Marlins @ Washington Nationals
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 75.3, K%: 21.5%
+Thursday:
+  Cleveland Guardians @ Tampa Bay Rays
+    • Logan Allen (Cleveland Guardians, L)
+      - Opponent: Tampa Bay Rays
+      - Stats vs LHP: wRC+: 79.1, K%: 24.6%
+
+
+Friday:
+  Los Angeles Dodgers @ Baltimore Orioles
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Los Angeles Dodgers
+      - Stats vs RHP: wRC+: 113.4, K%: 22.0%
+
+  Boston Red Sox @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 104.3, K%: 23.1%
+
+
+Sunday:
+  Cleveland Guardians @ Tampa Bay Rays
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Tampa Bay Rays
+      - Stats vs LHP: wRC+: 79.1, K%: 24.6%
+
+  Chicago White Sox @ Detroit Tigers
+    • Charlie Morton (Detroit Tigers, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 85.9, K%: 22.3%
+
+  Houston Astros @ Texas Rangers
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Houston Astros
+      - Stats vs LHP: wRC+: 109.8, K%: 22.1%
 
 
