@@ -1,30 +1,6 @@
-Potential streaming options for the week starting 2025-09-05:
-
-Friday:
-  Los Angeles Dodgers @ Baltimore Orioles
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs RHP: wRC+: 113.0, K%: 22.1%
-
-  Boston Red Sox @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 104.2, K%: 23.1%
-
-
-Saturday:
-  Minnesota Twins @ Kansas City Royals
-    • Stephen Kolek (Kansas City Royals, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 96.9, K%: 21.9%
-
+Potential streaming options for the week starting 2025-09-06:
 
 Sunday:
-  Cleveland Guardians @ Tampa Bay Rays
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 78.9, K%: 24.5%
-
   Chicago White Sox @ Detroit Tigers
     • Charlie Morton (Detroit Tigers, R)
       - Opponent: Chicago White Sox
