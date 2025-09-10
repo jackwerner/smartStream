@@ -1,18 +1,11 @@
-Potential streaming options for the week starting 2025-09-09:
-
-Tuesday:
-  Washington Nationals @ Miami Marlins
-    • Mitchell Parker (Washington Nationals, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 78.8, K%: 21.5%
-
-  Boston Red Sox @ Athletics
-    • Dustin May (Boston Red Sox, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2025-09-10:
 
 Wednesday:
+  Boston Red Sox @ Athletics
+    • Payton Tolle (Boston Red Sox, L)
+      - Opponent: Athletics
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
+
   Arizona Diamondbacks @ San Francisco Giants
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: San Francisco Giants
@@ -24,10 +17,10 @@ Wednesday:
       - Stats vs LHP: wRC+: 80.8, K%: 21.5%
 
 
-Thursday:
-  Kansas City Royals @ Cleveland Guardians
-    • Stephen Kolek (Kansas City Royals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 87.9, K%: 22.2%
+Friday:
+  Kansas City Royals @ Philadelphia Phillies
+    • Walker Buehler (Philadelphia Phillies, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 92.7, K%: 17.4%
 
 
