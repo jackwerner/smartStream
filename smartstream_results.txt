@@ -1,23 +1,21 @@
-Potential streaming options for the week starting 2025-09-11:
-
-Thursday:
-  Pittsburgh Pirates @ Baltimore Orioles
-    • Johan Oviedo (Pittsburgh Pirates, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 101.1, K%: 23.6%
-
+Potential streaming options for the week starting 2025-09-12:
 
 Friday:
   Kansas City Royals @ Philadelphia Phillies
     • Walker Buehler (Philadelphia Phillies, R)
       - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 92.4, K%: 17.4%
+      - Stats vs RHP: wRC+: 92.1, K%: 17.5%
 
 
 Saturday:
   Texas Rangers @ New York Mets
     • Patrick Corbin (Texas Rangers, L)
       - Opponent: New York Mets
-      - Stats vs LHP: wRC+: 99.7, K%: 22.2%
+      - Stats vs LHP: wRC+: 98.0, K%: 22.4%
+
+  Detroit Tigers @ Miami Marlins
+    • Janson Junk (Miami Marlins, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 100.9, K%: 24.1%
 
 
