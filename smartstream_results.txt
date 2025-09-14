@@ -1,14 +1,21 @@
-Potential streaming options for the week starting 2025-09-13:
+Potential streaming options for the week starting 2025-09-14:
 
-Saturday:
-  Texas Rangers @ New York Mets
-    • Patrick Corbin (Texas Rangers, L)
-      - Opponent: New York Mets
-      - Stats vs LHP: wRC+: 98.0, K%: 22.4%
+Sunday:
+  Pittsburgh Pirates @ Washington Nationals
+    • Mike Burrows (Pittsburgh Pirates, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 99.5, K%: 20.7%
 
-  Detroit Tigers @ Miami Marlins
-    • Janson Junk (Miami Marlins, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 100.9, K%: 24.1%
+  Los Angeles Angels @ Seattle Mariners
+    • Kyle Hendricks (Los Angeles Angels, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 111.1, K%: 22.4%
+
+
+Tuesday:
+  San Diego Padres @ New York Mets
+    • Sean Manaea (New York Mets, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 93.2, K%: 18.7%
 
 
