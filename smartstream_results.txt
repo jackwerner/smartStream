@@ -1,21 +1,16 @@
-Potential streaming options for the week starting 2025-09-14:
+Potential streaming options for the week starting 2025-09-15:
 
-Sunday:
-  Pittsburgh Pirates @ Washington Nationals
-    • Mike Burrows (Pittsburgh Pirates, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 99.5, K%: 20.7%
-
-  Los Angeles Angels @ Seattle Mariners
-    • Kyle Hendricks (Los Angeles Angels, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 111.1, K%: 22.4%
+Monday:
+  Atlanta Braves @ Washington Nationals
+    • Mitchell Parker (Washington Nationals, L)
+      - Opponent: Atlanta Braves
+      - Stats vs LHP: wRC+: 95.7, K%: 22.3%
 
 
 Tuesday:
-  San Diego Padres @ New York Mets
-    • Sean Manaea (New York Mets, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 93.2, K%: 18.7%
+  San Francisco Giants @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Francisco Giants
+      - Stats vs LHP: wRC+: 78.7, K%: 24.7%
 
 
