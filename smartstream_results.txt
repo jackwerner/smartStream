@@ -1,2 +1,21 @@
-Potential streaming options for the week starting 2025-09-17:
+Potential streaming options for the week starting 2025-09-18:
+
+Friday:
+  Atlanta Braves @ Detroit Tigers
+    • Bryce Elder (Atlanta Braves, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 99.1, K%: 24.2%
+
+
+Sunday:
+  Cleveland Guardians @ Minnesota Twins
+    • Joey Cantillo (Cleveland Guardians, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 98.7, K%: 22.7%
+
+  Philadelphia Phillies @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Philadelphia Phillies
+      - Stats vs LHP: wRC+: 104.9, K%: 23.7%
+
 
