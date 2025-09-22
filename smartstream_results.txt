@@ -1,14 +1,16 @@
-Potential streaming options for the week starting 2025-09-21:
+Potential streaming options for the week starting 2025-09-22:
 
-Sunday:
-  Athletics @ Pittsburgh Pirates
-    • Mike Burrows (Pittsburgh Pirates, R)
+Tuesday:
+  Houston Astros @ Athletics
+    • Cristian Javier (Houston Astros, R)
       - Opponent: Athletics
       - Stats vs RHP: wRC+: 0.0, K%: 0.0%
 
-  Philadelphia Phillies @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 105.1, K%: 23.7%
+
+Wednesday:
+  Washington Nationals @ Atlanta Braves
+    • Bryce Elder (Atlanta Braves, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.5, K%: 21.1%
 
 
