@@ -1,10 +1,10 @@
-Potential streaming options for the week starting 2025-09-22:
+Potential streaming options for the week starting 2025-09-23:
 
 Tuesday:
-  Houston Astros @ Athletics
-    • Cristian Javier (Houston Astros, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+  Minnesota Twins @ Texas Rangers
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
 
 
 Wednesday:
