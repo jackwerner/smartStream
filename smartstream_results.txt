@@ -1,2 +1,21 @@
-Potential streaming options for the week starting 2025-09-24:
+Potential streaming options for the week starting 2025-09-25:
+
+Saturday:
+  Chicago White Sox @ Washington Nationals
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 86.1, K%: 22.6%
+
+  Arizona Diamondbacks @ San Diego Padres
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 94.3, K%: 18.5%
+
+
+Sunday:
+  Colorado Rockies @ San Francisco Giants
+    • Logan Webb (San Francisco Giants, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 75.0, K%: 26.1%
+
 
