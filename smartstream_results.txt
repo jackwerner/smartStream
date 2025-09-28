@@ -1,19 +1,24 @@
-Potential streaming options for the week starting 2025-09-27:
+Potential streaming options for the week starting 2025-09-28:
 
-Saturday:
+Sunday:
   Chicago White Sox @ Washington Nationals
-    • Jake Irvin (Washington Nationals, R)
+    • Brad Lord (Washington Nationals, R)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 86.4, K%: 22.7%
+      - Stats vs RHP: wRC+: 86.6, K%: 22.7%
 
-  Arizona Diamondbacks @ San Diego Padres
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 94.2, K%: 18.5%
+  Texas Rangers @ Cleveland Guardians
+    • Patrick Corbin (Texas Rangers, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 80.5, K%: 23.9%
 
-  Kansas City Royals @ Athletics
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+  New York Mets @ Miami Marlins
+    • Sean Manaea (New York Mets, L)
+      - Opponent: Miami Marlins
+      - Stats vs LHP: wRC+: 81.8, K%: 20.9%
+
+  Pittsburgh Pirates @ Atlanta Braves
+    • Johan Oviedo (Pittsburgh Pirates, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.0, K%: 22.3%
 
 
