@@ -1,9 +1,16 @@
-Potential streaming options for the week starting 2026-02-19:
+Potential streaming options for the week starting 2026-02-20:
 
 Saturday:
   Cincinnati Reds @ Cleveland Guardians
     • Logan Allen (Cleveland Guardians, L)
       - Opponent: Cincinnati Reds
       - Stats vs LHP: wRC+: 78.7, K%: 23.0%
+
+
+Wednesday:
+  Boston Red Sox @ Minnesota Twins
+    • Johan Oviedo (Boston Red Sox, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
 
 
