@@ -1,18 +1,11 @@
-Potential streaming options for the week starting 2026-02-22:
-
-Sunday:
-  Cleveland Guardians @ Athletics
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
-
-  Milwaukee Brewers @ Chicago White Sox
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
-
+Potential streaming options for the week starting 2026-02-23:
 
 Tuesday:
+  Kansas City Royals @ Cincinnati Reds
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 96.6, K%: 23.4%
+
   San Francisco Giants @ Los Angeles Angels
     • Grayson Rodriguez (Los Angeles Angels, Unknown)
       - Opponent: San Francisco Giants
