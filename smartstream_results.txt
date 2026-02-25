@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-02-24:
-
-Tuesday:
-  Kansas City Royals @ Cincinnati Reds
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 96.6, K%: 23.4%
-
-  San Francisco Giants @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 104.2, K%: 22.0%
-
+Potential streaming options for the week starting 2026-02-25:
 
 Wednesday:
   Boston Red Sox @ Minnesota Twins
@@ -25,6 +13,11 @@ Wednesday:
 
 
 Thursday:
+  Detroit Tigers @ Baltimore Orioles
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
+
   Minnesota Twins @ Pittsburgh Pirates
     • Simeon Woods Richardson (Minnesota Twins, R)
       - Opponent: Pittsburgh Pirates
