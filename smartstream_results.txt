@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-02-25:
-
-Wednesday:
-  Boston Red Sox @ Minnesota Twins
-    • Johan Oviedo (Boston Red Sox, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
-
-  Los Angeles Dodgers @ Arizona Diamondbacks
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
-
+Potential streaming options for the week starting 2026-02-26:
 
 Thursday:
   Detroit Tigers @ Baltimore Orioles
@@ -23,11 +11,26 @@ Thursday:
       - Opponent: Pittsburgh Pirates
       - Stats vs RHP: wRC+: 84.3, K%: 23.0%
 
+  Kansas City Royals @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Kansas City Royals
+      - Stats vs LHP: wRC+: 80.2, K%: 20.9%
+
 
 Friday:
   Toronto Blue Jays @ Tampa Bay Rays
     • Eric Lauer (Toronto Blue Jays, L)
       - Opponent: Tampa Bay Rays
       - Stats vs LHP: wRC+: 85.0, K%: 24.5%
+
+  Cleveland Guardians @ Chicago Cubs
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
+
+  Arizona Diamondbacks @ Seattle Mariners
+    • Luis Castillo (Seattle Mariners, R)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
 
 
