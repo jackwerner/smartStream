@@ -1,21 +1,4 @@
-Potential streaming options for the week starting 2026-02-26:
-
-Thursday:
-  Detroit Tigers @ Baltimore Orioles
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
-
-  Minnesota Twins @ Pittsburgh Pirates
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  Kansas City Royals @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 80.2, K%: 20.9%
-
+Potential streaming options for the week starting 2026-02-27:
 
 Friday:
   Toronto Blue Jays @ Tampa Bay Rays
@@ -32,5 +15,12 @@ Friday:
     • Luis Castillo (Seattle Mariners, R)
       - Opponent: Arizona Diamondbacks
       - Stats vs RHP: wRC+: 110.3, K%: 22.1%
+
+
+Saturday:
+  Seattle Mariners @ San Diego Padres
+    • JP Sears (San Diego Padres, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 108.0, K%: 24.8%
 
 
