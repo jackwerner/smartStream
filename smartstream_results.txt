@@ -1,26 +1,16 @@
-Potential streaming options for the week starting 2026-02-27:
-
-Friday:
-  Toronto Blue Jays @ Tampa Bay Rays
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
-
-  Cleveland Guardians @ Chicago Cubs
-    • Edward Cabrera (Chicago Cubs, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
-  Arizona Diamondbacks @ Seattle Mariners
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
-
+Potential streaming options for the week starting 2026-02-28:
 
 Saturday:
   Seattle Mariners @ San Diego Padres
     • JP Sears (San Diego Padres, L)
       - Opponent: Seattle Mariners
       - Stats vs LHP: wRC+: 108.0, K%: 24.8%
+
+
+Monday:
+  Kansas City Royals @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Kansas City Royals
+      - Stats vs UnknownHP: wRC+: 96.9, K%: 17.4%
 
 
