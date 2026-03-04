@@ -1,22 +1,15 @@
-Potential streaming options for the week starting 2026-03-03:
-
-Tuesday:
-  Tampa Bay Rays @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Los Angeles Dodgers @ Cleveland Guardians
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
+Potential streaming options for the week starting 2026-03-04:
 
 Thursday:
   St. Louis Cardinals @ Pittsburgh Pirates
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Pittsburgh Pirates
       - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+  Baltimore Orioles @ Tampa Bay Rays
+    • Zach Eflin (Baltimore Orioles, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
 
   Toronto Blue Jays @ Atlanta Braves
     • Dylan Cease (Toronto Blue Jays, R)
