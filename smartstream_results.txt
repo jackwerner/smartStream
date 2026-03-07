@@ -1,17 +1,25 @@
-Potential streaming options for the week starting 2026-03-06:
-
-Friday:
-  New York Mets @ Miami Marlins
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 82.1, K%: 20.9%
-
+Potential streaming options for the week starting 2026-03-07:
 
 Saturday:
   New York Mets @ St. Louis Cardinals
     • Kodai Senga (New York Mets, R)
       - Opponent: St. Louis Cardinals
       - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+  Tampa Bay Rays @ Boston Red Sox
+    • Johan Oviedo (Boston Red Sox, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+  Baltimore Orioles @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
+
+  Cincinnati Reds @ Kansas City Royals
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Cincinnati Reds
+      - Stats vs LHP: wRC+: 78.7, K%: 23.0%
 
 
 Sunday:
@@ -22,6 +30,16 @@ Sunday:
 
 
 Monday:
+  Tampa Bay Rays @ Detroit Tigers
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Detroit Tigers
+      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
+
+  Minnesota Twins @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
+
   Cleveland Guardians @ Kansas City Royals
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Kansas City Royals
