@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-03-09:
-
-Monday:
-  Tampa Bay Rays @ Detroit Tigers
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
-
-  Cleveland Guardians @ Kansas City Royals
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 80.2, K%: 20.9%
-
+Potential streaming options for the week starting 2026-03-10:
 
 Tuesday:
   Atlanta Braves @ Toronto Blue Jays
@@ -24,5 +12,17 @@ Wednesday:
     • Eric Lauer (Toronto Blue Jays, L)
       - Opponent: New York Yankees
       - Stats vs LHP: wRC+: 120.6, K%: 23.6%
+
+
+Thursday:
+  New York Mets @ St. Louis Cardinals
+    • Sean Manaea (New York Mets, L)
+      - Opponent: St. Louis Cardinals
+      - Stats vs LHP: wRC+: 96.5, K%: 22.2%
+
+  Kansas City Royals @ San Diego Padres
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 96.0, K%: 18.5%
 
 
