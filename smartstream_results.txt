@@ -1,13 +1,11 @@
-Potential streaming options for the week starting 2026-03-10:
-
-Tuesday:
-  Atlanta Braves @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
-
+Potential streaming options for the week starting 2026-03-11:
 
 Wednesday:
+  St. Louis Cardinals @ Washington Nationals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
+
   Toronto Blue Jays @ New York Yankees
     • Eric Lauer (Toronto Blue Jays, L)
       - Opponent: New York Yankees
@@ -20,9 +18,21 @@ Thursday:
       - Opponent: St. Louis Cardinals
       - Stats vs LHP: wRC+: 96.5, K%: 22.2%
 
+  Seattle Mariners @ Chicago Cubs
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
+
   Kansas City Royals @ San Diego Padres
     • Kris Bubic (Kansas City Royals, L)
       - Opponent: San Diego Padres
       - Stats vs LHP: wRC+: 96.0, K%: 18.5%
+
+
+Sunday:
+  Pittsburgh Pirates @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs UnknownHP: wRC+: 84.3, K%: 23.0%
 
 
