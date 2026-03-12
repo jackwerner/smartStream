@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-03-11:
-
-Wednesday:
-  St. Louis Cardinals @ Washington Nationals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
-
-  Toronto Blue Jays @ New York Yankees
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 120.6, K%: 23.6%
-
+Potential streaming options for the week starting 2026-03-12:
 
 Thursday:
   New York Mets @ St. Louis Cardinals
@@ -23,10 +11,44 @@ Thursday:
       - Opponent: Seattle Mariners
       - Stats vs RHP: wRC+: 114.5, K%: 22.7%
 
+  Washington Nationals @ Houston Astros
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
+
+  Atlanta Braves @ Pittsburgh Pirates
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
   Kansas City Royals @ San Diego Padres
     • Kris Bubic (Kansas City Royals, L)
       - Opponent: San Diego Padres
       - Stats vs LHP: wRC+: 96.0, K%: 18.5%
+
+
+Friday:
+  Cleveland Guardians @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Cleveland Guardians
+      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+
+  Arizona Diamondbacks @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
+
+
+Saturday:
+  Tampa Bay Rays @ Minnesota Twins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+  Kansas City Royals @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Kansas City Royals
+      - Stats vs LHP: wRC+: 80.2, K%: 20.9%
 
 
 Sunday:
