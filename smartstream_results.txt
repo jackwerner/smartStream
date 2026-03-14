@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-03-13:
-
-Friday:
-  Tampa Bay Rays @ Boston Red Sox
-    • Johan Oviedo (Boston Red Sox, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Cleveland Guardians @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Cleveland Guardians
-      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
-
-  Cincinnati Reds @ San Francisco Giants
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
-  Arizona Diamondbacks @ Kansas City Royals
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
-
+Potential streaming options for the week starting 2026-03-14:
 
 Saturday:
   Tampa Bay Rays @ Minnesota Twins
