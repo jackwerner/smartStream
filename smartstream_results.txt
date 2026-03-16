@@ -1,21 +1,19 @@
-Potential streaming options for the week starting 2026-03-15:
-
-Sunday:
-  Pittsburgh Pirates @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs UnknownHP: wRC+: 84.3, K%: 23.0%
-
-  New York Yankees @ Baltimore Orioles
-    • Zach Eflin (Baltimore Orioles, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-
+Potential streaming options for the week starting 2026-03-16:
 
 Tuesday:
   St. Louis Cardinals @ Washington Nationals
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Washington Nationals
       - Stats vs RHP: wRC+: 98.7, K%: 21.5%
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+
+Wednesday:
+  Chicago Cubs @ Arizona Diamondbacks
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
 
 
