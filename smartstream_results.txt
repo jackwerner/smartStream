@@ -1,33 +1,43 @@
-Potential streaming options for the week starting 2026-03-17:
-
-Tuesday:
-  St. Louis Cardinals @ Washington Nationals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
-
-  New York Mets @ Miami Marlins
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 82.1, K%: 20.9%
-
-  Los Angeles Dodgers @ Kansas City Royals
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
-
+Potential streaming options for the week starting 2026-03-18:
 
 Wednesday:
+  Boston Red Sox @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 103.0, K%: 22.8%
+
   Chicago Cubs @ Arizona Diamondbacks
     • Edward Cabrera (Chicago Cubs, R)
       - Opponent: Arizona Diamondbacks
       - Stats vs RHP: wRC+: 110.3, K%: 22.1%
 
+  Cincinnati Reds @ Los Angeles Angels
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
+
+  Kansas City Royals @ Texas Rangers
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 83.3, K%: 23.6%
+
 
 Thursday:
+  Baltimore Orioles @ New York Yankees
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
+  New York Mets @ Houston Astros
+    • Kodai Senga (New York Mets, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
+
+  Los Angeles Angels @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
+
   Kansas City Royals @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Kansas City Royals
