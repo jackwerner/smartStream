@@ -1,16 +1,35 @@
-Potential streaming options for the week starting 2026-03-21:
-
-Saturday:
-  Athletics @ Los Angeles Dodgers
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
-
+Potential streaming options for the week starting 2026-03-22:
 
 Sunday:
   Tampa Bay Rays @ Toronto Blue Jays
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: Tampa Bay Rays
       - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+
+Monday:
+  Kansas City Royals @ Texas Rangers
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
+
+Tuesday:
+  New York Yankees @ Chicago Cubs
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
+
+Saturday:
+  Athletics @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+  Kansas City Royals @ Atlanta Braves
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
 
 
