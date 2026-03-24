@@ -1,23 +1,11 @@
-Potential streaming options for the week starting 2026-03-23:
-
-Monday:
-  Minnesota Twins @ Boston Red Sox
-    • Johan Oviedo (Boston Red Sox, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
-
-  Kansas City Royals @ Texas Rangers
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
-
-  Los Angeles Angels @ Los Angeles Dodgers
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
-
+Potential streaming options for the week starting 2026-03-24:
 
 Tuesday:
+  Tampa Bay Rays @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
   New York Yankees @ Chicago Cubs
     • Edward Cabrera (Chicago Cubs, R)
       - Opponent: New York Yankees
@@ -41,5 +29,12 @@ Sunday:
     • Eric Lauer (Toronto Blue Jays, L)
       - Opponent: Athletics
       - Stats vs LHP: wRC+: 0.0, K%: 0.0%
+
+
+Monday:
+  Minnesota Twins @ Kansas City Royals
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
 
 
