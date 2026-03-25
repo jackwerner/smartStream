@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-03-24:
-
-Tuesday:
-  Tampa Bay Rays @ Atlanta Braves
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  New York Yankees @ Chicago Cubs
-    • Edward Cabrera (Chicago Cubs, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-
+Potential streaming options for the week starting 2026-03-25:
 
 Saturday:
   Athletics @ Toronto Blue Jays
@@ -23,6 +11,11 @@ Saturday:
       - Opponent: Atlanta Braves
       - Stats vs RHP: wRC+: 101.4, K%: 22.2%
 
+  Arizona Diamondbacks @ Los Angeles Dodgers
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Los Angeles Dodgers
+      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
+
 
 Sunday:
   Athletics @ Toronto Blue Jays
@@ -30,11 +23,33 @@ Sunday:
       - Opponent: Athletics
       - Stats vs LHP: wRC+: 0.0, K%: 0.0%
 
+  Tampa Bay Rays @ St. Louis Cardinals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
 
 Monday:
   Minnesota Twins @ Kansas City Royals
     • Kris Bubic (Kansas City Royals, L)
       - Opponent: Minnesota Twins
       - Stats vs LHP: wRC+: 96.8, K%: 23.1%
+
+  Pittsburgh Pirates @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+
+Tuesday:
+  Texas Rangers @ Baltimore Orioles
+    • Zach Eflin (Baltimore Orioles, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
+  New York Mets @ St. Louis Cardinals
+    • Kodai Senga (New York Mets, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
 
 
