@@ -1,42 +1,4 @@
-Potential streaming options for the week starting 2026-03-30:
-
-Monday:
-  Minnesota Twins @ Kansas City Royals
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
-    • Kris Bubic (Kansas City Royals, L)
-      - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
-
-  Pittsburgh Pirates @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  Athletics @ Atlanta Braves
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
-
-  Los Angeles Angels @ Chicago Cubs
-    • Edward Cabrera (Chicago Cubs, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
-
-  New York Yankees @ Seattle Mariners
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-
-  Cleveland Guardians @ Los Angeles Dodgers
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
+Potential streaming options for the week starting 2026-03-31:
 
 Tuesday:
   Texas Rangers @ Baltimore Orioles
