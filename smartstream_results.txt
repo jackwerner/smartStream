@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-04-01:
+Potential streaming options for the week starting 2026-04-02:
 
 Thursday:
   Toronto Blue Jays @ Chicago White Sox
@@ -7,17 +7,52 @@ Thursday:
       - Stats vs RHP: wRC+: 86.9, K%: 22.7%
 
 
+Friday:
+  Toronto Blue Jays @ Chicago White Sox
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+
+  Atlanta Braves @ Arizona Diamondbacks
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Atlanta Braves
+      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
+
+
 Saturday:
   St. Louis Cardinals @ Detroit Tigers
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Detroit Tigers
       - Stats vs RHP: wRC+: 98.3, K%: 24.5%
 
+  Toronto Blue Jays @ Chicago White Sox
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
+
 
 Sunday:
+  Tampa Bay Rays @ Minnesota Twins
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+  Cincinnati Reds @ Texas Rangers
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
   New York Mets @ San Francisco Giants
     • Kodai Senga (New York Mets, R)
       - Opponent: San Francisco Giants
       - Stats vs RHP: wRC+: 104.2, K%: 22.0%
+
+  Seattle Mariners @ Los Angeles Angels
+    • Luis Castillo (Seattle Mariners, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
 
 
