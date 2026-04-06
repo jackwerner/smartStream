@@ -1,39 +1,23 @@
-Potential streaming options for the week starting 2026-04-05:
+Potential streaming options for the week starting 2026-04-06:
 
-Sunday:
-  Chicago Cubs @ Cleveland Guardians
-    • Edward Cabrera (Chicago Cubs, R)
+Monday:
+  Kansas City Royals @ Cleveland Guardians
+    • Michael Wacha (Kansas City Royals, R)
       - Opponent: Cleveland Guardians
       - Stats vs RHP: wRC+: 89.7, K%: 22.1%
 
-  Los Angeles Dodgers @ Washington Nationals
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
 
-  Tampa Bay Rays @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Toronto Blue Jays @ Chicago White Sox
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
-
-  Cincinnati Reds @ Texas Rangers
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
-
-  New York Mets @ San Francisco Giants
-    • Kodai Senga (New York Mets, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
-  Seattle Mariners @ Los Angeles Angels
-    • Luis Castillo (Seattle Mariners, R)
+Wednesday:
+  Atlanta Braves @ Los Angeles Angels
+    • Grant Holmes (Atlanta Braves, R)
       - Opponent: Los Angeles Angels
       - Stats vs RHP: wRC+: 91.7, K%: 27.1%
+
+
+Thursday:
+  Arizona Diamondbacks @ New York Mets
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: New York Mets
+      - Stats vs LHP: wRC+: 97.9, K%: 22.6%
 
 
