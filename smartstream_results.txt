@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-04-06:
-
-Monday:
-  Kansas City Royals @ Cleveland Guardians
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
+Potential streaming options for the week starting 2026-04-07:
 
 Wednesday:
   Atlanta Braves @ Los Angeles Angels
@@ -19,5 +12,17 @@ Thursday:
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: New York Mets
       - Stats vs LHP: wRC+: 97.9, K%: 22.6%
+
+
+Friday:
+  Los Angeles Angels @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
+
+  Boston Red Sox @ St. Louis Cardinals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
 
 
