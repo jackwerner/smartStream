@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-04-07:
+Potential streaming options for the week starting 2026-04-08:
 
 Wednesday:
   Atlanta Braves @ Los Angeles Angels
@@ -24,5 +24,22 @@ Friday:
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Boston Red Sox
       - Stats vs RHP: wRC+: 103.0, K%: 22.8%
+
+
+Saturday:
+  Minnesota Twins @ Toronto Blue Jays
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Minnesota Twins
+      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
+
+  Athletics @ New York Mets
+    • Kodai Senga (New York Mets, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+  Cleveland Guardians @ Atlanta Braves
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Atlanta Braves
+      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
 
 
