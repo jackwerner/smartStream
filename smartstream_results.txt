@@ -1,21 +1,4 @@
-Potential streaming options for the week starting 2026-04-10:
-
-Friday:
-  Los Angeles Angels @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
-
-  Chicago White Sox @ Kansas City Royals
-    • Kris Bubic (Kansas City Royals, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
-
-  Boston Red Sox @ St. Louis Cardinals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
-
+Potential streaming options for the week starting 2026-04-11:
 
 Saturday:
   Pittsburgh Pirates @ Chicago Cubs
@@ -53,11 +36,6 @@ Saturday:
 
 
 Sunday:
-  New York Yankees @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: New York Yankees
-      - Stats vs UnknownHP: wRC+: 118.1, K%: 23.4%
-
   Texas Rangers @ Los Angeles Dodgers
     • Roki Sasaki (Los Angeles Dodgers, R)
       - Opponent: Texas Rangers
