@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-04-15:
-
-Wednesday:
-  Arizona Diamondbacks @ Baltimore Orioles
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 86.6, K%: 24.6%
-
-  Cleveland Guardians @ St. Louis Cardinals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
-  Boston Red Sox @ Minnesota Twins
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
-
-  Washington Nationals @ Pittsburgh Pirates
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
+Potential streaming options for the week starting 2026-04-16:
 
 Thursday:
   San Francisco Giants @ Cincinnati Reds
@@ -37,5 +15,24 @@ Thursday:
     • Jacob Lopez (Athletics, L)
       - Opponent: Texas Rangers
       - Stats vs LHP: wRC+: 83.3, K%: 23.6%
+
+  Baltimore Orioles @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Baltimore Orioles
+      - Stats vs LHP: wRC+: 86.6, K%: 24.6%
+
+
+Saturday:
+  Baltimore Orioles @ Cleveland Guardians
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
+
+
+Sunday:
+  Los Angeles Dodgers @ Colorado Rockies
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
 
 
