@@ -1,15 +1,15 @@
-Potential streaming options for the week starting 2026-04-19:
+Potential streaming options for the week starting 2026-04-20:
 
-Sunday:
-  Tampa Bay Rays @ Pittsburgh Pirates
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs UnknownHP: wRC+: 84.3, K%: 23.0%
+Monday:
+  Atlanta Braves @ Washington Nationals
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
 
-  Los Angeles Dodgers @ Colorado Rockies
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+  Toronto Blue Jays @ Los Angeles Angels
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 91.7, K%: 27.1%
 
 
 Tuesday:
@@ -17,5 +17,35 @@ Tuesday:
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Tampa Bay Rays
       - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+  Baltimore Orioles @ Kansas City Royals
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Baltimore Orioles
+      - Stats vs LHP: wRC+: 86.6, K%: 24.6%
+
+  Athletics @ Seattle Mariners
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 108.0, K%: 24.8%
+    • Luis Castillo (Seattle Mariners, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Wednesday:
+  Baltimore Orioles @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
+
+  Toronto Blue Jays @ Los Angeles Angels
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 91.5, K%: 27.0%
+
+  Chicago White Sox @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
 
