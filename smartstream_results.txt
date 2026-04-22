@@ -1,24 +1,4 @@
-Potential streaming options for the week starting 2026-04-21:
-
-Tuesday:
-  Cincinnati Reds @ Tampa Bay Rays
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Baltimore Orioles @ Kansas City Royals
-    • Kris Bubic (Kansas City Royals, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 86.6, K%: 24.6%
-
-  Athletics @ Seattle Mariners
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 108.0, K%: 24.8%
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2026-04-22:
 
 Wednesday:
   Baltimore Orioles @ Kansas City Royals
@@ -35,5 +15,12 @@ Wednesday:
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: Chicago White Sox
       - Stats vs LHP: wRC+: 92.9, K%: 23.0%
+
+
+Saturday:
+  Colorado Rockies @ New York Mets
+    • Kodai Senga (New York Mets, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
 
 
