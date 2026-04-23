@@ -1,26 +1,21 @@
-Potential streaming options for the week starting 2026-04-22:
-
-Wednesday:
-  Baltimore Orioles @ Kansas City Royals
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
-
-  Toronto Blue Jays @ Los Angeles Angels
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 91.5, K%: 27.0%
-
-  Chicago White Sox @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
-
+Potential streaming options for the week starting 2026-04-23:
 
 Saturday:
   Colorado Rockies @ New York Mets
     • Kodai Senga (New York Mets, R)
       - Opponent: Colorado Rockies
       - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+
+  Minnesota Twins @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Minnesota Twins
+      - Stats vs UnknownHP: wRC+: 97.0, K%: 22.5%
+
+
+Sunday:
+  Cleveland Guardians @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
 
 
