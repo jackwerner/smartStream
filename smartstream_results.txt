@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-04-23:
+Potential streaming options for the week starting 2026-04-24:
 
 Saturday:
   Colorado Rockies @ New York Mets
@@ -11,11 +11,21 @@ Saturday:
       - Opponent: Minnesota Twins
       - Stats vs UnknownHP: wRC+: 97.0, K%: 22.5%
 
+  Washington Nationals @ Chicago White Sox
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+
 
 Sunday:
   Cleveland Guardians @ Toronto Blue Jays
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: Cleveland Guardians
       - Stats vs RHP: wRC+: 89.7, K%: 22.1%
+
+  Minnesota Twins @ Tampa Bay Rays
+    • Simeon Woods Richardson (Minnesota Twins, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
 
 
