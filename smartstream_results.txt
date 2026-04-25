@@ -1,11 +1,6 @@
-Potential streaming options for the week starting 2026-04-24:
+Potential streaming options for the week starting 2026-04-25:
 
 Saturday:
-  Colorado Rockies @ New York Mets
-    • Kodai Senga (New York Mets, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
   Minnesota Twins @ Tampa Bay Rays
     • Shane McClanahan (Tampa Bay Rays, Unknown)
       - Opponent: Minnesota Twins
@@ -15,6 +10,11 @@ Saturday:
     • Jake Irvin (Washington Nationals, R)
       - Opponent: Chicago White Sox
       - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+
+  Colorado Rockies @ New York Mets
+    • Kodai Senga (New York Mets, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
 
 
 Sunday:
@@ -27,5 +27,24 @@ Sunday:
     • Simeon Woods Richardson (Minnesota Twins, R)
       - Opponent: Tampa Bay Rays
       - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+
+Monday:
+  Tampa Bay Rays @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Tampa Bay Rays
+      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
+
+  St. Louis Cardinals @ Pittsburgh Pirates
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+
+Tuesday:
+  Colorado Rockies @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
 
 
