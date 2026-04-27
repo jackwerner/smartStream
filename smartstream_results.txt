@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-04-26:
-
-Sunday:
-  Colorado Rockies @ New York Mets
-    • Kodai Senga (New York Mets, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
-  Minnesota Twins @ Tampa Bay Rays
-    • Simeon Woods Richardson (Minnesota Twins, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
+Potential streaming options for the week starting 2026-04-27:
 
 Monday:
   Tampa Bay Rays @ Cleveland Guardians
@@ -39,5 +27,17 @@ Tuesday:
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Colorado Rockies
       - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+
+  Kansas City Royals @ Athletics
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Athletics
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
+
+
+Wednesday:
+  Kansas City Royals @ Athletics
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
 
 
