@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-04-27:
-
-Monday:
-  Tampa Bay Rays @ Cleveland Guardians
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
-
-  St. Louis Cardinals @ Pittsburgh Pirates
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  Boston Red Sox @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
-
-  Seattle Mariners @ Minnesota Twins
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
-
+Potential streaming options for the week starting 2026-04-28:
 
 Tuesday:
   Colorado Rockies @ Cincinnati Reds
