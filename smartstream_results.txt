@@ -1,21 +1,21 @@
-Potential streaming options for the week starting 2026-04-28:
-
-Tuesday:
-  Colorado Rockies @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
-  Kansas City Royals @ Athletics
-    • Kris Bubic (Kansas City Royals, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2026-04-29:
 
 Wednesday:
+  Boston Red Sox @ Toronto Blue Jays
+    • Eric Lauer (Toronto Blue Jays, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 102.7, K%: 23.1%
+
   Kansas City Royals @ Athletics
     • Michael Wacha (Kansas City Royals, R)
       - Opponent: Athletics
       - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Friday:
+  San Francisco Giants @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: San Francisco Giants
+      - Stats vs UnknownHP: wRC+: 104.2, K%: 22.0%
 
 
