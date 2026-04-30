@@ -1,21 +1,43 @@
-Potential streaming options for the week starting 2026-04-29:
-
-Wednesday:
-  Boston Red Sox @ Toronto Blue Jays
-    • Eric Lauer (Toronto Blue Jays, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 102.7, K%: 23.1%
-
-  Kansas City Royals @ Athletics
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2026-04-30:
 
 Friday:
   San Francisco Giants @ Tampa Bay Rays
     • Shane McClanahan (Tampa Bay Rays, Unknown)
       - Opponent: San Francisco Giants
       - Stats vs UnknownHP: wRC+: 104.2, K%: 22.0%
+
+
+Saturday:
+  Toronto Blue Jays @ Minnesota Twins
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
+
+  Cleveland Guardians @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 80.9, K%: 23.9%
+
+  Los Angeles Dodgers @ St. Louis Cardinals
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+
+Sunday:
+  Cincinnati Reds @ Pittsburgh Pirates
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+  Cleveland Guardians @ Athletics
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Athletics
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
+
+  Kansas City Royals @ Seattle Mariners
+    • Luis Castillo (Seattle Mariners, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
 
 
