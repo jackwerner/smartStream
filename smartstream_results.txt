@@ -1,23 +1,29 @@
-Potential streaming options for the week starting 2026-05-03:
+Potential streaming options for the week starting 2026-05-04:
 
-Sunday:
-  Cincinnati Reds @ Pittsburgh Pirates
-    • Chase Burns (Cincinnati Reds, R)
+Monday:
+  Cincinnati Reds @ Chicago Cubs
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 96.6, K%: 23.4%
+
+  Cleveland Guardians @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
+
+
+Tuesday:
+  Pittsburgh Pirates @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+      - Stats vs LHP: wRC+: 76.1, K%: 25.8%
 
-  Cleveland Guardians @ Athletics
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Athletics
-      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
 
-  Kansas City Royals @ Seattle Mariners
-    • Kris Bubic (Kansas City Royals, L)
+Wednesday:
+  Atlanta Braves @ Seattle Mariners
+    • Grant Holmes (Atlanta Braves, R)
       - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 108.0, K%: 24.8%
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
 
 
 Thursday:
@@ -25,5 +31,8 @@ Thursday:
     • Simeon Woods Richardson (Minnesota Twins, R)
       - Opponent: Washington Nationals
       - Stats vs RHP: wRC+: 98.7, K%: 21.5%
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
 
 
