@@ -1,15 +1,10 @@
-Potential streaming options for the week starting 2026-05-10:
+Potential streaming options for the week starting 2026-05-11:
 
-Sunday:
-  New York Yankees @ Milwaukee Brewers
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-
-  New York Mets @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: New York Mets
-      - Stats vs LHP: wRC+: 97.9, K%: 22.6%
+Monday:
+  San Francisco Giants @ Los Angeles Dodgers
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: San Francisco Giants
+      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
 
 
 Wednesday:
@@ -18,11 +13,36 @@ Wednesday:
       - Opponent: Los Angeles Angels
       - Stats vs LHP: wRC+: 91.5, K%: 27.0%
 
+  Washington Nationals @ Cincinnati Reds
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Cincinnati Reds
+      - Stats vs RHP: wRC+: 96.6, K%: 23.4%
+
+  Tampa Bay Rays @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
 
 Thursday:
+  Washington Nationals @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
+
   Seattle Mariners @ Houston Astros
     • Luis Castillo (Seattle Mariners, R)
       - Opponent: Houston Astros
       - Stats vs RHP: wRC+: 97.7, K%: 21.2%
+
+  St. Louis Cardinals @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: St. Louis Cardinals
+      - Stats vs LHP: wRC+: 96.5, K%: 22.2%
+
+  Kansas City Royals @ Chicago White Sox
+    • Kris Bubic (Kansas City Royals, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
 
