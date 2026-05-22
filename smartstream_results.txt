@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-05-21:
-
-Thursday:
-  Pittsburgh Pirates @ St. Louis Cardinals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  Colorado Rockies @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 75.2, K%: 24.5%
-
+Potential streaming options for the week starting 2026-05-22:
 
 Friday:
   Tampa Bay Rays @ New York Yankees
@@ -18,8 +6,25 @@ Friday:
       - Opponent: Tampa Bay Rays
       - Stats vs UnknownHP: wRC+: 104.0, K%: 22.5%
 
+  Texas Rangers @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Texas Rangers
+      - Stats vs UnknownHP: wRC+: 95.2, K%: 21.3%
+
+
+Saturday:
+  Washington Nationals @ Atlanta Braves
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+
 
 Sunday:
+  Pittsburgh Pirates @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
   Cleveland Guardians @ Philadelphia Phillies
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Philadelphia Phillies
