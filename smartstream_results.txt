@@ -1,22 +1,13 @@
-Potential streaming options for the week starting 2026-05-22:
-
-Friday:
-  Tampa Bay Rays @ New York Yankees
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 104.0, K%: 22.5%
-
-  Texas Rangers @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Texas Rangers
-      - Stats vs UnknownHP: wRC+: 95.2, K%: 21.3%
-
+Potential streaming options for the week starting 2026-05-23:
 
 Saturday:
   Washington Nationals @ Atlanta Braves
     • Jake Irvin (Washington Nationals, R)
       - Opponent: Atlanta Braves
       - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
 
 
 Sunday:
