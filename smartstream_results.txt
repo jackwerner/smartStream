@@ -1,21 +1,45 @@
-Potential streaming options for the week starting 2026-05-24:
-
-Sunday:
-  Pittsburgh Pirates @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  Cleveland Guardians @ Philadelphia Phillies
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 106.5, K%: 23.8%
-
+Potential streaming options for the week starting 2026-05-25:
 
 Monday:
   Tampa Bay Rays @ Baltimore Orioles
     • Shane McClanahan (Tampa Bay Rays, Unknown)
       - Opponent: Baltimore Orioles
       - Stats vs UnknownHP: wRC+: 99.7, K%: 24.0%
+
+  New York Yankees @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
+  Seattle Mariners @ Athletics
+    • Luis Castillo (Seattle Mariners, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
+
+
+Tuesday:
+  Arizona Diamondbacks @ San Francisco Giants
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Francisco Giants
+      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
+
+  Colorado Rockies @ Los Angeles Dodgers
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Colorado Rockies
+      - Stats vs LHP: wRC+: 75.2, K%: 24.5%
+
+
+Wednesday:
+  New York Yankees @ Kansas City Royals
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Kansas City Royals
+      - Stats vs UnknownHP: wRC+: 96.9, K%: 17.4%
+
+
+Thursday:
+  Los Angeles Angels @ Detroit Tigers
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Detroit Tigers
+      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
 
 
