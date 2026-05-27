@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-05-26:
-
-Tuesday:
-  Arizona Diamondbacks @ San Francisco Giants
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
-
-  Colorado Rockies @ Los Angeles Dodgers
-    • Eric Lauer (Los Angeles Dodgers, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 75.2, K%: 24.5%
-
+Potential streaming options for the week starting 2026-05-27:
 
 Wednesday:
   New York Yankees @ Kansas City Royals
@@ -24,5 +12,12 @@ Thursday:
     • Grayson Rodriguez (Los Angeles Angels, Unknown)
       - Opponent: Detroit Tigers
       - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
+
+
+Saturday:
+  Boston Red Sox @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 102.7, K%: 23.1%
 
 
