@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-05-27:
-
-Wednesday:
-  New York Yankees @ Kansas City Royals
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Kansas City Royals
-      - Stats vs UnknownHP: wRC+: 96.9, K%: 17.4%
-
+Potential streaming options for the week starting 2026-05-28:
 
 Thursday:
   Los Angeles Angels @ Detroit Tigers
@@ -19,5 +12,17 @@ Saturday:
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Boston Red Sox
       - Stats vs LHP: wRC+: 102.7, K%: 23.1%
+
+
+Sunday:
+  Los Angeles Angels @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Los Angeles Angels
+      - Stats vs UnknownHP: wRC+: 91.7, K%: 27.1%
+
+  Kansas City Royals @ Texas Rangers
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
 
 
