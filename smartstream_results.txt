@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-05-30:
-
-Saturday:
-  Boston Red Sox @ Cleveland Guardians
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 102.7, K%: 23.1%
-
+Potential streaming options for the week starting 2026-05-31:
 
 Sunday:
   Los Angeles Angels @ Tampa Bay Rays
@@ -18,11 +11,23 @@ Sunday:
       - Opponent: Texas Rangers
       - Stats vs RHP: wRC+: 95.2, K%: 21.3%
 
+  New York Yankees @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: New York Yankees
+      - Stats vs LHP: wRC+: 120.6, K%: 23.6%
+
 
 Monday:
   Kansas City Royals @ Cincinnati Reds
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Kansas City Royals
       - Stats vs RHP: wRC+: 96.9, K%: 17.4%
+
+
+Tuesday:
+  Texas Rangers @ St. Louis Cardinals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
 
 
