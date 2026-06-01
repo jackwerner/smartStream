@@ -1,21 +1,4 @@
-Potential streaming options for the week starting 2026-05-31:
-
-Sunday:
-  Los Angeles Angels @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Los Angeles Angels
-      - Stats vs UnknownHP: wRC+: 91.7, K%: 27.1%
-
-  Kansas City Royals @ Texas Rangers
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
-
-  New York Yankees @ Athletics
-    • Jacob Lopez (Athletics, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 120.6, K%: 23.6%
-
+Potential streaming options for the week starting 2026-06-01:
 
 Monday:
   Kansas City Royals @ Cincinnati Reds
@@ -23,11 +6,35 @@ Monday:
       - Opponent: Kansas City Royals
       - Stats vs RHP: wRC+: 96.9, K%: 17.4%
 
+  Los Angeles Dodgers @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Los Angeles Dodgers
+      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
+
 
 Tuesday:
   Texas Rangers @ St. Louis Cardinals
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Texas Rangers
       - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
+  Colorado Rockies @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Colorado Rockies
+      - Stats vs UnknownHP: wRC+: 74.3, K%: 26.4%
+
+
+Wednesday:
+  Cleveland Guardians @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Cleveland Guardians
+      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+
+
+Thursday:
+  Pittsburgh Pirates @ Houston Astros
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
 
 
