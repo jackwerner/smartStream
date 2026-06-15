@@ -1,16 +1,43 @@
-Potential streaming options for the week starting 2026-06-14:
+Potential streaming options for the week starting 2026-06-15:
 
-Sunday:
-  Tampa Bay Rays @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+Monday:
+  Pittsburgh Pirates @ Athletics
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: Athletics
+      - Stats vs UnknownHP: wRC+: 0.0, K%: 0.0%
+
+  Tampa Bay Rays @ Los Angeles Dodgers
+    • Eric Lauer (Los Angeles Dodgers, L)
       - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 104.0, K%: 22.5%
+      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
 
 
 Tuesday:
+  Kansas City Royals @ Washington Nationals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
+
+  Chicago White Sox @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Chicago White Sox
+      - Stats vs UnknownHP: wRC+: 86.9, K%: 22.7%
+
   San Francisco Giants @ Atlanta Braves
     • Grant Holmes (Atlanta Braves, R)
       - Opponent: San Francisco Giants
       - Stats vs RHP: wRC+: 104.2, K%: 22.0%
+
+  Colorado Rockies @ Chicago Cubs
+    • Edward Cabrera (Chicago Cubs, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+
+
+Wednesday:
+  Los Angeles Angels @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 91.5, K%: 27.0%
 
 
