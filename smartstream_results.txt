@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-06-17:
-
-Wednesday:
-  San Francisco Giants @ Atlanta Braves
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
-  Los Angeles Angels @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Los Angeles Angels
-      - Stats vs LHP: wRC+: 91.5, K%: 27.0%
-
+Potential streaming options for the week starting 2026-06-18:
 
 Thursday:
   New York Mets @ Philadelphia Phillies
@@ -19,10 +7,27 @@ Thursday:
       - Stats vs LHP: wRC+: 106.5, K%: 23.8%
 
 
+Friday:
+  Baltimore Orioles @ Los Angeles Dodgers
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
+
+
 Sunday:
   Cincinnati Reds @ New York Yankees
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: New York Yankees
       - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
+  St. Louis Cardinals @ Kansas City Royals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
+
+  Pittsburgh Pirates @ Colorado Rockies
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: Colorado Rockies
+      - Stats vs UnknownHP: wRC+: 74.3, K%: 26.4%
 
 
