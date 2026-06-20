@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-06-19:
-
-Friday:
-  Baltimore Orioles @ Los Angeles Dodgers
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
-
+Potential streaming options for the week starting 2026-06-20:
 
 Sunday:
   Cincinnati Reds @ New York Yankees
@@ -25,5 +18,12 @@ Sunday:
     • Jared Jones (Pittsburgh Pirates, Unknown)
       - Opponent: Colorado Rockies
       - Stats vs UnknownHP: wRC+: 74.3, K%: 26.4%
+
+
+Tuesday:
+  Cleveland Guardians @ Chicago White Sox
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
 
