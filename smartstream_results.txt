@@ -1,13 +1,10 @@
-Potential streaming options for the week starting 2026-06-20:
+Potential streaming options for the week starting 2026-06-21:
 
 Sunday:
   Cincinnati Reds @ New York Yankees
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: New York Yankees
       - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Cincinnati Reds
-      - Stats vs UnknownHP: wRC+: 96.6, K%: 23.4%
 
   St. Louis Cardinals @ Kansas City Royals
     • Dustin May (St. Louis Cardinals, R)
@@ -18,6 +15,13 @@ Sunday:
     • Jared Jones (Pittsburgh Pirates, Unknown)
       - Opponent: Colorado Rockies
       - Stats vs UnknownHP: wRC+: 74.3, K%: 26.4%
+
+
+Monday:
+  New York Yankees @ Detroit Tigers
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Detroit Tigers
+      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
 
 
 Tuesday:
