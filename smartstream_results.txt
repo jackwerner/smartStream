@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-06-22:
-
-Monday:
-  New York Yankees @ Detroit Tigers
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
-
-  Kansas City Royals @ Tampa Bay Rays
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Houston Astros @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
-
-  Los Angeles Dodgers @ Minnesota Twins
-    • Eric Lauer (Los Angeles Dodgers, L)
-      - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
-
+Potential streaming options for the week starting 2026-06-23:
 
 Tuesday:
   Kansas City Royals @ Tampa Bay Rays
