@@ -1,19 +1,16 @@
-Potential streaming options for the week starting 2026-06-23:
+Potential streaming options for the week starting 2026-06-24:
 
-Tuesday:
-  Kansas City Royals @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Kansas City Royals
-      - Stats vs UnknownHP: wRC+: 96.9, K%: 17.4%
+Wednesday:
+  Atlanta Braves @ San Diego Padres
+    • JP Sears (San Diego Padres, L)
+      - Opponent: Atlanta Braves
+      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
 
-  Cleveland Guardians @ Chicago White Sox
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
-  Arizona Diamondbacks @ St. Louis Cardinals
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: St. Louis Cardinals
-      - Stats vs LHP: wRC+: 96.5, K%: 22.2%
+Saturday:
+  Cincinnati Reds @ Pittsburgh Pirates
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
 
 
