@@ -1,13 +1,16 @@
-Potential streaming options for the week starting 2026-06-24:
-
-Wednesday:
-  Atlanta Braves @ San Diego Padres
-    • JP Sears (San Diego Padres, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
-
+Potential streaming options for the week starting 2026-06-25:
 
 Saturday:
+  New York Yankees @ Boston Red Sox
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 103.0, K%: 22.8%
+
+  Texas Rangers @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
   Cincinnati Reds @ Pittsburgh Pirates
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Pittsburgh Pirates
