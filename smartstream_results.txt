@@ -1,9 +1,33 @@
-Potential streaming options for the week starting 2026-06-28:
+Potential streaming options for the week starting 2026-06-29:
 
 Monday:
   Texas Rangers @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Texas Rangers
       - Stats vs LHP: wRC+: 83.3, K%: 23.6%
+
+  Los Angeles Dodgers @ Athletics
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Athletics
+      - Stats vs LHP: wRC+: 0.0, K%: 0.0%
+
+  San Francisco Giants @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Francisco Giants
+      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
+
+
+Wednesday:
+  Tampa Bay Rays @ Kansas City Royals
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Kansas City Royals
+      - Stats vs UnknownHP: wRC+: 96.9, K%: 17.4%
+
+
+Thursday:
+  St. Louis Cardinals @ Atlanta Braves
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
 
 
