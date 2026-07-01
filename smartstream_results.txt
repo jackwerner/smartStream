@@ -1,6 +1,11 @@
-Potential streaming options for the week starting 2026-06-30:
+Potential streaming options for the week starting 2026-07-01:
 
 Wednesday:
+  Chicago White Sox @ Baltimore Orioles
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+
   Tampa Bay Rays @ Kansas City Royals
     • Shane McClanahan (Tampa Bay Rays, Unknown)
       - Opponent: Kansas City Royals
@@ -12,5 +17,19 @@ Thursday:
     • Dustin May (St. Louis Cardinals, R)
       - Opponent: Atlanta Braves
       - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+
+
+Friday:
+  Minnesota Twins @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Minnesota Twins
+      - Stats vs UnknownHP: wRC+: 97.0, K%: 22.5%
+
+
+Saturday:
+  Chicago White Sox @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
 
