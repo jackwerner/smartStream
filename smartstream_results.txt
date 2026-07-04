@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-07-03:
-
-Friday:
-  Minnesota Twins @ New York Yankees
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Minnesota Twins
-      - Stats vs UnknownHP: wRC+: 97.0, K%: 22.5%
-
-  Toronto Blue Jays @ Seattle Mariners
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
-
+Potential streaming options for the week starting 2026-07-04:
 
 Saturday:
   Chicago White Sox @ Cleveland Guardians
