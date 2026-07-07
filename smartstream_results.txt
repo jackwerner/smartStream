@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-07-06:
-
-Monday:
-  Colorado Rockies @ Los Angeles Dodgers
-    • Eric Lauer (Los Angeles Dodgers, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 75.2, K%: 24.5%
-
+Potential streaming options for the week starting 2026-07-07:
 
 Wednesday:
   Toronto Blue Jays @ San Francisco Giants
@@ -14,6 +7,9 @@ Wednesday:
       - Stats vs RHP: wRC+: 104.2, K%: 22.0%
 
   Atlanta Braves @ Pittsburgh Pirates
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
     • Jared Jones (Pittsburgh Pirates, Unknown)
       - Opponent: Atlanta Braves
       - Stats vs UnknownHP: wRC+: 101.4, K%: 22.2%
