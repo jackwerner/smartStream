@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-07-07:
+Potential streaming options for the week starting 2026-07-08:
 
 Wednesday:
   Toronto Blue Jays @ San Francisco Giants
@@ -33,5 +33,12 @@ Thursday:
     • Sean Manaea (New York Mets, L)
       - Opponent: Kansas City Royals
       - Stats vs LHP: wRC+: 80.2, K%: 20.9%
+
+
+Sunday:
+  Atlanta Braves @ St. Louis Cardinals
+    • Dustin May (St. Louis Cardinals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
 
 
