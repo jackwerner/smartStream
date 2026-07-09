@@ -1,38 +1,22 @@
-Potential streaming options for the week starting 2026-07-08:
-
-Wednesday:
-  Toronto Blue Jays @ San Francisco Giants
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
-  Atlanta Braves @ Pittsburgh Pirates
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-    • Jared Jones (Pittsburgh Pirates, Unknown)
-      - Opponent: Atlanta Braves
-      - Stats vs UnknownHP: wRC+: 101.4, K%: 22.2%
-
-  New York Yankees @ Tampa Bay Rays
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 104.0, K%: 22.5%
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: New York Yankees
-      - Stats vs UnknownHP: wRC+: 118.1, K%: 23.4%
-
-  Colorado Rockies @ Los Angeles Dodgers
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
+Potential streaming options for the week starting 2026-07-09:
 
 Thursday:
   Kansas City Royals @ New York Mets
     • Sean Manaea (New York Mets, L)
       - Opponent: Kansas City Royals
       - Stats vs LHP: wRC+: 80.2, K%: 20.9%
+
+  Milwaukee Brewers @ St. Louis Cardinals
+    • Logan Henderson (Milwaukee Brewers, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+
+Friday:
+  Cleveland Guardians @ Miami Marlins
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Miami Marlins
+      - Stats vs LHP: wRC+: 82.1, K%: 20.9%
 
 
 Sunday:
