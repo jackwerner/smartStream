@@ -1,31 +1,4 @@
-Potential streaming options for the week starting 2026-07-10:
-
-Friday:
-  Seattle Mariners @ Tampa Bay Rays
-    • Luis Castillo (Seattle Mariners, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  Cleveland Guardians @ Miami Marlins
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 82.1, K%: 20.9%
-
-  Athletics @ Chicago White Sox
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
-
-  Los Angeles Angels @ Minnesota Twins
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Minnesota Twins
-      - Stats vs UnknownHP: wRC+: 97.0, K%: 22.5%
-
-  Arizona Diamondbacks @ Los Angeles Dodgers
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
-
+Potential streaming options for the week starting 2026-07-11:
 
 Sunday:
   Atlanta Braves @ St. Louis Cardinals
