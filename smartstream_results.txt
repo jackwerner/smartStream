@@ -1,16 +1,23 @@
-Potential streaming options for the week starting 2026-07-14:
-
-Tuesday:
-  American League All-Stars @ National League All-Stars
-    • Dylan Cease (American League All-Stars, R)
-      - Opponent: National League All-Stars
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2026-07-15:
 
 Saturday:
   New York Mets @ Philadelphia Phillies
     • Sean Manaea (New York Mets, L)
       - Opponent: Philadelphia Phillies
       - Stats vs LHP: wRC+: 106.5, K%: 23.8%
+
+
+Monday:
+  Tampa Bay Rays @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Tampa Bay Rays
+      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
+
+
+Tuesday:
+  Cincinnati Reds @ Seattle Mariners
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
 
 
