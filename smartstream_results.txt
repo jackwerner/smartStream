@@ -1,10 +1,24 @@
-Potential streaming options for the week starting 2026-07-15:
+Potential streaming options for the week starting 2026-07-16:
+
+Friday:
+  Pittsburgh Pirates @ Cleveland Guardians
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: Cleveland Guardians
+      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+
 
 Saturday:
   New York Mets @ Philadelphia Phillies
     • Sean Manaea (New York Mets, L)
       - Opponent: Philadelphia Phillies
       - Stats vs LHP: wRC+: 106.5, K%: 23.8%
+
+
+Sunday:
+  Texas Rangers @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
 
 
 Monday:
