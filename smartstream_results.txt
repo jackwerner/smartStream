@@ -1,10 +1,20 @@
-Potential streaming options for the week starting 2026-07-16:
+Potential streaming options for the week starting 2026-07-17:
 
 Friday:
+  Los Angeles Dodgers @ New York Yankees
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
   Pittsburgh Pirates @ Cleveland Guardians
     • Jared Jones (Pittsburgh Pirates, Unknown)
       - Opponent: Cleveland Guardians
       - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+
+  Baltimore Orioles @ Houston Astros
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
 
 
 Saturday:
@@ -13,12 +23,32 @@ Saturday:
       - Opponent: Philadelphia Phillies
       - Stats vs LHP: wRC+: 106.5, K%: 23.8%
 
+  Detroit Tigers @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Detroit Tigers
+      - Stats vs UnknownHP: wRC+: 98.3, K%: 24.5%
+
 
 Sunday:
+  Tampa Bay Rays @ Boston Red Sox
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 103.0, K%: 22.8%
+
   Texas Rangers @ Atlanta Braves
     • Grant Holmes (Atlanta Braves, R)
       - Opponent: Texas Rangers
       - Stats vs RHP: wRC+: 95.2, K%: 21.3%
+
+  Washington Nationals @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Washington Nationals
+      - Stats vs LHP: wRC+: 78.1, K%: 25.3%
+
+  St. Louis Cardinals @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: St. Louis Cardinals
+      - Stats vs LHP: wRC+: 96.5, K%: 22.2%
 
 
 Monday:
