@@ -1,32 +1,10 @@
-Potential streaming options for the week starting 2026-07-20:
-
-Monday:
-  Tampa Bay Rays @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Tampa Bay Rays
-      - Stats vs RHP: wRC+: 104.0, K%: 22.5%
-
-  San Diego Padres @ Atlanta Braves
-    • JP Sears (San Diego Padres, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
-
-  San Francisco Giants @ Kansas City Royals
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
+Potential streaming options for the week starting 2026-07-21:
 
 Tuesday:
   Minnesota Twins @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Minnesota Twins
       - Stats vs LHP: wRC+: 96.8, K%: 23.1%
-
-  Los Angeles Dodgers @ Philadelphia Phillies
-    • Eric Lauer (Los Angeles Dodgers, L)
-      - Opponent: Philadelphia Phillies
-      - Stats vs LHP: wRC+: 106.5, K%: 23.8%
 
   Cincinnati Reds @ Seattle Mariners
     • Chase Burns (Cincinnati Reds, R)
@@ -42,6 +20,11 @@ Wednesday:
     • Gerrit Cole (New York Yankees, Unknown)
       - Opponent: Pittsburgh Pirates
       - Stats vs UnknownHP: wRC+: 84.3, K%: 23.0%
+
+  Los Angeles Dodgers @ Philadelphia Phillies
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Philadelphia Phillies
+      - Stats vs LHP: wRC+: 106.5, K%: 23.8%
 
   Baltimore Orioles @ Boston Red Sox
     • Dean Kremer (Baltimore Orioles, R)
