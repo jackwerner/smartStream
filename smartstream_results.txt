@@ -1,10 +1,25 @@
-Potential streaming options for the week starting 2026-07-23:
+Potential streaming options for the week starting 2026-07-24:
 
 Friday:
+  Arizona Diamondbacks @ Washington Nationals
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Washington Nationals
+      - Stats vs LHP: wRC+: 78.1, K%: 25.3%
+
+  Atlanta Braves @ Baltimore Orioles
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
+
   Los Angeles Dodgers @ New York Mets
     • Sean Manaea (New York Mets, L)
       - Opponent: Los Angeles Dodgers
       - Stats vs LHP: wRC+: 111.5, K%: 22.1%
+
+  Cleveland Guardians @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Cleveland Guardians
+      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
 
   Athletics @ Minnesota Twins
     • Jacob Lopez (Athletics, L)
@@ -23,6 +38,16 @@ Friday:
 
 
 Saturday:
+  Kansas City Royals @ Detroit Tigers
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
+
+  Toronto Blue Jays @ Boston Red Sox
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
+
   San Diego Padres @ Miami Marlins
     • JP Sears (San Diego Padres, L)
       - Opponent: Miami Marlins
