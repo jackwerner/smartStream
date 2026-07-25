@@ -1,41 +1,4 @@
-Potential streaming options for the week starting 2026-07-24:
-
-Friday:
-  Arizona Diamondbacks @ Washington Nationals
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 78.1, K%: 25.3%
-
-  Atlanta Braves @ Baltimore Orioles
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
-
-  Los Angeles Dodgers @ New York Mets
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
-
-  Cleveland Guardians @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Cleveland Guardians
-      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
-
-  Athletics @ Minnesota Twins
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 96.8, K%: 23.1%
-
-  Cincinnati Reds @ St. Louis Cardinals
-    • Dustin May (St. Louis Cardinals, R)
-      - Opponent: Cincinnati Reds
-      - Stats vs RHP: wRC+: 96.6, K%: 23.4%
-
-  Los Angeles Angels @ San Francisco Giants
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: San Francisco Giants
-      - Stats vs UnknownHP: wRC+: 104.2, K%: 22.0%
-
+Potential streaming options for the week starting 2026-07-25:
 
 Saturday:
   Kansas City Royals @ Detroit Tigers
@@ -64,5 +27,12 @@ Sunday:
     • Ronel Blanco (Houston Astros, R)
       - Opponent: Chicago White Sox
       - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+
+
+Monday:
+  Cleveland Guardians @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
 
 
