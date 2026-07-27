@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-07-26:
-
-Sunday:
-  Cleveland Guardians @ Tampa Bay Rays
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
-
-  Houston Astros @ Chicago White Sox
-    • Ronel Blanco (Houston Astros, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
-
+Potential streaming options for the week starting 2026-07-27:
 
 Monday:
   Cleveland Guardians @ Cincinnati Reds
@@ -20,6 +8,16 @@ Monday:
 
 
 Tuesday:
+  Baltimore Orioles @ Detroit Tigers
+    • Dean Kremer (Baltimore Orioles, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
+
+  New York Yankees @ Chicago White Sox
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Chicago White Sox
+      - Stats vs UnknownHP: wRC+: 86.9, K%: 22.7%
+
   Milwaukee Brewers @ San Francisco Giants
     • Logan Henderson (Milwaukee Brewers, R)
       - Opponent: San Francisco Giants
@@ -28,6 +26,9 @@ Tuesday:
 
 Wednesday:
   Arizona Diamondbacks @ Pittsburgh Pirates
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs LHP: wRC+: 76.1, K%: 25.8%
     • Jared Jones (Pittsburgh Pirates, Unknown)
       - Opponent: Arizona Diamondbacks
       - Stats vs UnknownHP: wRC+: 110.3, K%: 22.1%
@@ -36,5 +37,15 @@ Wednesday:
     • Sean Manaea (New York Mets, L)
       - Opponent: Atlanta Braves
       - Stats vs LHP: wRC+: 99.1, K%: 21.9%
+
+  Houston Astros @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
+
+  Boston Red Sox @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 102.7, K%: 23.1%
 
 
