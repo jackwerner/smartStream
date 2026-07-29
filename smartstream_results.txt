@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-07-28:
-
-Tuesday:
-  Cleveland Guardians @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 89.7, K%: 22.1%
-
-  Baltimore Orioles @ Detroit Tigers
-    • Dean Kremer (Baltimore Orioles, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
-
-  New York Yankees @ Chicago White Sox
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Chicago White Sox
-      - Stats vs UnknownHP: wRC+: 86.9, K%: 22.7%
-
-  Milwaukee Brewers @ San Francisco Giants
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: San Francisco Giants
-      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
-
+Potential streaming options for the week starting 2026-07-29:
 
 Wednesday:
   Arizona Diamondbacks @ Pittsburgh Pirates
@@ -45,5 +23,22 @@ Wednesday:
     • Jacob Lopez (Athletics, L)
       - Opponent: Boston Red Sox
       - Stats vs LHP: wRC+: 102.7, K%: 23.1%
+
+  Seattle Mariners @ Los Angeles Dodgers
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 108.0, K%: 24.8%
+
+
+Thursday:
+  Texas Rangers @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Texas Rangers
+      - Stats vs UnknownHP: wRC+: 95.2, K%: 21.3%
+
+  Seattle Mariners @ Los Angeles Dodgers
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
 
 
