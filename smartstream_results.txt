@@ -1,35 +1,15 @@
-Potential streaming options for the week starting 2026-07-30:
-
-Thursday:
-  Texas Rangers @ Tampa Bay Rays
-    • Shane McClanahan (Tampa Bay Rays, Unknown)
-      - Opponent: Texas Rangers
-      - Stats vs UnknownHP: wRC+: 95.2, K%: 21.3%
-
-  Washington Nationals @ Atlanta Braves
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Washington Nationals
-      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
-
-  San Francisco Giants @ San Diego Padres
-    • JP Sears (San Diego Padres, L)
-      - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
-
-  Seattle Mariners @ Los Angeles Dodgers
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
-
+Potential streaming options for the week starting 2026-07-31:
 
 Friday:
   St. Louis Cardinals @ Toronto Blue Jays
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: St. Louis Cardinals
       - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+  Kansas City Royals @ Colorado Rockies
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
 
 
 Saturday:
