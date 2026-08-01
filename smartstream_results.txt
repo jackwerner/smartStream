@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-07-31:
-
-Friday:
-  St. Louis Cardinals @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
-
-  Kansas City Royals @ Colorado Rockies
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
+Potential streaming options for the week starting 2026-08-01:
 
 Saturday:
   Texas Rangers @ Houston Astros
@@ -24,5 +12,12 @@ Sunday:
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Pittsburgh Pirates
       - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+
+Tuesday:
+  New York Mets @ Cleveland Guardians
+    • Sean Manaea (New York Mets, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 80.9, K%: 23.9%
 
 
