@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-08-01:
-
-Saturday:
-  Texas Rangers @ Houston Astros
-    • Ronel Blanco (Houston Astros, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.2, K%: 21.3%
-
+Potential streaming options for the week starting 2026-08-02:
 
 Sunday:
   Pittsburgh Pirates @ Cincinnati Reds
@@ -19,5 +12,10 @@ Tuesday:
     • Sean Manaea (New York Mets, L)
       - Opponent: Cleveland Guardians
       - Stats vs LHP: wRC+: 80.9, K%: 23.9%
+
+  Pittsburgh Pirates @ Milwaukee Brewers
+    • Logan Henderson (Milwaukee Brewers, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
 
 
