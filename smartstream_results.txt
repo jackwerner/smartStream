@@ -1,11 +1,4 @@
-Potential streaming options for the week starting 2026-08-02:
-
-Sunday:
-  Pittsburgh Pirates @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
+Potential streaming options for the week starting 2026-08-03:
 
 Tuesday:
   New York Mets @ Cleveland Guardians
@@ -17,5 +10,34 @@ Tuesday:
     • Logan Henderson (Milwaukee Brewers, R)
       - Opponent: Pittsburgh Pirates
       - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
+  San Diego Padres @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: San Diego Padres
+      - Stats vs LHP: wRC+: 96.0, K%: 18.5%
+
+
+Wednesday:
+  Toronto Blue Jays @ Houston Astros
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
+
+  Minnesota Twins @ Kansas City Royals
+    • Dean Kremer (Minnesota Twins, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
+
+
+Thursday:
+  Chicago White Sox @ Boston Red Sox
+    • Luis Castillo (Chicago White Sox, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
+
+  Minnesota Twins @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.0, K%: 22.5%
 
 
