@@ -1,32 +1,10 @@
-Potential streaming options for the week starting 2026-08-04:
-
-Tuesday:
-  Los Angeles Angels @ Baltimore Orioles
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Baltimore Orioles
-      - Stats vs UnknownHP: wRC+: 99.7, K%: 24.0%
-
-  New York Mets @ Cleveland Guardians
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Cleveland Guardians
-      - Stats vs LHP: wRC+: 80.9, K%: 23.9%
-
-  Pittsburgh Pirates @ Milwaukee Brewers
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
-
-  San Diego Padres @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: San Diego Padres
-      - Stats vs LHP: wRC+: 96.0, K%: 18.5%
-
+Potential streaming options for the week starting 2026-08-05:
 
 Wednesday:
-  Toronto Blue Jays @ Houston Astros
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 97.7, K%: 21.2%
+  Athletics @ Cincinnati Reds
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Cincinnati Reds
+      - Stats vs LHP: wRC+: 78.7, K%: 23.0%
 
   Minnesota Twins @ Kansas City Royals
     • Dean Kremer (Minnesota Twins, R)
@@ -35,6 +13,11 @@ Wednesday:
 
 
 Thursday:
+  Pittsburgh Pirates @ Milwaukee Brewers
+    • Dustin May (Milwaukee Brewers, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 84.3, K%: 23.0%
+
   Chicago White Sox @ Boston Red Sox
     • Luis Castillo (Chicago White Sox, R)
       - Opponent: Boston Red Sox
@@ -44,5 +27,19 @@ Thursday:
     • Michael Wacha (Kansas City Royals, R)
       - Opponent: Minnesota Twins
       - Stats vs RHP: wRC+: 97.0, K%: 22.5%
+
+
+Friday:
+  Cleveland Guardians @ Chicago White Sox
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Chicago White Sox
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
+
+
+Saturday:
+  Cincinnati Reds @ Washington Nationals
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 98.7, K%: 21.5%
 
 
