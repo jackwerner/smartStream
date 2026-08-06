@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-08-05:
-
-Wednesday:
-  Athletics @ Cincinnati Reds
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Cincinnati Reds
-      - Stats vs LHP: wRC+: 78.7, K%: 23.0%
-
-  Minnesota Twins @ Kansas City Royals
-    • Dean Kremer (Minnesota Twins, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 96.9, K%: 17.4%
-
+Potential streaming options for the week starting 2026-08-06:
 
 Thursday:
   Pittsburgh Pirates @ Milwaukee Brewers
@@ -35,8 +23,18 @@ Friday:
       - Opponent: Chicago White Sox
       - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
+  Los Angeles Dodgers @ Arizona Diamondbacks
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
+
 
 Saturday:
+  Atlanta Braves @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Atlanta Braves
+      - Stats vs UnknownHP: wRC+: 101.4, K%: 22.2%
+
   Cincinnati Reds @ Washington Nationals
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: Washington Nationals
