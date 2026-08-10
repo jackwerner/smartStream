@@ -1,24 +1,35 @@
-Potential streaming options for the week starting 2026-08-09:
+Potential streaming options for the week starting 2026-08-10:
 
-Sunday:
-  Cincinnati Reds @ Washington Nationals
-    • Brad Lord (Washington Nationals, R)
+Monday:
+  Baltimore Orioles @ Minnesota Twins
+    • Dean Kremer (Minnesota Twins, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 99.7, K%: 24.0%
+
+  Tampa Bay Rays @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Tampa Bay Rays
+      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
+
+
+Tuesday:
+  Boston Red Sox @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Boston Red Sox
+      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
+
+
+Wednesday:
+  Cincinnati Reds @ Chicago White Sox
+    • Luis Castillo (Chicago White Sox, R)
       - Opponent: Cincinnati Reds
       - Stats vs RHP: wRC+: 96.6, K%: 23.4%
 
-  New York Mets @ Pittsburgh Pirates
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs LHP: wRC+: 76.1, K%: 25.8%
 
-  Atlanta Braves @ New York Yankees
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
-
-  Los Angeles Dodgers @ Arizona Diamondbacks
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Los Angeles Dodgers
-      - Stats vs LHP: wRC+: 111.5, K%: 22.1%
+Thursday:
+  Cleveland Guardians @ Detroit Tigers
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Detroit Tigers
+      - Stats vs LHP: wRC+: 114.0, K%: 22.3%
 
 
