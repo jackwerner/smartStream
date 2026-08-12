@@ -1,17 +1,15 @@
-Potential streaming options for the week starting 2026-08-11:
-
-Tuesday:
-  Boston Red Sox @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Boston Red Sox
-      - Stats vs RHP: wRC+: 103.0, K%: 22.8%
-
+Potential streaming options for the week starting 2026-08-12:
 
 Wednesday:
   Cincinnati Reds @ Chicago White Sox
     • Luis Castillo (Chicago White Sox, R)
       - Opponent: Cincinnati Reds
       - Stats vs RHP: wRC+: 96.6, K%: 23.4%
+
+  Kansas City Royals @ Los Angeles Dodgers
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Kansas City Royals
+      - Stats vs LHP: wRC+: 80.2, K%: 20.9%
 
 
 Thursday:
