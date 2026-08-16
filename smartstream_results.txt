@@ -1,24 +1,4 @@
-Potential streaming options for the week starting 2026-08-15:
-
-Saturday:
-  Washington Nationals @ New York Mets
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 78.1, K%: 25.3%
-
-  Boston Red Sox @ Pittsburgh Pirates
-    • Jared Jones (Pittsburgh Pirates, Unknown)
-      - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 103.0, K%: 22.8%
-
-  Arizona Diamondbacks @ Atlanta Braves
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Atlanta Braves
-      - Stats vs LHP: wRC+: 99.1, K%: 21.9%
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs RHP: wRC+: 110.3, K%: 22.1%
-
+Potential streaming options for the week starting 2026-08-16:
 
 Sunday:
   New York Yankees @ Toronto Blue Jays
@@ -35,5 +15,12 @@ Sunday:
     • Jacob Lopez (Athletics, L)
       - Opponent: Texas Rangers
       - Stats vs LHP: wRC+: 83.3, K%: 23.6%
+
+
+Wednesday:
+  San Francisco Giants @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: San Francisco Giants
+      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
 
 
