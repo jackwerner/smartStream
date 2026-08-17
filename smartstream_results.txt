@@ -1,20 +1,22 @@
-Potential streaming options for the week starting 2026-08-16:
+Potential streaming options for the week starting 2026-08-17:
 
-Sunday:
-  New York Yankees @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+Monday:
+  Baltimore Orioles @ Tampa Bay Rays
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
+      - Opponent: Baltimore Orioles
+      - Stats vs UnknownHP: wRC+: 99.7, K%: 24.0%
 
-  St. Louis Cardinals @ Chicago Cubs
-    • Edward Cabrera (Chicago Cubs, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+  Athletics @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Athletics
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
 
-  Texas Rangers @ Athletics
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Texas Rangers
-      - Stats vs LHP: wRC+: 83.3, K%: 23.6%
+
+Tuesday:
+  Los Angeles Dodgers @ Colorado Rockies
+    • Eric Lauer (Los Angeles Dodgers, L)
+      - Opponent: Colorado Rockies
+      - Stats vs LHP: wRC+: 75.2, K%: 24.5%
 
 
 Wednesday:
@@ -22,5 +24,32 @@ Wednesday:
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: San Francisco Giants
       - Stats vs LHP: wRC+: 77.6, K%: 24.7%
+
+  St. Louis Cardinals @ Cincinnati Reds
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
+
+  Seattle Mariners @ Milwaukee Brewers
+    • Dustin May (Milwaukee Brewers, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
+
+  Los Angeles Dodgers @ Colorado Rockies
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+
+
+Thursday:
+  New York Yankees @ Baltimore Orioles
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Baltimore Orioles
+      - Stats vs UnknownHP: wRC+: 99.7, K%: 24.0%
+
+  Los Angeles Angels @ Houston Astros
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
 
 
