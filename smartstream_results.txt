@@ -1,41 +1,48 @@
-Potential streaming options for the week starting 2026-08-19:
+Potential streaming options for the week starting 2026-08-21:
 
-Wednesday:
-  San Francisco Giants @ Cleveland Guardians
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: San Francisco Giants
-      - Stats vs LHP: wRC+: 77.6, K%: 24.7%
-
-  St. Louis Cardinals @ Cincinnati Reds
-    • Chase Burns (Cincinnati Reds, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 96.0, K%: 21.6%
-
-  Seattle Mariners @ Milwaukee Brewers
-    • Dustin May (Milwaukee Brewers, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
-
-  Los Angeles Dodgers @ Colorado Rockies
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
-
-
-Thursday:
-  Atlanta Braves @ Chicago White Sox
-    • Grant Holmes (Atlanta Braves, R)
+Friday:
+  New York Mets @ Chicago White Sox
+    • Sean Manaea (New York Mets, L)
       - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 86.9, K%: 22.7%
+      - Stats vs LHP: wRC+: 92.9, K%: 23.0%
 
-  New York Yankees @ Baltimore Orioles
-    • Gerrit Cole (New York Yankees, Unknown)
+  Cincinnati Reds @ Arizona Diamondbacks
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Cincinnati Reds
+      - Stats vs LHP: wRC+: 78.7, K%: 23.0%
+
+
+Saturday:
+  Toronto Blue Jays @ New York Yankees
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 118.1, K%: 23.4%
+
+  Atlanta Braves @ Milwaukee Brewers
+    • Logan Henderson (Milwaukee Brewers, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+
+  Tampa Bay Rays @ Baltimore Orioles
+    • Shane McClanahan (Tampa Bay Rays, Unknown)
       - Opponent: Baltimore Orioles
       - Stats vs UnknownHP: wRC+: 99.7, K%: 24.0%
 
-  Los Angeles Angels @ Houston Astros
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
+  Detroit Tigers @ Kansas City Royals
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 98.3, K%: 24.5%
+
+
+Monday:
+  Cleveland Guardians @ Los Angeles Angels
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Los Angeles Angels
+      - Stats vs LHP: wRC+: 91.5, K%: 27.0%
+
+  Cincinnati Reds @ San Francisco Giants
+    • Chase Burns (Cincinnati Reds, R)
+      - Opponent: San Francisco Giants
+      - Stats vs RHP: wRC+: 104.2, K%: 22.0%
 
 
