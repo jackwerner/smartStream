@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-08-23:
+Potential streaming options for the week starting 2026-08-24:
 
 Monday:
   Cleveland Guardians @ Los Angeles Angels
@@ -10,5 +10,29 @@ Monday:
     • Chase Burns (Cincinnati Reds, R)
       - Opponent: San Francisco Giants
       - Stats vs RHP: wRC+: 104.2, K%: 22.0%
+
+
+Wednesday:
+  Cleveland Guardians @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Cleveland Guardians
+      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+
+  Los Angeles Dodgers @ Atlanta Braves
+    • Roki Sasaki (Los Angeles Dodgers, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+
+
+Thursday:
+  Colorado Rockies @ Washington Nationals
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+
+  Houston Astros @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Houston Astros
+      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
 
 
