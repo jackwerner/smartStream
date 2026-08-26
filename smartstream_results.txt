@@ -1,26 +1,33 @@
-Potential streaming options for the week starting 2026-08-25:
+Potential streaming options for the week starting 2026-08-26:
 
 Wednesday:
   Cleveland Guardians @ Los Angeles Angels
     • Grayson Rodriguez (Los Angeles Angels, Unknown)
       - Opponent: Cleveland Guardians
-      - Stats vs UnknownHP: wRC+: 89.7, K%: 22.1%
+      - Stats vs UnknownHP: wRC+: 88.9, K%: 22.1%
 
   Los Angeles Dodgers @ Atlanta Braves
     • Roki Sasaki (Los Angeles Dodgers, R)
       - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.4, K%: 22.2%
+      - Stats vs RHP: wRC+: 101.8, K%: 22.2%
 
 
 Thursday:
   Colorado Rockies @ Washington Nationals
     • Jake Irvin (Washington Nationals, R)
       - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 74.3, K%: 26.4%
+      - Stats vs RHP: wRC+: 75.1, K%: 26.4%
 
   Houston Astros @ New York Yankees
     • Gerrit Cole (New York Yankees, Unknown)
       - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 97.7, K%: 21.2%
+      - Stats vs UnknownHP: wRC+: 97.8, K%: 21.2%
+
+
+Friday:
+  Seattle Mariners @ Toronto Blue Jays
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Seattle Mariners
+      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
 
 
