@@ -1,22 +1,10 @@
-Potential streaming options for the week starting 2026-08-26:
-
-Wednesday:
-  Cleveland Guardians @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Cleveland Guardians
-      - Stats vs UnknownHP: wRC+: 88.9, K%: 22.1%
-
-  Los Angeles Dodgers @ Atlanta Braves
-    • Roki Sasaki (Los Angeles Dodgers, R)
-      - Opponent: Atlanta Braves
-      - Stats vs RHP: wRC+: 101.8, K%: 22.2%
-
+Potential streaming options for the week starting 2026-08-27:
 
 Thursday:
   Colorado Rockies @ Washington Nationals
     • Jake Irvin (Washington Nationals, R)
       - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 75.1, K%: 26.4%
+      - Stats vs RHP: wRC+: 75.2, K%: 26.4%
 
   Houston Astros @ New York Yankees
     • Gerrit Cole (New York Yankees, Unknown)
@@ -25,9 +13,39 @@ Thursday:
 
 
 Friday:
+  Kansas City Royals @ Cleveland Guardians
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 88.9, K%: 22.1%
+
   Seattle Mariners @ Toronto Blue Jays
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: Seattle Mariners
       - Stats vs RHP: wRC+: 114.5, K%: 22.7%
+
+  Texas Rangers @ Milwaukee Brewers
+    • Logan Henderson (Milwaukee Brewers, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.8, K%: 21.3%
+
+  Chicago White Sox @ Minnesota Twins
+    • Luis Castillo (Chicago White Sox, R)
+      - Opponent: Minnesota Twins
+      - Stats vs RHP: wRC+: 97.8, K%: 22.5%
+    • Dean Kremer (Minnesota Twins, R)
+      - Opponent: Chicago White Sox
+      - Stats vs RHP: wRC+: 87.4, K%: 22.7%
+
+  Pittsburgh Pirates @ St. Louis Cardinals
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: St. Louis Cardinals
+      - Stats vs UnknownHP: wRC+: 95.5, K%: 21.6%
+
+
+Sunday:
+  Kansas City Royals @ Cleveland Guardians
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Kansas City Royals
+      - Stats vs LHP: wRC+: 80.6, K%: 20.9%
 
 
