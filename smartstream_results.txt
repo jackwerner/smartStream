@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-08-27:
-
-Thursday:
-  Colorado Rockies @ Washington Nationals
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 75.2, K%: 26.4%
-
-  Houston Astros @ New York Yankees
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Houston Astros
-      - Stats vs UnknownHP: wRC+: 97.8, K%: 21.2%
-
+Potential streaming options for the week starting 2026-08-28:
 
 Friday:
   Kansas City Royals @ Cleveland Guardians
@@ -22,6 +10,11 @@ Friday:
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: Seattle Mariners
       - Stats vs RHP: wRC+: 114.5, K%: 22.7%
+
+  Colorado Rockies @ Atlanta Braves
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Colorado Rockies
+      - Stats vs RHP: wRC+: 75.2, K%: 26.4%
 
   Texas Rangers @ Milwaukee Brewers
     • Logan Henderson (Milwaukee Brewers, R)
@@ -41,11 +34,23 @@ Friday:
       - Opponent: St. Louis Cardinals
       - Stats vs UnknownHP: wRC+: 95.5, K%: 21.6%
 
+  Baltimore Orioles @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Baltimore Orioles
+      - Stats vs LHP: wRC+: 87.1, K%: 24.6%
+
 
 Sunday:
   Kansas City Royals @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 80.6, K%: 20.9%
+      - Stats vs LHP: wRC+: 80.7, K%: 20.9%
+
+
+Tuesday:
+  New York Mets @ Tampa Bay Rays
+    • Sean Manaea (New York Mets, L)
+      - Opponent: Tampa Bay Rays
+      - Stats vs LHP: wRC+: 85.2, K%: 24.5%
 
 
