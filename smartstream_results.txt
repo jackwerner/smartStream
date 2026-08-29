@@ -1,56 +1,21 @@
-Potential streaming options for the week starting 2026-08-28:
-
-Friday:
-  Kansas City Royals @ Cleveland Guardians
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 88.9, K%: 22.1%
-
-  Seattle Mariners @ Toronto Blue Jays
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Seattle Mariners
-      - Stats vs RHP: wRC+: 114.5, K%: 22.7%
-
-  Colorado Rockies @ Atlanta Braves
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Colorado Rockies
-      - Stats vs RHP: wRC+: 75.2, K%: 26.4%
-
-  Texas Rangers @ Milwaukee Brewers
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.8, K%: 21.3%
-
-  Chicago White Sox @ Minnesota Twins
-    • Luis Castillo (Chicago White Sox, R)
-      - Opponent: Minnesota Twins
-      - Stats vs RHP: wRC+: 97.8, K%: 22.5%
-    • Dean Kremer (Minnesota Twins, R)
-      - Opponent: Chicago White Sox
-      - Stats vs RHP: wRC+: 87.4, K%: 22.7%
-
-  Pittsburgh Pirates @ St. Louis Cardinals
-    • Jared Jones (Pittsburgh Pirates, Unknown)
-      - Opponent: St. Louis Cardinals
-      - Stats vs UnknownHP: wRC+: 95.5, K%: 21.6%
-
-  Baltimore Orioles @ Athletics
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 87.1, K%: 24.6%
-
+Potential streaming options for the week starting 2026-08-29:
 
 Sunday:
   Kansas City Royals @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 80.7, K%: 20.9%
+      - Stats vs LHP: wRC+: 80.6, K%: 20.9%
+
+  Texas Rangers @ Milwaukee Brewers
+    • Dustin May (Milwaukee Brewers, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.8, K%: 21.3%
 
 
 Tuesday:
   New York Mets @ Tampa Bay Rays
     • Sean Manaea (New York Mets, L)
       - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 85.2, K%: 24.5%
+      - Stats vs LHP: wRC+: 85.1, K%: 24.5%
 
 
