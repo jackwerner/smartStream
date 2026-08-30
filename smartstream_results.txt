@@ -1,10 +1,10 @@
-Potential streaming options for the week starting 2026-08-29:
+Potential streaming options for the week starting 2026-08-30:
 
 Sunday:
   Kansas City Royals @ Cleveland Guardians
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Kansas City Royals
-      - Stats vs LHP: wRC+: 80.6, K%: 20.9%
+      - Stats vs LHP: wRC+: 80.7, K%: 20.9%
 
   Texas Rangers @ Milwaukee Brewers
     • Dustin May (Milwaukee Brewers, R)
@@ -16,6 +16,28 @@ Tuesday:
   New York Mets @ Tampa Bay Rays
     • Sean Manaea (New York Mets, L)
       - Opponent: Tampa Bay Rays
-      - Stats vs LHP: wRC+: 85.1, K%: 24.5%
+      - Stats vs LHP: wRC+: 85.0, K%: 24.5%
+
+  Atlanta Braves @ Washington Nationals
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Atlanta Braves
+      - Stats vs RHP: wRC+: 101.9, K%: 22.2%
+
+
+Wednesday:
+  Atlanta Braves @ Washington Nationals
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Washington Nationals
+      - Stats vs RHP: wRC+: 96.9, K%: 21.5%
+
+  Toronto Blue Jays @ Cleveland Guardians
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Cleveland Guardians
+      - Stats vs RHP: wRC+: 88.9, K%: 22.1%
+
+  Detroit Tigers @ Minnesota Twins
+    • Dean Kremer (Minnesota Twins, R)
+      - Opponent: Detroit Tigers
+      - Stats vs RHP: wRC+: 97.5, K%: 24.5%
 
 
