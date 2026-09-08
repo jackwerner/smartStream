@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-09-07:
-
-Monday:
-  Los Angeles Angels @ Boston Red Sox
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Boston Red Sox
-      - Stats vs UnknownHP: wRC+: 104.1, K%: 22.8%
-
-  Toronto Blue Jays @ Athletics
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Athletics
-      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
-
+Potential streaming options for the week starting 2026-09-08:
 
 Tuesday:
   Minnesota Twins @ Detroit Tigers
@@ -24,6 +12,9 @@ Tuesday:
       - Stats vs LHP: wRC+: 82.6, K%: 20.9%
 
   Arizona Diamondbacks @ Kansas City Royals
+    • Corbin Burnes (Arizona Diamondbacks, R)
+      - Opponent: Kansas City Royals
+      - Stats vs RHP: wRC+: 97.3, K%: 17.4%
     • Michael Wacha (Kansas City Royals, R)
       - Opponent: Arizona Diamondbacks
       - Stats vs RHP: wRC+: 110.8, K%: 22.1%
