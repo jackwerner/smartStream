@@ -1,24 +1,4 @@
-Potential streaming options for the week starting 2026-09-08:
-
-Tuesday:
-  Minnesota Twins @ Detroit Tigers
-    • Dean Kremer (Minnesota Twins, R)
-      - Opponent: Detroit Tigers
-      - Stats vs RHP: wRC+: 97.7, K%: 24.5%
-
-  New York Mets @ Miami Marlins
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Miami Marlins
-      - Stats vs LHP: wRC+: 82.6, K%: 20.9%
-
-  Arizona Diamondbacks @ Kansas City Royals
-    • Corbin Burnes (Arizona Diamondbacks, R)
-      - Opponent: Kansas City Royals
-      - Stats vs RHP: wRC+: 97.3, K%: 17.4%
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs RHP: wRC+: 110.8, K%: 22.1%
-
+Potential streaming options for the week starting 2026-09-09:
 
 Thursday:
   Pittsburgh Pirates @ Chicago White Sox
@@ -31,6 +11,13 @@ Friday:
   Cleveland Guardians @ Minnesota Twins
     • Parker Messick (Cleveland Guardians, L)
       - Opponent: Minnesota Twins
-      - Stats vs LHP: wRC+: 97.4, K%: 23.1%
+      - Stats vs LHP: wRC+: 97.3, K%: 23.1%
+
+
+Sunday:
+  Seattle Mariners @ Athletics
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Seattle Mariners
+      - Stats vs LHP: wRC+: 108.1, K%: 24.8%
 
 
