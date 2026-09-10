@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-09-09:
+Potential streaming options for the week starting 2026-09-10:
 
 Thursday:
   Pittsburgh Pirates @ Chicago White Sox
@@ -15,6 +15,14 @@ Friday:
 
 
 Sunday:
+  Los Angeles Angels @ Washington Nationals
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Washington Nationals
+      - Stats vs UnknownHP: wRC+: 96.8, K%: 21.5%
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 93.3, K%: 27.1%
+
   Seattle Mariners @ Athletics
     • Jacob Lopez (Athletics, L)
       - Opponent: Seattle Mariners
