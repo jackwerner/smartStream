@@ -1,13 +1,10 @@
-Potential streaming options for the week starting 2026-09-12:
+Potential streaming options for the week starting 2026-09-13:
 
 Sunday:
   Los Angeles Angels @ Washington Nationals
     • Grayson Rodriguez (Los Angeles Angels, Unknown)
       - Opponent: Washington Nationals
       - Stats vs UnknownHP: wRC+: 96.9, K%: 21.5%
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 93.3, K%: 27.1%
 
   Baltimore Orioles @ Toronto Blue Jays
     • Dylan Cease (Toronto Blue Jays, R)
@@ -17,12 +14,12 @@ Sunday:
   Seattle Mariners @ Athletics
     • Jacob Lopez (Athletics, L)
       - Opponent: Seattle Mariners
-      - Stats vs LHP: wRC+: 108.1, K%: 24.8%
+      - Stats vs LHP: wRC+: 108.3, K%: 24.8%
 
   Texas Rangers @ Arizona Diamondbacks
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: Texas Rangers
-      - Stats vs LHP: wRC+: 83.8, K%: 23.6%
+      - Stats vs LHP: wRC+: 83.7, K%: 23.6%
 
 
 Tuesday:
