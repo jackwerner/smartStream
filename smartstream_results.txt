@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-09-15:
-
-Tuesday:
-  Baltimore Orioles @ New York Mets
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Baltimore Orioles
-      - Stats vs LHP: wRC+: 87.0, K%: 24.6%
-
-  Kansas City Royals @ Houston Astros
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 98.1, K%: 21.2%
-
+Potential streaming options for the week starting 2026-09-16:
 
 Wednesday:
   Chicago White Sox @ Cleveland Guardians
@@ -29,5 +17,17 @@ Thursday:
     • Dustin May (Milwaukee Brewers, R)
       - Opponent: Pittsburgh Pirates
       - Stats vs RHP: wRC+: 83.0, K%: 23.0%
+
+
+Friday:
+  Toronto Blue Jays @ Texas Rangers
+    • Dylan Cease (Toronto Blue Jays, R)
+      - Opponent: Texas Rangers
+      - Stats vs RHP: wRC+: 95.7, K%: 21.3%
+
+  New York Yankees @ Arizona Diamondbacks
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Arizona Diamondbacks
+      - Stats vs UnknownHP: wRC+: 110.7, K%: 22.1%
 
 
