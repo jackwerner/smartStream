@@ -1,33 +1,61 @@
-Potential streaming options for the week starting 2026-09-16:
-
-Wednesday:
-  Chicago White Sox @ Cleveland Guardians
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Chicago White Sox
-      - Stats vs LHP: wRC+: 93.3, K%: 23.0%
-
-  Milwaukee Brewers @ Pittsburgh Pirates
-    • Logan Henderson (Milwaukee Brewers, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 83.0, K%: 23.0%
-
-
-Thursday:
-  Milwaukee Brewers @ Pittsburgh Pirates
-    • Dustin May (Milwaukee Brewers, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 83.0, K%: 23.0%
-
+Potential streaming options for the week starting 2026-09-17:
 
 Friday:
+  Milwaukee Brewers @ Baltimore Orioles
+    • Dustin May (Milwaukee Brewers, R)
+      - Opponent: Baltimore Orioles
+      - Stats vs RHP: wRC+: 100.1, K%: 24.0%
+
   Toronto Blue Jays @ Texas Rangers
     • Dylan Cease (Toronto Blue Jays, R)
       - Opponent: Texas Rangers
       - Stats vs RHP: wRC+: 95.7, K%: 21.3%
 
+  Minnesota Twins @ Los Angeles Angels
+    • Grayson Rodriguez (Los Angeles Angels, Unknown)
+      - Opponent: Minnesota Twins
+      - Stats vs UnknownHP: wRC+: 97.5, K%: 22.5%
+
   New York Yankees @ Arizona Diamondbacks
     • Gerrit Cole (New York Yankees, Unknown)
       - Opponent: Arizona Diamondbacks
       - Stats vs UnknownHP: wRC+: 110.7, K%: 22.1%
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: New York Yankees
+      - Stats vs LHP: wRC+: 119.5, K%: 23.6%
+
+
+Saturday:
+  Athletics @ Cleveland Guardians
+    • Jacob Lopez (Athletics, L)
+      - Opponent: Cleveland Guardians
+      - Stats vs LHP: wRC+: 80.1, K%: 23.9%
+
+  Atlanta Braves @ Houston Astros
+    • Grant Holmes (Atlanta Braves, R)
+      - Opponent: Houston Astros
+      - Stats vs RHP: wRC+: 98.1, K%: 21.2%
+
+
+Sunday:
+  Kansas City Royals @ Pittsburgh Pirates
+    • Michael Wacha (Kansas City Royals, R)
+      - Opponent: Pittsburgh Pirates
+      - Stats vs RHP: wRC+: 83.0, K%: 23.0%
+
+  Washington Nationals @ St. Louis Cardinals
+    • Jake Irvin (Washington Nationals, R)
+      - Opponent: St. Louis Cardinals
+      - Stats vs RHP: wRC+: 95.8, K%: 21.6%
+
+  Minnesota Twins @ Los Angeles Angels
+    • Dean Kremer (Minnesota Twins, R)
+      - Opponent: Los Angeles Angels
+      - Stats vs RHP: wRC+: 93.4, K%: 27.1%
+
+  New York Yankees @ Arizona Diamondbacks
+    • Corbin Burnes (Arizona Diamondbacks, R)
+      - Opponent: New York Yankees
+      - Stats vs RHP: wRC+: 116.9, K%: 23.4%
 
 
