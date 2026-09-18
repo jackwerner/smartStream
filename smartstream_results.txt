@@ -1,4 +1,4 @@
-Potential streaming options for the week starting 2026-09-17:
+Potential streaming options for the week starting 2026-09-18:
 
 Friday:
   Milwaukee Brewers @ Baltimore Orioles
@@ -57,5 +57,12 @@ Sunday:
     • Corbin Burnes (Arizona Diamondbacks, R)
       - Opponent: New York Yankees
       - Stats vs RHP: wRC+: 116.9, K%: 23.4%
+
+
+Tuesday:
+  New York Mets @ Texas Rangers
+    • Sean Manaea (New York Mets, L)
+      - Opponent: Texas Rangers
+      - Stats vs LHP: wRC+: 83.8, K%: 23.6%
 
 
