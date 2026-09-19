@@ -1,29 +1,4 @@
-Potential streaming options for the week starting 2026-09-18:
-
-Friday:
-  Milwaukee Brewers @ Baltimore Orioles
-    • Dustin May (Milwaukee Brewers, R)
-      - Opponent: Baltimore Orioles
-      - Stats vs RHP: wRC+: 100.1, K%: 24.0%
-
-  Toronto Blue Jays @ Texas Rangers
-    • Dylan Cease (Toronto Blue Jays, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.7, K%: 21.3%
-
-  Minnesota Twins @ Los Angeles Angels
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Minnesota Twins
-      - Stats vs UnknownHP: wRC+: 97.5, K%: 22.5%
-
-  New York Yankees @ Arizona Diamondbacks
-    • Gerrit Cole (New York Yankees, Unknown)
-      - Opponent: Arizona Diamondbacks
-      - Stats vs UnknownHP: wRC+: 110.7, K%: 22.1%
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: New York Yankees
-      - Stats vs LHP: wRC+: 119.5, K%: 23.6%
-
+Potential streaming options for the week starting 2026-09-19:
 
 Saturday:
   Athletics @ Cleveland Guardians
@@ -41,7 +16,7 @@ Sunday:
   Kansas City Royals @ Pittsburgh Pirates
     • Michael Wacha (Kansas City Royals, R)
       - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 83.0, K%: 23.0%
+      - Stats vs RHP: wRC+: 82.9, K%: 23.0%
 
   Washington Nationals @ St. Louis Cardinals
     • Jake Irvin (Washington Nationals, R)
