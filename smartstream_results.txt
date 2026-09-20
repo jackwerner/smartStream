@@ -1,16 +1,4 @@
-Potential streaming options for the week starting 2026-09-19:
-
-Saturday:
-  Athletics @ Cleveland Guardians
-    • Jacob Lopez (Athletics, L)
-      - Opponent: Cleveland Guardians
-      - Stats vs LHP: wRC+: 80.1, K%: 23.9%
-
-  Atlanta Braves @ Houston Astros
-    • Grant Holmes (Atlanta Braves, R)
-      - Opponent: Houston Astros
-      - Stats vs RHP: wRC+: 98.1, K%: 21.2%
-
+Potential streaming options for the week starting 2026-09-20:
 
 Sunday:
   Kansas City Royals @ Pittsburgh Pirates
@@ -35,6 +23,11 @@ Sunday:
 
 
 Tuesday:
+  St. Louis Cardinals @ Pittsburgh Pirates
+    • Jared Jones (Pittsburgh Pirates, Unknown)
+      - Opponent: St. Louis Cardinals
+      - Stats vs UnknownHP: wRC+: 95.8, K%: 21.6%
+
   New York Mets @ Texas Rangers
     • Sean Manaea (New York Mets, L)
       - Opponent: Texas Rangers
