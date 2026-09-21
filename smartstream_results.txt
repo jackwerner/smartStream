@@ -1,26 +1,4 @@
-Potential streaming options for the week starting 2026-09-20:
-
-Sunday:
-  Kansas City Royals @ Pittsburgh Pirates
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Pittsburgh Pirates
-      - Stats vs RHP: wRC+: 82.9, K%: 23.0%
-
-  Washington Nationals @ St. Louis Cardinals
-    • Jake Irvin (Washington Nationals, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 95.8, K%: 21.6%
-
-  Minnesota Twins @ Los Angeles Angels
-    • Dean Kremer (Minnesota Twins, R)
-      - Opponent: Los Angeles Angels
-      - Stats vs RHP: wRC+: 93.4, K%: 27.1%
-
-  New York Yankees @ Arizona Diamondbacks
-    • Corbin Burnes (Arizona Diamondbacks, R)
-      - Opponent: New York Yankees
-      - Stats vs RHP: wRC+: 116.9, K%: 23.4%
-
+Potential streaming options for the week starting 2026-09-21:
 
 Tuesday:
   St. Louis Cardinals @ Pittsburgh Pirates
@@ -28,9 +6,28 @@ Tuesday:
       - Opponent: St. Louis Cardinals
       - Stats vs UnknownHP: wRC+: 95.8, K%: 21.6%
 
+  Cleveland Guardians @ Boston Red Sox
+    • Parker Messick (Cleveland Guardians, L)
+      - Opponent: Boston Red Sox
+      - Stats vs LHP: wRC+: 103.8, K%: 23.1%
+
   New York Mets @ Texas Rangers
     • Sean Manaea (New York Mets, L)
       - Opponent: Texas Rangers
       - Stats vs LHP: wRC+: 83.8, K%: 23.6%
+
+
+Wednesday:
+  Tampa Bay Rays @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Tampa Bay Rays
+      - Stats vs UnknownHP: wRC+: 104.4, K%: 22.5%
+
+
+Thursday:
+  Arizona Diamondbacks @ Colorado Rockies
+    • Eduardo Rodriguez (Arizona Diamondbacks, L)
+      - Opponent: Colorado Rockies
+      - Stats vs LHP: wRC+: 76.2, K%: 24.5%
 
 
