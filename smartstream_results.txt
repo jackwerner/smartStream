@@ -1,33 +1,16 @@
-Potential streaming options for the week starting 2026-09-22:
-
-Tuesday:
-  St. Louis Cardinals @ Pittsburgh Pirates
-    • Jared Jones (Pittsburgh Pirates, Unknown)
-      - Opponent: St. Louis Cardinals
-      - Stats vs UnknownHP: wRC+: 95.8, K%: 21.6%
-
-  Cleveland Guardians @ Boston Red Sox
-    • Parker Messick (Cleveland Guardians, L)
-      - Opponent: Boston Red Sox
-      - Stats vs LHP: wRC+: 103.8, K%: 23.1%
-
-  New York Mets @ Texas Rangers
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Texas Rangers
-      - Stats vs LHP: wRC+: 83.8, K%: 23.6%
-
+Potential streaming options for the week starting 2026-09-23:
 
 Wednesday:
   Tampa Bay Rays @ New York Yankees
     • Gerrit Cole (New York Yankees, Unknown)
       - Opponent: Tampa Bay Rays
-      - Stats vs UnknownHP: wRC+: 104.4, K%: 22.5%
+      - Stats vs UnknownHP: wRC+: 104.2, K%: 22.5%
 
 
 Thursday:
   Arizona Diamondbacks @ Colorado Rockies
     • Eduardo Rodriguez (Arizona Diamondbacks, L)
       - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 76.2, K%: 24.5%
+      - Stats vs LHP: wRC+: 76.3, K%: 24.5%
 
 
