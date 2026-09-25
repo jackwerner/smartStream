@@ -1,27 +1,15 @@
-Potential streaming options for the week starting 2026-09-24:
-
-Thursday:
-  Arizona Diamondbacks @ Colorado Rockies
-    • Eduardo Rodriguez (Arizona Diamondbacks, L)
-      - Opponent: Colorado Rockies
-      - Stats vs LHP: wRC+: 76.3, K%: 24.5%
-
-  Los Angeles Angels @ Seattle Mariners
-    • Grayson Rodriguez (Los Angeles Angels, Unknown)
-      - Opponent: Seattle Mariners
-      - Stats vs UnknownHP: wRC+: 114.6, K%: 22.7%
-
+Potential streaming options for the week starting 2026-09-25:
 
 Saturday:
   Cleveland Guardians @ Kansas City Royals
     • Michael Wacha (Kansas City Royals, R)
       - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 88.8, K%: 22.1%
+      - Stats vs RHP: wRC+: 88.7, K%: 22.1%
 
   St. Louis Cardinals @ Milwaukee Brewers
     • Dustin May (Milwaukee Brewers, R)
       - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 95.7, K%: 21.6%
+      - Stats vs RHP: wRC+: 95.6, K%: 21.6%
 
 
 Sunday:
@@ -38,6 +26,6 @@ Sunday:
   Texas Rangers @ Minnesota Twins
     • Dean Kremer (Minnesota Twins, R)
       - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.7, K%: 21.3%
+      - Stats vs RHP: wRC+: 95.8, K%: 21.3%
 
 
