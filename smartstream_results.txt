@@ -1,31 +1,9 @@
-Potential streaming options for the week starting 2026-09-25:
+Potential streaming options for the week starting 2026-09-28:
 
-Saturday:
-  Cleveland Guardians @ Kansas City Royals
-    • Michael Wacha (Kansas City Royals, R)
-      - Opponent: Cleveland Guardians
-      - Stats vs RHP: wRC+: 88.7, K%: 22.1%
-
-  St. Louis Cardinals @ Milwaukee Brewers
-    • Dustin May (Milwaukee Brewers, R)
-      - Opponent: St. Louis Cardinals
-      - Stats vs RHP: wRC+: 95.6, K%: 21.6%
-
-
-Sunday:
-  New York Mets @ Washington Nationals
-    • Sean Manaea (New York Mets, L)
-      - Opponent: Washington Nationals
-      - Stats vs LHP: wRC+: 76.3, K%: 25.3%
-
-  Pittsburgh Pirates @ Detroit Tigers
-    • Jared Jones (Pittsburgh Pirates, Unknown)
-      - Opponent: Detroit Tigers
-      - Stats vs UnknownHP: wRC+: 97.8, K%: 24.5%
-
-  Texas Rangers @ Minnesota Twins
-    • Dean Kremer (Minnesota Twins, R)
-      - Opponent: Texas Rangers
-      - Stats vs RHP: wRC+: 95.8, K%: 21.3%
+Thursday:
+  Boston Red Sox @ New York Yankees
+    • Gerrit Cole (New York Yankees, Unknown)
+      - Opponent: Boston Red Sox
+      - Stats vs UnknownHP: wRC+: 104.5, K%: 22.8%
 
 
