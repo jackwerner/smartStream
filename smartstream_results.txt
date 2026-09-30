@@ -1,9 +1,16 @@
-Potential streaming options for the week starting 2026-09-29:
+Potential streaming options for the week starting 2026-09-30:
 
 Thursday:
   Boston Red Sox @ New York Yankees
     • Gerrit Cole (New York Yankees, Unknown)
       - Opponent: Boston Red Sox
       - Stats vs UnknownHP: wRC+: 104.5, K%: 22.8%
+
+
+Sunday:
+  SD/CHC @ Milwaukee Brewers
+    • Logan Henderson (Milwaukee Brewers, R)
+      - Opponent: SD/CHC
+      - Stats vs RHP: wRC+: 0.0, K%: 0.0%
 
 
