@@ -4,7 +4,7 @@ on:
   schedule:
     # Run at 11:00 AM Eastern Time (15:00 UTC during EST, 16:00 UTC during EDT)
     # Using 16:00 UTC to account for EDT (most of baseball season)
-    - cron: '0 16 * * *'
+    # - cron: '0 16 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
